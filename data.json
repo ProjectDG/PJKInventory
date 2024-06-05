@@ -1,0 +1,151 @@
+[
+    {
+        "class" : "Section Buttons",
+        "type" : "Wine",
+        "sections" : [
+            {
+                "category" : "Red",
+                "brands" : [
+                    {
+                        "name" : "The Critic"
+                    },
+                    {
+                        "name" : "Felino"
+                    },
+                    {
+                        "name" : "Chappellet"
+                    }
+                ]
+            },
+            {
+                "category" : "White",
+                "brands" : [
+                    {
+                        "name" : "Alexander Valley"
+                    },
+                    {
+                        "name" : "Brigantti"
+                    },
+                    {
+                        "name" : "ZD"
+                    }
+                ]
+            },
+            {
+                "category" : "Rose"
+            }
+        ]
+    },
+    {
+        "class" : "Section Buttons",
+        "type" : "Whiskey",
+        "sections" : [
+            {
+                "category" : "Irish Whiskey",
+                "brands" : [
+                    {
+                        "name" : "Jameson"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class" : "Section Buttons",
+        "type" : "Gin",
+        "sections" : [
+            {
+                "category" : "Dry?",
+                "brands" : [
+                    {
+                        "name" : "Tanqueray"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class" : "Section Buttons",
+        "type" : "Vodka",
+        "sections" : [
+            {
+                "category" : "",
+                "brands" : [
+                    {
+                        "name" : ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class" : "Section Buttons",
+        "type" : "Rum",
+        "sections" : [
+            {
+                "category" : "",
+                "brands" : [
+                    {
+                        "name" : ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class" : "Section Buttons",
+        "type" : "Tequila",
+        "sections" : [
+            {
+                "category" : "",
+                "brands" : [
+                    {
+                        "name" : ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class" : "Section Buttons",
+        "type" : "Brandy",
+        "sections" : [
+            {
+                "category" : "",
+                "brands" : [
+                    {
+                        "name" : ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class" : "Section Buttons",
+        "type" : "Cordials",
+        "sections" : [
+            {
+                "category" : "",
+                "brands" : [
+                    {
+                        "name" : ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "class" : "Section Buttons",
+        "type" : "Beer",
+        "sections" : [
+            {
+                "category" : "",
+                "brands" : [
+                    {
+                        "name" : ""
+                    }
+                ]
+            }
+        ]
+    }
+]
