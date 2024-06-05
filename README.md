@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[click here for my first project](https://projectdg.github.io/PJKInventory/)
+[click here for this project](https://projectdg.github.io/PJKInventory/)
