@@ -44,7 +44,8 @@
                 "category" : "Irish Whiskey",
                 "brands" : [
                     {
-                        "name" : "Jameson"
+                        "name" : "Jameson",
+                        "photo" : "./images/irishJameson.png"
                     }
                 ]
             }

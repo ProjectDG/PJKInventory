@@ -29,8 +29,7 @@ fetch('data.json')
 
       function createSectionButtons() {
         const buttonContainer = document.getElementById("buttonContainer");
-        let sorted = mainSections.sort();
-        sorted.forEach(x => {
+        mainSections.forEach(x => {
           console.log(x.type);
           let newButton = document.createElement("button");
           newButton.setAttribute("id", x.type);
@@ -191,6 +190,17 @@ fetch('data.json')
         createDiv("photoDiv", "info-section");
         createDiv("titleDiv", "info-section");
         createDiv("infoDiv", "info-section");
+
+
+        let photo = mainSections[1].sections[0].brands[0].photo; 
+        let test = document.createElement("img");                
+        test.setAttribute("src", photo);
+        let pDiv = document.getElementById("photoDiv");
+        pDiv.appendChild(test);
+
+
+
+        console.log(photo);
       });
 
     });

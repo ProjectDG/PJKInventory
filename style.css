@@ -74,7 +74,15 @@ body {
 }
 
 #photoDiv{
-    height: 25vh
+    height: 25vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    max-width: 12%;
+    margin: auto;
 }
 
 #titleDiv{
