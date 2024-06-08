@@ -34,7 +34,7 @@ body {
     margin: auto;
     padding: 2vh 0%;
     width: 90vw;
-    height: fit-content;
+    max-height: 80vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -50,3 +50,37 @@ body {
     padding: 2.25vh 0%;
 }
 
+.section-buttons{
+    width: 25vw;
+    height: 20vh;
+    margin: 1.5vh;
+    font-size: 3.5vh;
+}
+
+#backButtonDiv{
+    display: flex;
+}
+
+.back-buttons{
+    margin: 2vh;
+    width: 40vw;
+}
+
+.info-section{
+    border: 2px solid red;
+    padding: 2vh;
+    margin: auto;
+    width: 85%;
+}
+
+#photoDiv{
+    height: 25vh
+}
+
+#titleDiv{
+    height: 3vh;
+}
+
+#infoDiv{
+    height: 35vh;
+}

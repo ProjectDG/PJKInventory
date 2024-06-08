@@ -29,7 +29,8 @@ fetch('data.json')
 
       function createSectionButtons() {
         const buttonContainer = document.getElementById("buttonContainer");
-        mainSections.forEach(x => {
+        let sorted = mainSections.sort();
+        sorted.forEach(x => {
           console.log(x.type);
           let newButton = document.createElement("button");
           newButton.setAttribute("id", x.type);
@@ -77,15 +78,23 @@ fetch('data.json')
       }
 
       function createBackButton(id, text, onClickFunction) {
+        const backButtonDiv = document.getElementById("backButtonDiv");
         let backButton = document.getElementById(id);
         if (!backButton) {
           backButton = document.createElement("button");
           backButton.setAttribute("id", id);
-          backButton.setAttribute("class", "all-buttons");
+          backButton.setAttribute("class", "all-buttons back-buttons");
           backButton.innerText = text;
           backButton.addEventListener("click", onClickFunction);
-          const main = document.getElementById("main");
-          main.appendChild(backButton);
+          if (!backButtonDiv) {
+            const main = document.getElementById("main");
+            const newBackButtonDiv = document.createElement("div");
+            newBackButtonDiv.setAttribute("id", "backButtonDiv");
+            main.appendChild(newBackButtonDiv);
+            newBackButtonDiv.appendChild(backButton);
+          } else {
+            backButtonDiv.appendChild(backButton);
+          }
         } else {
           backButton.innerText = text;
           backButton.onclick = onClickFunction;
@@ -96,6 +105,10 @@ fetch('data.json')
         const backButton = document.getElementById(id);
         if (backButton) {
           backButton.remove();
+        }
+        const backButtonDiv = document.getElementById("backButtonDiv");
+        if (backButtonDiv && backButtonDiv.children.length === 0) {
+          backButtonDiv.remove();
         }
       }
 
@@ -142,6 +155,14 @@ fetch('data.json')
         removeBackButton("backToBrandsButton");
       }
 
+      function createDiv(id, section){
+        let buttonContainer = document.getElementById("buttonContainer");
+        let newDiv = document.createElement("div");
+        newDiv.setAttribute("id", id);
+        newDiv.setAttribute("class", section);
+        buttonContainer.appendChild(newDiv);
+      }  
+
       createContainer();
       createSectionButtons();
 
@@ -167,6 +188,9 @@ fetch('data.json')
         removeBackButton("backButton"); // Remove the back to category button
         createBackButton("mainBackButton", "Main", mainButtonFunction);
         createBackButton("backToBrandsButton", "Back To Brands", backToBrandsFunction);
+        createDiv("photoDiv", "info-section");
+        createDiv("titleDiv", "info-section");
+        createDiv("infoDiv", "info-section");
       });
 
     });
