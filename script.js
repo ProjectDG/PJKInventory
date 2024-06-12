@@ -191,16 +191,31 @@ fetch('data.json')
         createDiv("titleDiv", "info-section");
         createDiv("infoDiv", "info-section");
 
+        let photoLink = ""; 
 
-        let photo = mainSections[1].sections[0].brands[0].photo; 
-        let test = document.createElement("img");                
-        test.setAttribute("src", photo);
-        let pDiv = document.getElementById("photoDiv");
-        pDiv.appendChild(test);
+        mainSections.forEach(x => {
+          if(x.type === backToSection){
+            let sections = x.sections;
+            sections.forEach(y => {
+              if(y.category === backToCategory){
+                let brands = y.brands;
+                brands.forEach(i => {
+                  if(this.id === i.name){
+                    console.log("Description of " + i.name + ":");
+                    // console.log(this.id);
+                    photoLink = i.photo
+                  }
+                })
+              }
+            })
+          }
+        })
+        
+        let photo = document.createElement("img");                
+        photo.setAttribute("src", photoLink);
+        let photoDiv = document.getElementById("photoDiv");
+        photoDiv.appendChild(photo);
 
-
-
-        console.log(photo);
       });
 
     });

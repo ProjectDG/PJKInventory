@@ -48,6 +48,20 @@
                         "photo" : "./images/irishJameson.png"
                     }
                 ]
+            },
+            {
+                "category" : "Tennessee Whiskey",
+                "brands" : [
+                    {
+                        "name" : "Jack Daniels",
+                        "photo" : "./images/tennesseeJackDaniels.png"
+                    },
+                    {
+                        "name" : "Gentleman Jack",
+                        "photo" : "./images/tennesseeJackDanielsGentlemanJack.png"
+                    }
+                
+                ]
             }
         ]
     },
