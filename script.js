@@ -260,10 +260,12 @@ fetch('data.json')
 
       $(document).on("click", "#D", function() {
         $("#DS").toggle();
+        $("#DS").scrollIntoView(center);
       });
 
       $(document).on("click", "#T", function() {
         $("#TS").toggle();
+        $("#DS").scrollIntoView(center);
       });
 
 

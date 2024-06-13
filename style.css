@@ -5,6 +5,10 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.example::-webkit-scrollbar {
+    display: none;
+  }
+
 body {
     background-image: url("./images/newWoodBackground2.jpg");
     background-size: 100%;
@@ -94,6 +98,8 @@ img{
 
 #infoDiv{
     height: 35vh;
+    overflow: scroll;
+    overflow-x: hidden;
 }
 
 .sections{
