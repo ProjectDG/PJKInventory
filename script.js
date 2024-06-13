@@ -207,6 +207,8 @@ fetch('data.json')
                     photoLink = i.photo
                     photoTitle = i.name
 
+                    let infoArr = 0;
+                    console.log(infoArr)
                     // console.log(i.sectionNames)
                     if(i.sectionNames === null || i.sectionNames === undefined){
                       return;
@@ -216,13 +218,17 @@ fetch('data.json')
                         let sectionTitle = n;
                         let infoDiv = document.getElementById("infoDiv");
                         let sectionDiv = document.createElement("div");
-                        sectionDiv.setAttribute("id", sectionTitle);
+                        sectionDiv.setAttribute("id", sectionTitle[0]);
                         sectionDiv.setAttribute("class", "sections");
                         sectionDiv.innerText = sectionTitle;
 
 
                         let sectionInfo = document.createElement("div");
-                        sectionInfo.innerText = i.sectionInfo;
+
+                        sectionInfo.innerText = i.sectionInfo[infoArr];
+                        sectionInfo.setAttribute("id", sectionTitle[0] + "S");
+                        sectionInfo.setAttribute("class", "info");
+                        infoArr = infoArr + 1;
 
 
 
@@ -250,6 +256,18 @@ fetch('data.json')
  
 
       });
+
+
+      $(document).on("click", "#D", function() {
+        $("#DS").toggle();
+      });
+
+      $(document).on("click", "#T", function() {
+        $("#TS").toggle();
+      });
+
+
+
     });
   })
   .catch(error => {

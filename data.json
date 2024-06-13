@@ -47,7 +47,10 @@
                         "name" : "Jameson",
                         "photo" : "./images/irishJameson.png",
                         "sectionNames" : ["Description", "Tasting Notes"],
-                        "sectionInfo" : ["Lorem Ipsum...", "Different Lorem Ipsum..."]
+                        "sectionInfo" : [
+                            ["Coming Soon...", "more"], 
+                            "More Coming Soon..."
+                        ]
                     }
                 ]
             },

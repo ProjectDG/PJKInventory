@@ -110,6 +110,11 @@ img{
     font-size: 100%;
 }
 
+.info{
+    display: none;
+    padding: 1vh 2vh;
+}
+
 /* @media screen and (max-width: 450px) {
 
 
