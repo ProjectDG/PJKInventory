@@ -21,14 +21,6 @@ body {
     align-items: center;
 }
 
-#title{
-    border: .25vh inset black;
-    background-color: rgb(0,0,0,0.6);
-    padding: 1vh 4vw;
-    width: 80vw;
-    text-align: center;
-}
-
 #buttonContainer{
     background-color: rgb(0,0,0,0.6);
     margin: auto;
@@ -51,10 +43,10 @@ body {
 }
 
 .section-buttons{
-    width: 25vw;
-    height: 20vh;
+    width: 33vw;
+    height: 12vh;
     margin: 1.5vh;
-    font-size: 3.5vh;
+    font-size: 2.75vh;  
 }
 
 #backButtonDiv{
@@ -64,31 +56,73 @@ body {
 .back-buttons{
     margin: 2vh;
     width: 40vw;
+    height: 10vh;
+    padding: 2%;
 }
 
 .info-section{
-    border: 2px solid red;
-    padding: 2vh;
-    margin: auto;
+    margin: 0;
     width: 85%;
 }
 
 #photoDiv{
-    height: 25vh;
-    background-color: white;
     display: flex;
     justify-content: center;
+    border: 0;
+    background-color: rgb(255, 255, 255);
+    width: 85%;
+    height: 35%;
+    margin: 0;
+    padding: 0%;
 }
 
 img{
-    max-width: 12%;
-    margin: auto;
+    margin: 5% auto 0 auto;
+    max-width: 100%;
+    max-height: 90%;
 }
 
 #titleDiv{
-    height: 3vh;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    border: .25vh inset black;
+    background-color: rgb(0,0,0,0.6);
+    padding: 1vh;
+    font-size: 100%;
 }
 
 #infoDiv{
     height: 35vh;
 }
+
+.sections{
+    height: 3vh;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    background-color: rgb(0,0,0,0.4);
+    padding: 1vh;
+    margin: 1vh;
+    font-size: 100%;
+}
+
+/* @media screen and (max-width: 450px) {
+
+
+    img{
+     max-width: 25%;
+    }
+
+    .section-buttons{
+        width: 33vw;
+        height: 12vh;
+        margin: 1.5vh;
+        font-size: 2.75vh;
+    }
+
+
+} */

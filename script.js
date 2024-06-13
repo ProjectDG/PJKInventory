@@ -191,7 +191,8 @@ fetch('data.json')
         createDiv("titleDiv", "info-section");
         createDiv("infoDiv", "info-section");
 
-        let photoLink = ""; 
+        let photoLink = "";
+        let photoTitle = ""; 
 
         mainSections.forEach(x => {
           if(x.type === backToSection){
@@ -204,6 +205,31 @@ fetch('data.json')
                     console.log("Description of " + i.name + ":");
                     // console.log(this.id);
                     photoLink = i.photo
+                    photoTitle = i.name
+
+                    // console.log(i.sectionNames)
+                    if(i.sectionNames === null || i.sectionNames === undefined){
+                      return;
+                    } else {
+                      i.sectionNames.forEach(n => {
+                        // console.log(n);
+                        let sectionTitle = n;
+                        let infoDiv = document.getElementById("infoDiv");
+                        let sectionDiv = document.createElement("div");
+                        sectionDiv.setAttribute("id", sectionTitle);
+                        sectionDiv.setAttribute("class", "sections");
+                        sectionDiv.innerText = sectionTitle;
+
+
+                        let sectionInfo = document.createElement("div");
+                        sectionInfo.innerText = i.sectionInfo;
+
+
+
+                        infoDiv.append(sectionDiv);
+                        infoDiv.append(sectionInfo);
+                        })
+                      } 
                   }
                 })
               }
@@ -216,8 +242,14 @@ fetch('data.json')
         let photoDiv = document.getElementById("photoDiv");
         photoDiv.appendChild(photo);
 
-      });
+        let title = document.createElement("h1");
+        title.setAttribute("id", "photoTitle");
+        title.innerText = photoTitle;
+        let titleDiv = document.getElementById("titleDiv");
+        titleDiv.appendChild(title);
+ 
 
+      });
     });
   })
   .catch(error => {

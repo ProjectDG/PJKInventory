@@ -7,14 +7,14 @@
                 "category" : "Red",
                 "brands" : [
                     {
+                        "name" : "Chappellet"
+                    },
+                    {
                         "name" : "The Critic"
                     },
                     {
                         "name" : "Felino"
-                    },
-                    {
-                        "name" : "Chappellet"
-                    }
+                    }  
                 ]
             },
             {
@@ -45,7 +45,9 @@
                 "brands" : [
                     {
                         "name" : "Jameson",
-                        "photo" : "./images/irishJameson.png"
+                        "photo" : "./images/irishJameson.png",
+                        "sectionNames" : ["Description", "Tasting Notes"],
+                        "sectionInfo" : ["Lorem Ipsum...", "Different Lorem Ipsum..."]
                     }
                 ]
             },
@@ -53,14 +55,15 @@
                 "category" : "Tennessee Whiskey",
                 "brands" : [
                     {
-                        "name" : "Jack Daniels",
-                        "photo" : "./images/tennesseeJackDaniels.png"
+                        "name" : "Gentleman Jack",
+                        "photo" : "./images/tennesseeJackDanielsGentlemanJack.png",
+                        "sectionNames" : null
                     },
                     {
-                        "name" : "Gentleman Jack",
-                        "photo" : "./images/tennesseeJackDanielsGentlemanJack.png"
+                        "name" : "Jack Daniels",
+                        "photo" : "./images/tennesseeJackDaniels.png",
+                        "sectionNames" : null
                     }
-                
                 ]
             }
         ]
