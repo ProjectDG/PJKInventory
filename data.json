@@ -46,10 +46,11 @@
                     {
                         "name" : "Jameson",
                         "photo" : "./images/irishJameson.png",
-                        "sectionNames" : ["Description", "Tasting Notes"],
+                        "sectionNames" : ["Description", "Tasting Notes", "Additional Info"],
                         "sectionInfo" : [
-                            ["Coming Soon...esarljk fhbgdlhjvbldfvsb dflgvbdfl kbvlidzfbvlaefb d;vbsdfbv jdszabfvjbfd snbdflkdjs djdsfkd dkjdb ddkjbdk dkdd oiu;abdfsjbv;fdjbv; aszbdvkbas  d;bv;fsbdv; abb;dfsbva; djsbv;absd;bv  a; dsbvabdesva bfds;v bfds;vb bfsv;j", "more"], 
-                            "More Coming Soon..."
+                            ["Coming Soon...", "more"], 
+                            ["More Coming Soon..."],
+                            ["yep more info"]
                         ]
                     }
                 ]

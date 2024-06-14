@@ -208,28 +208,38 @@ fetch('data.json')
                     photoTitle = i.name
 
                     let infoArr = 0;
-                    console.log(infoArr)
-                    // console.log(i.sectionNames)
+
                     if(i.sectionNames === null || i.sectionNames === undefined){
                       return;
                     } else {
                       i.sectionNames.forEach(n => {
                         // console.log(n);
                         let sectionTitle = n;
+                        let forID = sectionTitle.replace(/\s/g, '');
                         let infoDiv = document.getElementById("infoDiv");
                         let sectionDiv = document.createElement("div");
-                        sectionDiv.setAttribute("id", sectionTitle[0]);
+                        sectionDiv.setAttribute("id", forID);
                         sectionDiv.setAttribute("class", "sections");
                         sectionDiv.innerText = sectionTitle;
 
 
                         let sectionInfo = document.createElement("div");
-
-                        sectionInfo.innerText = i.sectionInfo[infoArr];
-                        sectionInfo.setAttribute("id", sectionTitle[0] + "S");
+                        sectionInfo.innerText = i.sectionInfo[infoArr][0];   // On to something here ..........................
+                        sectionInfo.setAttribute("id", forID + "Section");
                         sectionInfo.setAttribute("class", "info");
-                        infoArr = infoArr + 1;
+                        
+                        
+                        // i.sectionInfo.forEach(e => {
+                        //   let check = Array.isArray(e);
+                        //   if(check === true){
+                        //     e.forEach(m => {
+                        //       console.log(m);
+                        //     })
+                        //   }
+                        // })
+                        
 
+                        infoArr = infoArr + 1;
 
 
                         infoDiv.append(sectionDiv);
@@ -257,18 +267,10 @@ fetch('data.json')
 
       });
 
-
-      $(document).on("click", "#D", function() {
-        $("#DS").toggle();
-        $("#DS").scrollIntoView(center);
+      $(document).on("click", ".sections", function() {
+        let newID = "#" + this.id + "Section";
+        $(newID).toggle();
       });
-
-      $(document).on("click", "#T", function() {
-        $("#TS").toggle();
-        $("#DS").scrollIntoView(center);
-      });
-
-
 
     });
   })
