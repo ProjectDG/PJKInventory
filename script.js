@@ -65,9 +65,13 @@ fetch('data.json')
               currentBrands = brands; // Store the current brands
               brands.forEach(i => {
                 let newButton = document.createElement("button");
-                newButton.setAttribute("id", i.name);
+                newButton.setAttribute("id", i.name[0]);
                 newButton.setAttribute("class", "all-buttons brand-buttons");
-                newButton.innerText = i.name;
+                if (i.name.length > 1) {
+                  newButton.innerHTML = `<span>${i.name[0]}</span><br><span style="font-size: 75%;">${i.name[1]}</span>`;
+                } else {
+                  newButton.innerHTML = `<span>${i.name[0]}</span>`;
+                }
                 buttonContainer.append(newButton);
                 console.log(i.name);
               });
@@ -114,6 +118,7 @@ fetch('data.json')
       function backToSectionFunction() {
         consoleFunc();
         console.log("----- Please Select a Section -----");
+
         createSectionButtons();
         removeBackButton("mainBackButton");
         removeBackButton("backToBrandsButton");
@@ -144,9 +149,13 @@ fetch('data.json')
         const buttonContainer = document.getElementById("buttonContainer");
         currentBrands.forEach(i => {
           let newButton = document.createElement("button");
-          newButton.setAttribute("id", i.name);
+          newButton.setAttribute("id", i.name[0]);
           newButton.setAttribute("class", "all-buttons brand-buttons");
-          newButton.innerText = i.name;
+          if (i.name.length > 1) {
+            newButton.innerHTML = `<span>${i.name[0]}</span><br><span style="font-size: 75%;">${i.name[1]}</span>`;
+          } else {
+            newButton.innerHTML = `<span>${i.name[0]}</span>`;
+          }
           buttonContainer.append(newButton);
         });
         createBackButton("mainBackButton", "Main", mainButtonFunction);
@@ -154,13 +163,13 @@ fetch('data.json')
         removeBackButton("backToBrandsButton");
       }
 
-      function createDiv(id, section){
+      function createDiv(id, section) {
         let buttonContainer = document.getElementById("buttonContainer");
         let newDiv = document.createElement("div");
         newDiv.setAttribute("id", id);
         newDiv.setAttribute("class", section);
         buttonContainer.appendChild(newDiv);
-      }  
+      }
 
       createContainer();
       createSectionButtons();
@@ -168,6 +177,7 @@ fetch('data.json')
       $(document).on("click", ".section-buttons", function() {
         consoleFunc();
         console.log("----- Please Select a Category -----");
+
         createCategoryButtons(this.id);
         createBackButton("mainBackButton", "Main", mainButtonFunction);
         backToSection = this.id;
@@ -192,28 +202,26 @@ fetch('data.json')
         createDiv("infoDiv", "info-section");
 
         let photoLink = "";
-        let photoTitle = ""; 
+        let photoTitle = "";
 
         mainSections.forEach(x => {
-          if(x.type === backToSection){
+          if (x.type === backToSection) {
             let sections = x.sections;
             sections.forEach(y => {
-              if(y.category === backToCategory){
+              if (y.category === backToCategory) {
                 let brands = y.brands;
                 brands.forEach(i => {
-                  if(this.id === i.name){
-                    console.log("Description of " + i.name + ":");
-                    // console.log(this.id);
-                    photoLink = i.photo
-                    photoTitle = i.name
+                  if (this.id === i.name[0]) {
+                    console.log("Description of " + i.name[0] + ":");
+                    photoLink = i.photo;
+                    photoTitle = i.name[0]; // Set title to the first index only
 
                     let infoArr = 0;
 
-                    if(i.sectionNames === null || i.sectionNames === undefined){
+                    if (i.sectionNames === null || i.sectionNames === undefined) {
                       return;
                     } else {
                       i.sectionNames.forEach(n => {
-                        // console.log(n);
                         let sectionTitle = n;
                         let forID = sectionTitle.replace(/\s/g, '');
                         let infoDiv = document.getElementById("infoDiv");
@@ -222,58 +230,63 @@ fetch('data.json')
                         sectionDiv.setAttribute("class", "sections");
                         sectionDiv.innerText = sectionTitle;
 
-
                         let sectionInfo = document.createElement("div");
-                        sectionInfo.innerText = i.sectionInfo[infoArr][0];   // On to something here ..........................
                         sectionInfo.setAttribute("id", forID + "Section");
                         sectionInfo.setAttribute("class", "info");
-                        
-                        
-                        // i.sectionInfo.forEach(e => {
-                        //   let check = Array.isArray(e);
-                        //   if(check === true){
-                        //     e.forEach(m => {
-                        //       console.log(m);
-                        //     })
-                        //   }
-                        // })
-                        
+
+                        let sectionList = document.createElement("ul");
+                        sectionList.setAttribute("id", forID + "List");
+
+                        i.sectionInfo[infoArr].forEach(info => {
+                          let listItem = document.createElement("li");
+                          listItem.innerHTML = info;
+                          sectionList.appendChild(listItem);
+                        });
 
                         infoArr = infoArr + 1;
 
-
                         infoDiv.append(sectionDiv);
                         infoDiv.append(sectionInfo);
-                        })
-                      } 
+                        sectionInfo.append(sectionList);
+                      });
+                    }
                   }
-                })
+                });
               }
-            })
+            });
           }
-        })
-        
-        let photo = document.createElement("img");                
+        });
+
+        let photo = document.createElement("img");
         photo.setAttribute("src", photoLink);
         let photoDiv = document.getElementById("photoDiv");
         photoDiv.appendChild(photo);
 
         let title = document.createElement("h1");
-        title.setAttribute("id", "photoTitle");
-        title.innerText = photoTitle;
+        title.setAttribute("id", `${photoTitle.replace(/\s/g, '')}Title`);
+        title.innerHTML = `<span>${photoTitle}</span>`;
         let titleDiv = document.getElementById("titleDiv");
         titleDiv.appendChild(title);
- 
-
       });
 
       $(document).on("click", ".sections", function() {
         let newID = "#" + this.id + "Section";
         $(newID).toggle();
+        let sectionID = $(this).attr("id") + "Section";
+             let infoDiv = $("#infoDiv");
+             let scrollTo = $("#" + sectionID).position().top;
+             infoDiv.animate({
+               scrollTop: scrollTo - infoDiv.offset().top + infoDiv.scrollTop()
+             }, "slow");
       });
+
+
+      
 
     });
   })
-  .catch(error => {
+    .catch(error => {
     console.error('There was a problem fetching the mainSections:', error);
   });
+
+

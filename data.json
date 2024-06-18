@@ -7,27 +7,76 @@
                 "category" : "Red",
                 "brands" : [
                     {
-                        "name" : "Chappellet"
+                        "name" : ["Chappellet", "(Cabernet Blend)"],
+                        "photo" : "./images/chappellet_cabernet_blend.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["Chappellet Red Blend typically exhibits a deep, garnet or ruby-red color, indicative of its concentration and intensity."],
+                            ["On the nose, this wine often presents a complex bouquet of aromas. Expect a mix of dark fruits like blackberry, black cherry, and plum, complemented by notes of spice, vanilla, and cocoa. Additional layers may include hints of oak, tobacco, and sometimes a touch of earthy minerality."],
+                            ["The taste profile of Chappellet Red Blend is rich and full-bodied, with a balanced structure. The dark fruit flavors detected on the nose carry through to the palate, interwoven with secondary notes of chocolate, espresso, and baking spices. The wine's tannins are typically smooth and well-integrated, providing a plush mouthfeel. Acidity is balanced, ensuring a fresh and lively finish."],
+                            ["The finish of Chappellet Red Blend is long and satisfying, often leaving lingering notes of dark fruit, spice, and sometimes a subtle smokiness."],
+                            ["This versatile red blend pairs well with a variety of foods. It's an excellent match for grilled meats, hearty stews, rich pasta dishes, and aged cheeses. The wine's robust character complements the bold flavors of these dishes, enhancing the overall dining experience."],
+                            ["Chappellet Red Blend is crafted with meticulous attention to detail, utilizing grapes from some of the best vineyards in Napa Valley. The blend typically includes varieties such as Cabernet Sauvignon, Merlot, Petit Verdot, and Malbec, each contributing its unique characteristics to the final wine. The wine is aged in oak barrels, which imparts additional complexity and depth."],
+                            ["Overall, Chappellet Red Blend is a sophisticated and elegant wine that embodies the quality and tradition of Chappellet Winery. Its rich flavors, balanced structure, and versatile pairing potential make it a favorite among wine enthusiasts and a standout selection for any occasion."]
+                        ]
                     },
                     {
-                        "name" : "The Critic"
+                        "name" : ["The Critic", "(Cabernet)"],
+                        "photo" : "./images/the_critic_cabernet.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["The Critic Cabernet typically showcases a deep, ruby-red color, reflecting its richness and depth."],
+                            ["On the nose, this Cabernet offers a bouquet of enticing aromas, including ripe blackberries, cassis, and black cherries, complemented by hints of vanilla, tobacco, and oak."],
+                            ["The palate of The Critic Cabernet is robust and full-bodied, featuring concentrated flavors of dark fruits like black currant and plum. These primary notes are supported by undertones of dark chocolate, espresso, and a touch of spice. The tannins are well-structured, providing a firm yet smooth texture."],
+                            ["The finish is long and lingering, with persistent notes of dark fruit and subtle hints of spice and oak, leaving a lasting impression."],
+                            ["This Cabernet pairs wonderfully with a variety of dishes, including grilled steaks, roasted lamb, hearty pasta dishes, and aged cheeses. Its bold flavors and structured tannins complement the rich, savory profiles of these foods."],
+                            ["The Critic Cabernet is carefully crafted from high-quality grapes sourced from prime vineyards. The wine undergoes a meticulous production process, including fermentation in stainless steel tanks and aging in oak barrels, which enhances its complexity and depth."],
+                            ["Overall, The Critic Cabernet is a sophisticated and well-balanced wine that embodies the excellence of its winemaking heritage. Its rich flavors, elegant structure, and versatile pairing options make it a standout choice for wine enthusiasts and a perfect addition to any occasion."]
+                        ]
+
                     },
                     {
-                        "name" : "Felino"
-                    }  
+                        "name" : ["Viña Cobos Felino", "(Malbec)"],
+                        "photo" : "./images/felino_malbec.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["The Critic Cabernet typically showcases a deep, ruby-red color, reflecting its richness and depth."],
+                            ["On the nose, this Cabernet offers a bouquet of enticing aromas, including ripe blackberries, cassis, and black cherries, complemented by hints of vanilla, tobacco, and oak."],
+                            ["The palate of The Critic Cabernet is robust and full-bodied, featuring concentrated flavors of dark fruits like black currant and plum. These primary notes are supported by undertones of dark chocolate, espresso, and a touch of spice. The tannins are well-structured, providing a firm yet smooth texture."],
+                            ["The finish is long and lingering, with persistent notes of dark fruit and subtle hints of spice and oak, leaving a lasting impression."],
+                            ["This Cabernet pairs wonderfully with a variety of dishes, including grilled steaks, roasted lamb, hearty pasta dishes, and aged cheeses. Its bold flavors and structured tannins complement the rich, savory profiles of these foods."],
+                            ["The Critic Cabernet is carefully crafted from high-quality grapes sourced from prime vineyards. The wine undergoes a meticulous production process, including fermentation in stainless steel tanks and aging in oak barrels, which enhances its complexity and depth."],
+                            ["Overall, The Critic Cabernet is a sophisticated and well-balanced wine that embodies the excellence of its winemaking heritage. Its rich flavors, elegant structure, and versatile pairing options make it a standout choice for wine enthusiasts and a perfect addition to any occasion."]
+                        ]
+                    },
+                    {
+                        "name": ["Flowers Pinot Noir", "(Pinot Noir)"],
+                        "photo": "./images/flowers_pinot_noir.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["Flowers Pinot Noir typically displays a vibrant ruby-red color, often with a slight garnet hue at the edges, showcasing its clarity and depth."],
+                            ["On the nose, this Pinot Noir offers an elegant bouquet of aromas, including ripe strawberries, cherries, and raspberries, complemented by hints of floral notes such as violet and rose petals. Subtle earthy undertones and a touch of spice add complexity."],
+                            ["The palate of Flowers Pinot Noir is silky and refined, with flavors that mirror the aromas of red berries and cherries, enhanced by notes of vanilla, clove, and a hint of forest floor. The wine's texture is velvety, supported by balanced acidity and fine-grained tannins."],
+                            ["The finish is long and graceful, with lingering flavors of red fruit, spice, and a subtle minerality, leaving a refreshing and harmonious impression."],
+                            ["Flowers Pinot Noir pairs beautifully with a range of dishes, including grilled salmon, roasted poultry, mushroom risotto, and soft cheeses. Its delicate flavors and silky texture complement lighter and more nuanced flavors superbly."],
+                            ["Flowers Pinot Noir is crafted from meticulously selected grapes sourced from estate vineyards on the Sonoma Coast and other premium vineyard sites. The wine is fermented in small lots using native yeasts and undergoes gentle punch-downs to preserve fruit purity. Aging in French oak barrels adds layers of complexity and enhances the wine's structure."],
+                            ["Overall, Flowers Pinot Noir is a sophisticated and expressive wine that captures the essence of its cool-climate origins. With its vibrant fruit, elegant structure, and versatile food pairing ability, it is a favorite among Pinot Noir enthusiasts and a delightful choice for any occasion."]
+                        ]
+                    }
+                    
                 ]
             },
             {
                 "category" : "White",
                 "brands" : [
                     {
-                        "name" : "Alexander Valley"
+                        "name" : ["Alexander Valley", "(Chardonnay)"]
                     },
                     {
-                        "name" : "Brigantti"
+                        "name" : ["Brigantti"]
                     },
                     {
-                        "name" : "ZD"
+                        "name" : ["ZD"]
                     }
                 ]
             },
@@ -41,31 +90,56 @@
         "type" : "Whiskey",
         "sections" : [
             {
-                "category" : "Irish Whiskey",
+                "category" : "Bourbon",
                 "brands" : [
                     {
-                        "name" : "Jameson",
-                        "photo" : "./images/irishJameson.png",
+                        "name" : [""],
+                        "photo" : "",
+                        "sectionNames" : null
+                    }
+                ]
+            },
+            {
+                "category" : "Irish",
+                "brands" : [
+                    {
+                        "name" : ["Jameson"],
+                        "photo" : "./images/jameson_irish_whiskey.png",
                         "sectionNames" : ["Description", "Tasting Notes", "Additional Info"],
                         "sectionInfo" : [
                             ["Coming Soon...", "more"], 
-                            ["More Coming Soon..."],
-                            ["yep more info"]
+                            ["More Coming Soon...", "also more"],
+                            ["more"]
                         ]
                     }
                 ]
             },
             {
-                "category" : "Tennessee Whiskey",
+                "category" : "Rye",
                 "brands" : [
                     {
-                        "name" : "Gentleman Jack",
-                        "photo" : "./images/tennesseeJackDanielsGentlemanJack.png",
+                        "name" : [""],
+                        "photo" : "",
                         "sectionNames" : null
-                    },
+                    }
+                ]
+            },
+            {
+                "category" : "Scotch",
+                "brands" : [
                     {
-                        "name" : "Jack Daniels",
-                        "photo" : "./images/tennesseeJackDaniels.png",
+                        "name" : [""],
+                        "photo" : "",
+                        "sectionNames" : null
+                    }
+                ]
+            },
+            {
+                "category" : "Sour Mash",
+                "brands" : [
+                    {
+                        "name" : ["Jack Daniels"],
+                        "photo" : "./images/jack_daniels_sour_mash_whiskey.png",
                         "sectionNames" : null
                     }
                 ]
@@ -77,10 +151,10 @@
         "type" : "Gin",
         "sections" : [
             {
-                "category" : "Dry?",
+                "category" : "Dont need",
                 "brands" : [
                     {
-                        "name" : "Tanqueray"
+                        "name" : ["Tanqueray"]
                     }
                 ]
             }
