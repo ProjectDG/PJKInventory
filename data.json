@@ -34,7 +34,49 @@
                             ["Overall, The Critic Cabernet is a sophisticated and well-balanced wine that embodies the excellence of its winemaking heritage. Its rich flavors, elegant structure, and versatile pairing options make it a standout choice for wine enthusiasts and a perfect addition to any occasion."]
                         ]
 
+                    },                   
+                    {
+                        "name": ["Flowers", "(Pinot Noir)"],
+                        "photo": "./images/flowers_pinot_noir.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["Flowers Pinot Noir typically displays a vibrant ruby-red color, often with a slight garnet hue at the edges, showcasing its clarity and depth."],
+                            ["On the nose, this Pinot Noir offers an elegant bouquet of aromas, including ripe strawberries, cherries, and raspberries, complemented by hints of floral notes such as violet and rose petals. Subtle earthy undertones and a touch of spice add complexity."],
+                            ["The palate of Flowers Pinot Noir is silky and refined, with flavors that mirror the aromas of red berries and cherries, enhanced by notes of vanilla, clove, and a hint of forest floor. The wine's texture is velvety, supported by balanced acidity and fine-grained tannins."],
+                            ["The finish is long and graceful, with lingering flavors of red fruit, spice, and a subtle minerality, leaving a refreshing and harmonious impression."],
+                            ["Flowers Pinot Noir pairs beautifully with a range of dishes, including grilled salmon, roasted poultry, mushroom risotto, and soft cheeses. Its delicate flavors and silky texture complement lighter and more nuanced flavors superbly."],
+                            ["Flowers Pinot Noir is crafted from meticulously selected grapes sourced from estate vineyards on the Sonoma Coast and other premium vineyard sites. The wine is fermented in small lots using native yeasts and undergoes gentle punch-downs to preserve fruit purity. Aging in French oak barrels adds layers of complexity and enhances the wine's structure."],
+                            ["Overall, Flowers Pinot Noir is a sophisticated and expressive wine that captures the essence of its cool-climate origins. With its vibrant fruit, elegant structure, and versatile food pairing ability, it is a favorite among Pinot Noir enthusiasts and a delightful choice for any occasion."]
+                        ]
                     },
+                    {
+                        "name": ["Orin Swift '8 Years in the Desert'", "(Zinfandel Blend)"],
+                        "photo": "./images/8_years_in_the_desert.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["Orin Swift '8 Years in the Desert' Zinfandel Blend exhibits a deep, dark garnet color with purple hues, indicating its richness and intensity."],
+                            ["The aroma is bold and complex, with notes of ripe blackberries, dark cherries, and plum. There are also hints of pepper, licorice, and oak, with subtle undertones of chocolate and vanilla."],
+                            ["On the palate, this wine is full-bodied and lush, featuring concentrated flavors of black fruits such as blackcurrant and blackberry, complemented by notes of mocha, tobacco, and a touch of spice. The tannins are firm yet well-integrated, providing a smooth and velvety texture."],
+                            ["The finish is long and lingering, with persistent notes of dark fruit, spice, and a hint of toasted oak, leaving a lasting impression of richness and complexity."],
+                            ["Orin Swift '8 Years in the Desert' pairs excellently with a variety of dishes, including grilled steaks, barbecue ribs, spicy sausages, and hearty stews. It also complements rich chocolate desserts and aged cheeses well."],
+                            ["This wine is a blend of Zinfandel, Petite Sirah, and Syrah. The grapes are sourced from top vineyards across California. The wine undergoes fermentation in both stainless steel and oak, followed by aging in French oak barrels to enhance its complexity and depth."],
+                            ["Orin Swift '8 Years in the Desert' is a powerful and expressive wine that embodies the craftsmanship and creativity of its winemaker. With its bold flavors, complex aroma, and elegant structure, it is a standout choice for lovers of robust red blends."]
+                        ]
+                    }, 
+                    {
+                        "name": ["Planet Oregon", "(Pinot Noir)"],
+                        "photo": "./images/planet_oregon_pinot_noir.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["Planet Oregon Pinot Noir has a bright ruby-red color, indicative of its vibrant and youthful nature."],
+                            ["The aroma of this Pinot Noir is enticing, with notes of fresh red berries such as strawberry and raspberry, complemented by hints of cherry, rose petals, and a touch of earthiness."],
+                            ["On the palate, Planet Oregon Pinot Noir is light to medium-bodied, with flavors of red fruit like cranberry and raspberry, accented by subtle spice, herbaceous undertones, and a hint of minerality. The wine's acidity is well-balanced, providing a refreshing and lively mouthfeel."],
+                            ["The finish is smooth and lingering, with delicate notes of red fruit and a gentle hint of spice, leaving a pleasant and lasting impression."],
+                            ["This Pinot Noir pairs beautifully with a variety of dishes, including grilled salmon, roasted chicken, mushroom risotto, and light pasta dishes. Its versatility makes it an excellent companion to a wide range of cuisines."],
+                            ["Planet Oregon Pinot Noir is produced using sustainably farmed grapes sourced from select vineyards in Oregon's Willamette Valley. The wine is fermented in stainless steel and aged in French oak barrels, which helps to preserve its fresh fruit character while adding subtle complexity."],
+                            ["Overall, Planet Oregon Pinot Noir is a delightful and approachable wine that showcases the quality and character of Oregon Pinot Noir. Its bright fruit flavors, balanced acidity, and smooth finish make it a perfect choice for any occasion."]
+                        ]
+                    },                    
                     {
                         "name" : ["Viña Cobos Felino", "(Malbec)"],
                         "photo" : "./images/felino_malbec.png",
@@ -48,20 +90,6 @@
                             ["The Critic Cabernet is carefully crafted from high-quality grapes sourced from prime vineyards. The wine undergoes a meticulous production process, including fermentation in stainless steel tanks and aging in oak barrels, which enhances its complexity and depth."],
                             ["Overall, The Critic Cabernet is a sophisticated and well-balanced wine that embodies the excellence of its winemaking heritage. Its rich flavors, elegant structure, and versatile pairing options make it a standout choice for wine enthusiasts and a perfect addition to any occasion."]
                         ]
-                    },
-                    {
-                        "name": ["Flowers Pinot Noir", "(Pinot Noir)"],
-                        "photo": "./images/flowers_pinot_noir.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
-                        "sectionInfo": [
-                            ["Flowers Pinot Noir typically displays a vibrant ruby-red color, often with a slight garnet hue at the edges, showcasing its clarity and depth."],
-                            ["On the nose, this Pinot Noir offers an elegant bouquet of aromas, including ripe strawberries, cherries, and raspberries, complemented by hints of floral notes such as violet and rose petals. Subtle earthy undertones and a touch of spice add complexity."],
-                            ["The palate of Flowers Pinot Noir is silky and refined, with flavors that mirror the aromas of red berries and cherries, enhanced by notes of vanilla, clove, and a hint of forest floor. The wine's texture is velvety, supported by balanced acidity and fine-grained tannins."],
-                            ["The finish is long and graceful, with lingering flavors of red fruit, spice, and a subtle minerality, leaving a refreshing and harmonious impression."],
-                            ["Flowers Pinot Noir pairs beautifully with a range of dishes, including grilled salmon, roasted poultry, mushroom risotto, and soft cheeses. Its delicate flavors and silky texture complement lighter and more nuanced flavors superbly."],
-                            ["Flowers Pinot Noir is crafted from meticulously selected grapes sourced from estate vineyards on the Sonoma Coast and other premium vineyard sites. The wine is fermented in small lots using native yeasts and undergoes gentle punch-downs to preserve fruit purity. Aging in French oak barrels adds layers of complexity and enhances the wine's structure."],
-                            ["Overall, Flowers Pinot Noir is a sophisticated and expressive wine that captures the essence of its cool-climate origins. With its vibrant fruit, elegant structure, and versatile food pairing ability, it is a favorite among Pinot Noir enthusiasts and a delightful choice for any occasion."]
-                        ]
                     }
                     
                 ]
@@ -70,18 +98,90 @@
                 "category" : "White",
                 "brands" : [
                     {
-                        "name" : ["Alexander Valley", "(Chardonnay)"]
-                    },
-                    {
-                        "name" : ["Brigantti"]
-                    },
-                    {
-                        "name" : ["ZD"]
+                        "name": ["Alexander Valley", "(Chardonnay)"],
+                        "photo": "./images/alexander_valley_chardonnay.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["Alexander Valley Chardonnay exhibits a brilliant golden-yellow color with a slight green hue, reflecting its freshness and vibrancy."],
+                            ["The aroma of this Chardonnay is inviting and complex, with notes of ripe apple, pear, and tropical fruits such as pineapple and mango. Subtle hints of vanilla, butter, and toasted oak add depth and richness."],
+                            ["On the palate, Alexander Valley Chardonnay is rich and full-bodied, with flavors of ripe apple, pear, and citrus, complemented by creamy notes of butter and vanilla. The wine's acidity is well-balanced, providing a lively and refreshing mouthfeel."],
+                            ["The finish is long and smooth, with lingering notes of fruit, vanilla, and a touch of oak, leaving a satisfying and elegant aftertaste."],
+                            ["This Chardonnay pairs wonderfully with a variety of dishes, including roasted chicken, grilled seafood, creamy pasta dishes, and soft cheeses. Its rich flavors and balanced acidity make it a versatile companion to many different cuisines."],
+                            ["Alexander Valley Chardonnay is crafted from carefully selected grapes grown in the Alexander Valley region of California. The wine undergoes fermentation in stainless steel and oak barrels, followed by aging in oak to enhance its complexity and depth. The use of malolactic fermentation contributes to its creamy texture and rich flavors."],
+                            ["Overall, Alexander Valley Chardonnay is a sophisticated and well-balanced wine that showcases the quality and character of the Alexander Valley terroir. Its rich fruit flavors, creamy texture, and elegant finish make it a standout choice for Chardonnay lovers and a perfect addition to any occasion."]
+                        ]
                     }
+                    ,
+                    {
+                        "name": ["Briganti Nonnina Filomena", "(Pinot Grigio)"],
+                        "photo": "./images/briganti_pinot_grigio.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["Briganti Nonnina Filomena Pinot Grigio has a pale straw color with hints of green, indicating its freshness and youthful character."],
+                            ["The aroma is fresh and lively, with notes of green apple, pear, and citrus fruits such as lemon and lime. Subtle floral hints and a touch of minerality add complexity to the bouquet."],
+                            ["On the palate, Briganti Nonnina Filomena Pinot Grigio is light to medium-bodied, with crisp and clean flavors of green apple, pear, and citrus. The wine's bright acidity provides a refreshing and zesty mouthfeel, with a hint of minerality that adds depth."],
+                            ["The finish is crisp and refreshing, with lingering notes of citrus and green apple, leaving a clean and invigorating aftertaste."],
+                            ["This Pinot Grigio pairs wonderfully with light dishes such as salads, seafood, grilled chicken, and fresh vegetables. Its crisp and clean flavors also make it an excellent companion to Mediterranean cuisine and light pasta dishes."],
+                            ["Briganti Nonnina Filomena Pinot Grigio is crafted from grapes grown in select vineyards, known for their ideal conditions for producing high-quality Pinot Grigio. The wine is fermented in stainless steel tanks to preserve its fresh fruit character and bright acidity."],
+                            ["Overall, Briganti Nonnina Filomena Pinot Grigio is a delightful and refreshing wine that embodies the essence of a classic Pinot Grigio. Its vibrant aromas, crisp flavors, and refreshing finish make it a perfect choice for warm weather and light, flavorful dishes."]
+                        ]
+                    }
+                    ,
+                    {
+                        "name": ["ZD", "(Chardonnay)"],
+                        "photo": "./images/zd_chardonnay.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["ZD Chardonnay has a bright, golden straw color, indicating its freshness and quality."],
+                            ["The aroma of ZD Chardonnay is vibrant and complex, with notes of citrus, green apple, and pear. These are complemented by hints of tropical fruit, vanilla, and a touch of toasted oak, adding depth and richness."],
+                            ["On the palate, ZD Chardonnay is full-bodied and well-balanced, with flavors of ripe apple, pear, and lemon zest. The creamy texture is enhanced by notes of butter and vanilla, with a subtle hint of minerality. The wine's acidity is crisp and refreshing, providing a lively mouthfeel."],
+                            ["The finish is long and elegant, with lingering notes of citrus and tropical fruit, intertwined with a touch of oak and vanilla, leaving a clean and satisfying aftertaste."],
+                            ["ZD Chardonnay pairs beautifully with a wide range of dishes, including roasted chicken, seafood, creamy pastas, and soft cheeses. Its rich flavors and balanced acidity make it a versatile choice for various cuisines."],
+                            ["ZD Chardonnay is crafted using grapes sourced from select vineyards in California. The wine undergoes fermentation in a combination of stainless steel and oak barrels, followed by aging in French oak. This process enhances its complexity and imparts a creamy texture and rich flavors. Malolactic fermentation adds to the wine's buttery character."],
+                            ["Overall, ZD Chardonnay is a refined and elegant wine that showcases the quality of California Chardonnay. Its vibrant aromas, rich flavors, and balanced acidity make it a standout choice for Chardonnay enthusiasts and a delightful addition to any occasion."]
+                        ]
+                    }
+                    
                 ]
             },
             {
                 "category" : "Rose"
+            },
+            {
+                "category" : "Sake",
+                "brands" : [
+                    {
+                        "name": ["Tozai 'Living Jewel'", "(Junmai Sake)"],
+                        "photo": "./images/tozai_living_jewel_sake.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["15% ABV"],
+                            ["Tozai 'Living Jewel' Junmai Sake has a clear, pale straw color with a slight silver tint, characteristic of its purity and elegance."],
+                            ["The aroma of this Junmai Sake is delicate and refined, with notes of white flowers, melon, and pear, accompanied by subtle hints of rice sweetness and a touch of minerality."],
+                            ["On the palate, Tozai 'Living Jewel' is clean and crisp, with flavors of crisp apple, pear, and a hint of citrus. The texture is smooth and silky, with a balanced acidity that enhances its refreshing qualities."],
+                            ["The finish is smooth and dry, with lingering notes of fruit and a hint of rice sweetness, leaving a clean and refreshing aftertaste."],
+                            ["Tozai 'Living Jewel' Junmai Sake pairs excellently with a variety of Japanese dishes, including sushi, sashimi, tempura, and grilled seafood. Its clean and crisp flavors complement the delicate flavors of these dishes beautifully."],
+                            ["Tozai 'Living Jewel' is brewed in Kyoto, Japan, using premium sake rice polished to 60% of its original size. It is fermented at low temperatures and carefully aged to preserve its delicate flavors and aromas."],
+                            ["Overall, Tozai 'Living Jewel' Junmai Sake is a refined and versatile sake that embodies the craftsmanship and elegance of traditional Japanese brewing. Its clean flavors, smooth texture, and balanced acidity make it a perfect choice for sake enthusiasts and a delightful accompaniment to Japanese cuisine."]
+                        ]
+                    },
+                    {
+                        "name": ["Kikusui Funaguchi Aged Red", "(Sake)"],
+                        "photo": "./images/kikusui_funaguchi_aged_red_sake.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["19% ABV"],
+                            ["Kikusui Funaguchi Aged Red Sake has a deep amber color, reminiscent of aged sake with rich hues and clarity."],
+                            ["The aroma is complex and inviting, with notes of caramelized nuts, dried fruits such as raisins and figs, and a hint of vanilla. There are also subtle undertones of oak and spice, adding depth and complexity."],
+                            ["On the palate, Kikusui Funaguchi Aged Red is full-bodied and velvety, with flavors of caramel, toffee, and dark chocolate. The sake has a rich and creamy texture, balanced by a pleasant sweetness and a touch of umami."],
+                            ["The finish is long and lingering, with layers of caramelized flavors and a gentle warmth, leaving a luxurious and satisfying impression."],
+                            ["Kikusui Funaguchi Aged Red Sake pairs beautifully with rich and savory dishes, including grilled meats, aged cheeses, and dishes with caramelized flavors like teriyaki or barbecue. It also complements desserts such as chocolate truffles or crème brûlée."],
+                            ["Kikusui Funaguchi Aged Red Sake is brewed using traditional methods in Niigata, Japan, known for its premium sake production. It is aged to perfection in small barrels, allowing the flavors to develop and mature over time."],
+                            ["Overall, Kikusui Funaguchi Aged Red Sake is a luxurious and indulgent sake that appeals to aficionados of aged spirits. Its rich flavors, velvety texture, and complex aroma make it a standout choice for special occasions and pairing with gourmet cuisine."]
+                        ]
+                    }
+                    
+                ]
             }
         ]
     },
@@ -103,15 +203,21 @@
                 "category" : "Irish",
                 "brands" : [
                     {
-                        "name" : ["Jameson"],
-                        "photo" : "./images/jameson_irish_whiskey.png",
-                        "sectionNames" : ["Description", "Tasting Notes", "Additional Info"],
-                        "sectionInfo" : [
-                            ["Coming Soon...", "more"], 
-                            ["More Coming Soon...", "also more"],
-                            ["more"]
+                        "name": ["Jameson", "(Irish Whiskey)"],
+                        "photo": "./images/jameson_irish_whiskey.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Jameson Irish Whiskey has a rich, golden amber color, reflecting its smooth and refined nature."],
+                            ["The aroma of Jameson is light and floral, with a delicate balance of spicy and sweet notes. Hints of vanilla, honey, and toasted wood mingle with subtle undertones of sherry and citrus."],
+                            ["On the palate, Jameson is exceptionally smooth and mellow, offering flavors of sweet vanilla, ripe orchard fruits, and a touch of spice. The mouthfeel is creamy and balanced, with gentle hints of toasted wood and nutty undertones."],
+                            ["The finish is clean and lingering, with a sweet, slightly spicy aftertaste that leaves a pleasant warmth. Subtle hints of oak and sherry contribute to a satisfying and refined conclusion."],
+                            ["Jameson Irish Whiskey pairs wonderfully with a variety of foods, including grilled meats, smoked salmon, aged cheeses, and rich desserts like chocolate mousse or apple pie. It also complements traditional Irish dishes such as shepherd's pie and soda bread."],
+                            ["Jameson is crafted using a blend of pot still and fine grain whiskeys, triple-distilled for exceptional smoothness. It is aged in a combination of sherry and bourbon barrels for a minimum of four years, which imparts its distinctive character and complexity."],
+                            ["Jameson Irish Whiskey is renowned for its exceptional smoothness and versatility. Whether enjoyed neat, on the rocks, or in a classic cocktail like an Irish Coffee or a Whiskey Sour, Jameson delivers a consistently delightful and approachable experience."]
                         ]
                     }
+                    
                 ]
             },
             {
@@ -151,8 +257,24 @@
         "type" : "Gin",
         "sections" : [
             {
-                "category" : "Dont need",
+                "category" : null,
                 "brands" : [
+                    {
+                        "name": ["Bombay Sapphire"],
+                        "photo": "./images/bombay_sapphire.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["47% ABV (94 proof)"],
+                            ["Bombay Sapphire has a clear, crystalline appearance, reflecting its purity and quality."],
+                            ["The aroma of Bombay Sapphire is complex and aromatic, with prominent notes of juniper berries, followed by a blend of earthy and floral botanicals. Hints of citrus peel, coriander, angelica, and a touch of spice create a well-balanced and inviting nose."],
+                            ["On the palate, Bombay Sapphire is smooth and refined, with a harmonious blend of botanicals. The juniper is upfront, supported by bright citrus notes, hints of licorice, almond, and a gentle spiciness from grains of paradise and cubeb berries. The mouthfeel is crisp and clean."],
+                            ["The finish is long and dry, with lingering notes of juniper and citrus, accompanied by a subtle spiciness that adds depth and character."],
+                            ["Bombay Sapphire is incredibly versatile and pairs well with a variety of mixers and cocktails. It is perfect for classic gin and tonics, martinis, and refreshing cocktails like the Tom Collins or French 75. It also complements seafood dishes, light salads, and Mediterranean cuisine."],
+                            ["Bombay Sapphire is crafted using a unique vapor infusion process, where the botanicals are suspended above the spirit in perforated copper baskets during distillation. This method ensures that the flavors of the botanicals are delicately infused into the gin, resulting in a balanced and aromatic spirit. The ten botanicals used in Bombay Sapphire are sourced from all over the world, contributing to its distinctive flavor profile."],
+                            ["Overall, Bombay Sapphire is a premium gin known for its exceptional quality and aromatic complexity. Its smooth, balanced flavor and versatility make it a favorite among gin enthusiasts and a staple in any well-stocked bar."]
+                        ]
+                    }
+                    ,
                     {
                         "name" : ["Tanqueray"]
                     }
@@ -193,7 +315,23 @@
         "type" : "Tequila",
         "sections" : [
             {
-                "category" : "",
+                "category" : "Blanco",
+                "brands" : [
+                    {
+                        "name" : ""
+                    }
+                ]
+            },
+            {
+                "category" : "Reposado",
+                "brands" : [
+                    {
+                        "name" : ""
+                    }
+                ]
+            },
+            {
+                "category" : "Anejo",
                 "brands" : [
                     {
                         "name" : ""

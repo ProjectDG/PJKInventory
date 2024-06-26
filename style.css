@@ -28,40 +28,48 @@ body {
 #buttonContainer{
     background-color: rgb(0,0,0,0.6);
     margin: auto;
-    padding: 2vh 0%;
+    padding: 3vh 0%;
     width: 90vw;
-    max-height: 80vh;
+    max-height: 70vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .all-buttons{
     border: .5vh outset black;
     background-color: rgb(0,0,0);
     font-size: 2.5vh;
-    width: 70vw;
+    width: 80vw;
     margin: 1vh auto;
-    padding: 2.25vh 0%;
+    padding: 2.25vh 2%;
+    /* border-radius: 5%; */
 }
 
 .section-buttons{
-    width: 33vw;
+    width: 38vw;
     height: 12vh;
-    margin: 1.5vh;
+    margin: 1vh;
     font-size: 2.75vh;  
 }
+
+.section-buttons:last-child {
+    width: 90%;
+}
+
 
 #backButtonDiv{
     display: flex;
 }
 
 .back-buttons{
-    margin: 2vh;
-    width: 40vw;
-    height: 10vh;
-    padding: 2%;
+    margin: .5vh;
+    width: 46vw;
+    height: 13vh;
+    padding: 0 10%;
 }
 
 .info-section{
@@ -90,10 +98,11 @@ img{
     height: 5vh;
     display: flex;
     justify-content: center;
+    align-items: center;
     border: .25vh inset black;
     background-color: rgb(0,0,0,0.6);
     padding: 1vh;
-    font-size: 100%;
+    font-size: 60%;
 }
 
 #infoDiv{
@@ -124,20 +133,3 @@ img{
 text{
     display: none;
 }
-
-/* @media screen and (max-width: 450px) {
-
-
-    img{
-     max-width: 25%;
-    }
-
-    .section-buttons{
-        width: 33vw;
-        height: 12vh;
-        margin: 1.5vh;
-        font-size: 2.75vh;
-    }
-
-
-} */

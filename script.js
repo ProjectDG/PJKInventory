@@ -1,5 +1,7 @@
+// Fetch the JSON data
 fetch('data.json')
   .then(response => {
+    // Check if the response is ok, else throw an error
     if (!response.ok) {
       throw new Error('Network response was not ok');
     }
@@ -10,16 +12,20 @@ fetch('data.json')
     let backToCategory = "";
     let currentBrands = [];
 
+    // Wait until the document is ready
     $(document).ready(function() {
+      // Function to clear the console and button container, and log a message
       function consoleFunc() {
         console.clear();
         $("#buttonContainer").empty();
         console.log("----- My Inventory App -----");
       }
 
+      // Initial console message
       consoleFunc();
       console.log("----- Please Select a Section -----");
 
+      // Create the main container for buttons
       function createContainer() {
         const main = document.getElementById("main");
         const buttonContainer = document.createElement("div");
@@ -27,6 +33,7 @@ fetch('data.json')
         main.append(buttonContainer);
       }
 
+      // Create buttons for each section
       function createSectionButtons() {
         const buttonContainer = document.getElementById("buttonContainer");
         mainSections.forEach(x => {
@@ -39,23 +46,44 @@ fetch('data.json')
         });
       }
 
+      // Create buttons for each category in a section
       function createCategoryButtons(sectionType) {
         const buttonContainer = document.getElementById("buttonContainer");
         mainSections.forEach(x => {
           if (x.type === sectionType) {
             let sections = x.sections;
             sections.forEach(y => {
-              let newButton = document.createElement("button");
-              newButton.setAttribute("id", y.category);
-              newButton.setAttribute("class", "all-buttons category-buttons");
-              newButton.innerText = y.category;
-              buttonContainer.append(newButton);
-              console.log(y.category);
+              if (y.category !== null) {
+                let newButton = document.createElement("button");
+                newButton.setAttribute("id", y.category);
+                newButton.setAttribute("class", "all-buttons category-buttons");
+                newButton.innerText = y.category;
+                buttonContainer.append(newButton);
+                console.log(y.category);
+              } else {
+                consoleFunc();
+                console.log("----- Please Select a Brand -----");
+                let brands = y.brands;
+                // Create buttons for each brand if there is no category
+                brands.forEach(i => {
+                  let newButton = document.createElement("button");
+                  newButton.setAttribute("id", i.name[0]);
+                  newButton.setAttribute("class", "all-buttons brand-buttons");
+                  if (i.name.length > 1) {
+                    newButton.innerHTML = `<span>${i.name[0]}</span><br><span style="font-size: 75%;">${i.name[1]}</span>`;
+                  } else {
+                    newButton.innerHTML = `<span>${i.name[0]}</span>`;
+                  }
+                  buttonContainer.append(newButton);
+                  console.log(i.name);
+                });
+              }
             });
           }
         });
       }
 
+      // Create buttons for each brand in a category
       function createBrandButtons(category) {
         const buttonContainer = document.getElementById("buttonContainer");
         mainSections.forEach(x => {
@@ -80,6 +108,7 @@ fetch('data.json')
         });
       }
 
+      // Create a back button
       function createBackButton(id, text, onClickFunction) {
         const backButtonDiv = document.getElementById("backButtonDiv");
         let backButton = document.getElementById(id);
@@ -104,6 +133,7 @@ fetch('data.json')
         }
       }
 
+      // Remove a back button
       function removeBackButton(id) {
         const backButton = document.getElementById(id);
         if (backButton) {
@@ -115,6 +145,7 @@ fetch('data.json')
         }
       }
 
+      // Function to go back to the section selection
       function backToSectionFunction() {
         consoleFunc();
         console.log("----- Please Select a Section -----");
@@ -125,6 +156,7 @@ fetch('data.json')
         removeBackButton("backButton");
       }
 
+      // Function to go back to the category selection
       function backToCategoryFunction() {
         consoleFunc();
         console.log("----- Please Select a Category -----");
@@ -134,6 +166,7 @@ fetch('data.json')
         removeBackButton("backButton");
       }
 
+      // Function to go back to the main section
       function mainButtonFunction() {
         consoleFunc();
         console.log("----- Please Select a Section -----");
@@ -143,6 +176,7 @@ fetch('data.json')
         removeBackButton("mainBackButton");
       }
 
+      // Function to go back to the brand selection
       function backToBrandsFunction() {
         consoleFunc();
         console.log("----- Please Select a Brand -----");
@@ -163,6 +197,7 @@ fetch('data.json')
         removeBackButton("backToBrandsButton");
       }
 
+      // Create a div with a specified ID and class
       function createDiv(id, section) {
         let buttonContainer = document.getElementById("buttonContainer");
         let newDiv = document.createElement("div");
@@ -171,18 +206,20 @@ fetch('data.json')
         buttonContainer.appendChild(newDiv);
       }
 
+      // Initial setup: create the main container and section buttons
       createContainer();
       createSectionButtons();
 
+      // Event listener for section buttons
       $(document).on("click", ".section-buttons", function() {
         consoleFunc();
         console.log("----- Please Select a Category -----");
-
         createCategoryButtons(this.id);
         createBackButton("mainBackButton", "Main", mainButtonFunction);
         backToSection = this.id;
       });
 
+      // Event listener for category buttons
       $(document).on("click", ".category-buttons", function() {
         consoleFunc();
         console.log("----- Please Select a Brand -----");
@@ -192,6 +229,7 @@ fetch('data.json')
         backToCategory = this.id;
       });
 
+      // Event listener for brand buttons
       $(document).on("click", ".brand-buttons", function() {
         consoleFunc();
         removeBackButton("backButton"); // Remove the back to category button
@@ -204,11 +242,19 @@ fetch('data.json')
         let photoLink = "";
         let photoTitle = "";
 
+        // Find the selected brand and populate the information
         mainSections.forEach(x => {
           if (x.type === backToSection) {
             let sections = x.sections;
             sections.forEach(y => {
-              if (y.category === backToCategory) {
+              if (y.category === backToCategory || y.category === null) {
+                if (y.category === null) {
+                  console.log("holy fuckin shit this better work!");
+                  $("#backButtonDiv").empty();
+                  createBackButton("mainBackButton", "Main", mainButtonFunction);
+                  createBackButton("backButton", `Back To ${backToSection}`, backToCategoryFunction);
+                }
+
                 let brands = y.brands;
                 brands.forEach(i => {
                   if (this.id === i.name[0]) {
@@ -257,6 +303,7 @@ fetch('data.json')
           }
         });
 
+        // Display the photo and title of the selected brand
         let photo = document.createElement("img");
         photo.setAttribute("src", photoLink);
         let photoDiv = document.getElementById("photoDiv");
@@ -269,24 +316,19 @@ fetch('data.json')
         titleDiv.appendChild(title);
       });
 
+      // Toggle visibility of sections within the infoDiv
       $(document).on("click", ".sections", function() {
         let newID = "#" + this.id + "Section";
         $(newID).toggle();
         let sectionID = $(this).attr("id") + "Section";
-             let infoDiv = $("#infoDiv");
-             let scrollTo = $("#" + sectionID).position().top;
-             infoDiv.animate({
-               scrollTop: scrollTo - infoDiv.offset().top + infoDiv.scrollTop()
-             }, "slow");
+        let infoDiv = $("#infoDiv");
+        let scrollTo = $("#" + sectionID).position().top;
+        infoDiv.animate({
+          scrollTop: scrollTo - infoDiv.offset().top + infoDiv.scrollTop()
+        }, "slow");
       });
-
-
-      
-
     });
   })
-    .catch(error => {
+  .catch(error => {
     console.error('There was a problem fetching the mainSections:', error);
   });
-
-
