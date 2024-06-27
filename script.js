@@ -168,6 +168,8 @@ fetch('data.json')
         removeBackButton("mainBackButton");
         removeBackButton("backToBrandsButton");
         removeBackButton("backButton");
+        let title = "<h1>PJK</h1><br><h1 id='subtitle' style='font-size: 1.75vh'>NEIGHBORHOOD CHINESE RESTAURANT</h1>";    //---------------NOT WORKING AFTER HITTING DIFFERENT BACK BUTTON
+        $("#titleContainer").append(title);
       }
 
       // Function to go back to the category selection
@@ -190,8 +192,8 @@ fetch('data.json')
         removeBackButton("backToBrandsButton");
         removeBackButton("backButton");
         removeBackButton("mainBackButton");
-        // let title = "<h1>PJK</h1><br><h1 id='subtitle' style='font-size: 1.75vh'>NEIGHBORHOOD CHINESE RESTAURANT</h1>";    ---------------NOT WORKING AFTER HITTING DIFFERENT BACK BUTTON
-        // $("#titleContainer").append(title);
+        let title = "<h1>PJK</h1><br><h1 id='subtitle' style='font-size: 1.75vh'>NEIGHBORHOOD CHINESE RESTAURANT</h1>";    //---------------NOT WORKING AFTER HITTING DIFFERENT BACK BUTTON
+        $("#titleContainer").append(title);
       }
 
       // Function to go back to the brand selection
