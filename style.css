@@ -16,21 +16,40 @@ body {
   }
 
 #main{
-    padding: 4vh 0%;
+    padding: 2vh 0%;
     width: auto;
-    height: 92vh;
+    height: 96vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
+#titleContainer{
+    position: fixed;
+    top: 3vh;
+    border-top: .5vh solid antiquewhite;
+    border-bottom: .5vh solid antiquewhite;
+    padding: 2vh;
+    background-color: rgb(0,0,0,0.6);
+    width: 60%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#titleContainer > h1{
+    margin: .25vh;
+}
+
 #buttonContainer{
     background-color: rgb(0,0,0,0.6);
-    margin: auto;
-    padding: 3vh 0%;
+    margin: 2vh auto;
+    padding: 2vh 0%;
     width: 90vw;
-    max-height: 70vh;
+    max-height: 65vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -51,7 +70,7 @@ body {
 
 .section-buttons{
     width: 38vw;
-    height: 12vh;
+    height: 10vh;
     margin: 1vh;
     font-size: 2.75vh;  
 }
@@ -63,12 +82,14 @@ body {
 
 #backButtonDiv{
     display: flex;
+    position: fixed;
+    bottom: 2vh;
 }
 
 .back-buttons{
     margin: .5vh;
     width: 46vw;
-    height: 13vh;
+    height: 10vh;
     padding: 0 10%;
 }
 
@@ -106,7 +127,7 @@ img{
 }
 
 #infoDiv{
-    height: 35vh;
+    height: 26vh;
     overflow: scroll;
     overflow-x: hidden;
 }

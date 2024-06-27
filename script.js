@@ -18,6 +18,7 @@ fetch('data.json')
       function consoleFunc() {
         console.clear();
         $("#buttonContainer").empty();
+        $("#titleContainer").empty();
         console.log("----- My Inventory App -----");
       }
 
@@ -25,11 +26,24 @@ fetch('data.json')
       consoleFunc();
       console.log("----- Please Select a Section -----");
 
+      function createTitleContainer() {
+        const main = document.getElementById("main");
+
+        const titleContainer = document.createElement("div");
+        titleContainer.setAttribute("id", "titleContainer");
+        titleContainer.innerHTML = "<h1>PJK</h1><br><h1 style='font-size: 1.75vh'>NEIGHBORHOOD CHINESE RESTAURANT</h1>";
+
+        main.append(titleContainer);
+      }
+
+
       // Create the main container for buttons
       function createContainer() {
         const main = document.getElementById("main");
+
         const buttonContainer = document.createElement("div");
         buttonContainer.setAttribute("id", "buttonContainer");
+
         main.append(buttonContainer);
       }
 
@@ -164,6 +178,8 @@ fetch('data.json')
         createBackButton("mainBackButton", "Main", backToSectionFunction);
         removeBackButton("backToBrandsButton");
         removeBackButton("backButton");
+        let forTitle = `<h1>${backToSection}</h1>`;
+        $("#titleContainer").append(forTitle);
       }
 
       // Function to go back to the main section
@@ -174,6 +190,8 @@ fetch('data.json')
         removeBackButton("backToBrandsButton");
         removeBackButton("backButton");
         removeBackButton("mainBackButton");
+        // let title = "<h1>PJK</h1><br><h1 id='subtitle' style='font-size: 1.75vh'>NEIGHBORHOOD CHINESE RESTAURANT</h1>";    ---------------NOT WORKING AFTER HITTING DIFFERENT BACK BUTTON
+        // $("#titleContainer").append(title);
       }
 
       // Function to go back to the brand selection
@@ -195,6 +213,8 @@ fetch('data.json')
         createBackButton("mainBackButton", "Main", mainButtonFunction);
         createBackButton("backButton", `Back To ${backToSection}`, backToCategoryFunction);
         removeBackButton("backToBrandsButton");
+        let forTitle = `<h1>${backToCategory}</h1>`;
+        $("#titleContainer").append(forTitle);
       }
 
       // Create a div with a specified ID and class
@@ -207,6 +227,7 @@ fetch('data.json')
       }
 
       // Initial setup: create the main container and section buttons
+      createTitleContainer();
       createContainer();
       createSectionButtons();
 
@@ -217,6 +238,8 @@ fetch('data.json')
         createCategoryButtons(this.id);
         createBackButton("mainBackButton", "Main", mainButtonFunction);
         backToSection = this.id;
+        let title = `<h1>${this.id}</h1>`;
+        $("#titleContainer").append(title);
       });
 
       // Event listener for category buttons
@@ -227,6 +250,8 @@ fetch('data.json')
         createBackButton("mainBackButton", "Main", mainButtonFunction);
         createBackButton("backButton", `Back To ${backToSection}`, backToCategoryFunction);
         backToCategory = this.id;
+        let title = `<h1>${this.id}</h1>`;
+        $("#titleContainer").append(title);
       });
 
       // Event listener for brand buttons
@@ -239,6 +264,7 @@ fetch('data.json')
         createDiv("titleDiv", "info-section");
         createDiv("infoDiv", "info-section");
 
+
         let photoLink = "";
         let photoTitle = "";
 
@@ -249,7 +275,6 @@ fetch('data.json')
             sections.forEach(y => {
               if (y.category === backToCategory || y.category === null) {
                 if (y.category === null) {
-                  console.log("holy fuckin shit this better work!");
                   $("#backButtonDiv").empty();
                   createBackButton("mainBackButton", "Main", mainButtonFunction);
                   createBackButton("backButton", `Back To ${backToSection}`, backToCategoryFunction);
@@ -267,6 +292,8 @@ fetch('data.json')
                     if (i.sectionNames === null || i.sectionNames === undefined) {
                       return;
                     } else {
+                      let forTitle = "<h1>PJK</h1><br><h1 id='subtitle' style='font-size: 1.75vh'>NEIGHBORHOOD CHINESE RESTAURANT</h1>";
+                      $("#titleContainer").append(forTitle);
                       i.sectionNames.forEach(n => {
                         let sectionTitle = n;
                         let forID = sectionTitle.replace(/\s/g, '');
