@@ -61,66 +61,71 @@ fetch('data.json')
       }
 
       // Create buttons for each category in a section
-      function createCategoryButtons(sectionType) {
-        const buttonContainer = document.getElementById("buttonContainer");
-        mainSections.forEach(x => {
-          if (x.type === sectionType) {
-            let sections = x.sections;
-            sections.forEach(y => {
-              if (y.category !== null) {
-                let newButton = document.createElement("button");
-                newButton.setAttribute("id", y.category);
-                newButton.setAttribute("class", "all-buttons category-buttons");
-                newButton.innerText = y.category;
-                buttonContainer.append(newButton);
-                console.log(y.category);
-              } else {
-                consoleFunc();
-                console.log("----- Please Select a Brand -----");
-                let brands = y.brands;
-                // Create buttons for each brand if there is no category
-                brands.forEach(i => {
-                  let newButton = document.createElement("button");
-                  newButton.setAttribute("id", i.name[0]);
-                  newButton.setAttribute("class", "all-buttons brand-buttons");
-                  if (i.name.length > 1) {
-                    newButton.innerHTML = `<span>${i.name[0]}</span><br><span style="font-size: 75%;">${i.name[1]}</span>`;
-                  } else {
-                    newButton.innerHTML = `<span>${i.name[0]}</span>`;
-                  }
-                  buttonContainer.append(newButton);
-                  console.log(i.name);
-                });
-              }
-            });
-          }
-        });
-      }
-
-      // Create buttons for each brand in a category
-      function createBrandButtons(category) {
-        const buttonContainer = document.getElementById("buttonContainer");
-        mainSections.forEach(x => {
-          x.sections.forEach(y => {
-            if (y.category === category) {
-              let brands = y.brands;
-              currentBrands = brands; // Store the current brands
-              brands.forEach(i => {
-                let newButton = document.createElement("button");
-                newButton.setAttribute("id", i.name[0]);
-                newButton.setAttribute("class", "all-buttons brand-buttons");
-                if (i.name.length > 1) {
-                  newButton.innerHTML = `<span>${i.name[0]}</span><br><span style="font-size: 75%;">${i.name[1]}</span>`;
-                } else {
-                  newButton.innerHTML = `<span>${i.name[0]}</span>`;
-                }
-                buttonContainer.append(newButton);
-                console.log(i.name);
-              });
+function createCategoryButtons(sectionType) {
+  const buttonContainer = document.getElementById("buttonContainer");
+  mainSections.forEach(x => {
+    if (x.type === sectionType) {
+      let sections = x.sections;
+      sections.forEach(y => {
+        if (y.category !== null) {
+          let newButton = document.createElement("button");
+          newButton.setAttribute("id", y.category);
+          newButton.setAttribute("class", "all-buttons category-buttons");
+          newButton.innerText = y.category;
+          buttonContainer.append(newButton);
+          console.log(y.category);
+        } else {
+          consoleFunc();
+          console.log("----- Please Select a Brand -----");
+          let brands = y.brands;
+          // Sort brands alphabetically by name
+          brands.sort((a, b) => a.name[0].localeCompare(b.name[0]));
+          // Create buttons for each brand if there is no category
+          brands.forEach(i => {
+            let newButton = document.createElement("button");
+            newButton.setAttribute("id", i.name[0]);
+            newButton.setAttribute("class", "all-buttons brand-buttons");
+            if (i.name.length > 1) {
+              newButton.innerHTML = `<span>${i.name[0]}</span><br><span style="font-size: 75%;">${i.name[1]}</span>`;
+            } else {
+              newButton.innerHTML = `<span>${i.name[0]}</span>`;
             }
+            buttonContainer.append(newButton);
+            console.log(i.name);
           });
+        }
+      });
+    }
+  });
+}
+
+// Create buttons for each brand in a category
+function createBrandButtons(category) {
+  const buttonContainer = document.getElementById("buttonContainer");
+  mainSections.forEach(x => {
+    x.sections.forEach(y => {
+      if (y.category === category) {
+        let brands = y.brands;
+        // Sort brands alphabetically by name
+        brands.sort((a, b) => a.name[0].localeCompare(b.name[0]));
+        currentBrands = brands; // Store the current brands
+        brands.forEach(i => {
+          let newButton = document.createElement("button");
+          newButton.setAttribute("id", i.name[0]);
+          newButton.setAttribute("class", "all-buttons brand-buttons");
+          if (i.name.length > 1) {
+            newButton.innerHTML = `<span>${i.name[0]}</span><br><span style="font-size: 75%;">${i.name[1]}</span>`;
+          } else {
+            newButton.innerHTML = `<span>${i.name[0]}</span>`;
+          }
+          buttonContainer.append(newButton);
+          console.log(i.name);
         });
       }
+    });
+  });
+}
+
 
       // Create a back button
       function createBackButton(id, text, onClickFunction) {
@@ -286,6 +291,9 @@ fetch('data.json')
                 brands.forEach(i => {
                   if (this.id === i.name[0]) {
                     console.log("Description of " + i.name[0] + ":");
+                    i.sectionInfo.forEach(x => {
+                      console.log(x);
+                    });
                     photoLink = i.photo;
                     photoTitle = i.name[0]; // Set title to the first index only
 
