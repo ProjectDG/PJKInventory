@@ -154,3 +154,10 @@ img{
 text{
     display: none;
 }
+
+
+@media screen and (orientation: landscape) {
+   #main{
+    display: none;
+   }
+  }
