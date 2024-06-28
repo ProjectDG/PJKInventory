@@ -145,13 +145,30 @@
                 ]
             },
             {
-                "category" : "Rose"
+                "category" : "Rose",
+                "brands" : [
+                    {
+                        "name": ["Whispering Angel"],
+                        "photo": "./images/whispering_angel_rose.png",
+                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["Whispering Angel Rosé has a pale, salmon-pink color, indicative of its delicate and refined character."],
+                            ["The aroma of Whispering Angel is fresh and inviting, with notes of red berries such as strawberry and raspberry, complemented by hints of peach, citrus, and a subtle floral undertone."],
+                            ["On the palate, Whispering Angel is crisp and elegant, with flavors of red fruit, citrus, and a touch of minerality. The wine has a smooth texture and a well-balanced acidity, providing a refreshing and lively mouthfeel."],
+                            ["The finish is clean and refreshing, with lingering notes of red berries and citrus, leaving a pleasant and invigorating aftertaste."],
+                            ["Whispering Angel Rosé pairs beautifully with a variety of dishes, including seafood, grilled vegetables, light salads, and Mediterranean cuisine. Its crisp and refreshing character also makes it an excellent aperitif."],
+                            ["Whispering Angel is produced by Château d'Esclans in the Provence region of France, known for its high-quality rosé wines. The wine is made from a blend of Grenache, Cinsault, and Vermentino grapes, harvested in the cool of the night to preserve their freshness. It undergoes fermentation in stainless steel tanks to retain its bright and vibrant character."],
+                            ["Overall, Whispering Angel is a sophisticated and elegant rosé that embodies the excellence of Provence winemaking. Its delicate aromas, crisp flavors, and refreshing finish make it a standout choice for rosé lovers and a perfect addition to any occasion."]
+                        ]
+                    }
+                    
+                ]
             },
             {
                 "category" : "Sake",
                 "brands" : [
                     {
-                        "name": ["Tozai 'Living Jewel'", "(Junmai Sake)"],
+                        "name": ["Tozai 'Living Jewel'"],
                         "photo": "./images/tozai_living_jewel_sake.png",
                         "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
@@ -166,7 +183,7 @@
                         ]
                     },
                     {
-                        "name": ["Kikusui Funaguchi Aged Red", "(Sake)"],
+                        "name": ["Kikusui Funaguchi Aged Red"],
                         "photo": "./images/kikusui_funaguchi_aged_red_sake.png",
                         "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
@@ -190,17 +207,7 @@
         "type" : "Whiskey",
         "sections" : [
             {
-                "category" : "Bourbon",
-                "brands" : [
-                    {
-                        "name" : [""],
-                        "photo" : "",
-                        "sectionNames" : null
-                    }
-                ]
-            },
-            {
-                "category" : "Irish",
+                "category" : null,
                 "brands" : [
                     {
                         "name": ["Jameson", "(Irish Whiskey)"],
@@ -216,37 +223,21 @@
                             ["Jameson is crafted using a blend of pot still and fine grain whiskeys, triple-distilled for exceptional smoothness. It is aged in a combination of sherry and bourbon barrels for a minimum of four years, which imparts its distinctive character and complexity."],
                             ["Jameson Irish Whiskey is renowned for its exceptional smoothness and versatility. Whether enjoyed neat, on the rocks, or in a classic cocktail like an Irish Coffee or a Whiskey Sour, Jameson delivers a consistently delightful and approachable experience."]
                         ]
-                    }
-                    
-                ]
-            },
-            {
-                "category" : "Rye",
-                "brands" : [
+                    },
                     {
-                        "name" : [""],
-                        "photo" : "",
-                        "sectionNames" : null
-                    }
-                ]
-            },
-            {
-                "category" : "Scotch",
-                "brands" : [
-                    {
-                        "name" : [""],
-                        "photo" : "",
-                        "sectionNames" : null
-                    }
-                ]
-            },
-            {
-                "category" : "Sour Mash",
-                "brands" : [
-                    {
-                        "name" : ["Jack Daniels"],
-                        "photo" : "./images/jack_daniels_sour_mash_whiskey.png",
-                        "sectionNames" : null
+                        "name": ["Jack Daniel's", "(Tennessee Whiskey)"],
+                        "photo": "./images/jack_daniels.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Jack Daniel's Tennessee Whiskey has a warm amber color, reflecting its rich and smooth character."],
+                            ["The aroma of Jack Daniel's is rich and inviting, with notes of caramel, vanilla, and toasted oak. Hints of banana, honey, and a touch of smoke add complexity to the bouquet."],
+                            ["On the palate, Jack Daniel's is smooth and mellow, with flavors of caramel, vanilla, and toasted oak. The whiskey has a well-balanced sweetness with hints of brown sugar, cinnamon, and a subtle smokiness."],
+                            ["The finish is smooth and lingering, with a balance of sweetness and oak, leaving a warm and satisfying aftertaste."],
+                            ["Jack Daniel's pairs well with a variety of foods, including grilled meats, smoked ribs, barbecue, and sharp cheeses. It is also a versatile whiskey for cocktails, such as the classic Old Fashioned, Whiskey Sour, and Jack and Coke."],
+                            ["Jack Daniel's is made in Lynchburg, Tennessee, using a unique charcoal mellowing process known as the Lincoln County Process. This involves filtering the whiskey through 10 feet of sugar maple charcoal before aging it in handcrafted barrels. This process gives Jack Daniel's its distinctive smoothness and character."],
+                            ["Overall, Jack Daniel's Tennessee Whiskey is a classic and iconic American whiskey known for its smoothness and rich flavor profile. Its versatility and consistent quality make it a favorite among whiskey enthusiasts and a staple in any bar."]
+                        ]
                     }
                 ]
             }
@@ -273,11 +264,23 @@
                             ["Bombay Sapphire is crafted using a unique vapor infusion process, where the botanicals are suspended above the spirit in perforated copper baskets during distillation. This method ensures that the flavors of the botanicals are delicately infused into the gin, resulting in a balanced and aromatic spirit. The ten botanicals used in Bombay Sapphire are sourced from all over the world, contributing to its distinctive flavor profile."],
                             ["Overall, Bombay Sapphire is a premium gin known for its exceptional quality and aromatic complexity. Its smooth, balanced flavor and versatility make it a favorite among gin enthusiasts and a staple in any well-stocked bar."]
                         ]
-                    }
-                    ,
+                    },
                     {
-                        "name" : ["Tanqueray"]
+                        "name": ["Tanqueray"],
+                        "photo": "./images/tanqueray.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["47.3% ABV (94.6 proof)"],
+                            ["Tanqueray has a clear, crystalline appearance, reflecting its purity and high quality."],
+                            ["The aroma of Tanqueray is vibrant and aromatic, with a prominent note of juniper berries. This is complemented by hints of coriander, angelica root, and licorice, creating a well-balanced and inviting nose."],
+                            ["On the palate, Tanqueray is smooth and crisp, with the juniper upfront, followed by bright citrus notes and a complex blend of botanicals. The flavor is clean and refreshing, with a slight peppery finish."],
+                            ["The finish is dry and lingering, with persistent notes of juniper and a hint of spice, leaving a clean and refreshing aftertaste."],
+                            ["Tanqueray is incredibly versatile and pairs well with a variety of mixers and cocktails. It is perfect for classic gin and tonics, martinis, and refreshing cocktails like the Negroni, Tom Collins, and Gin Fizz. It also pairs well with seafood dishes, light salads, and Mediterranean cuisine."],
+                            ["Tanqueray is crafted using a secret blend of four botanicals: juniper, coriander, angelica root, and licorice. It is distilled four times to remove any impurities and achieve its distinctive, smooth taste. The precise blend and distillation process give Tanqueray its unique flavor profile."],
+                            ["Overall, Tanqueray is a premium gin known for its exceptional quality and balanced flavor. Its smooth, crisp taste and versatility make it a favorite among gin enthusiasts and a staple in any well-stocked bar."]
+                        ]
                     }
+                    
                 ]
             }
         ]
@@ -287,11 +290,24 @@
         "type" : "Vodka",
         "sections" : [
             {
-                "category" : "",
+                "category" : null,
                 "brands" : [
                     {
-                        "name" : ""
+                        "name": ["Grey Goose"],
+                        "photo": "./images/grey_goose_vodka.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Grey Goose Vodka is clear and crystalline, reflecting its purity and high quality."],
+                            ["The aroma of Grey Goose Vodka is clean and fresh, with subtle notes of almond and a hint of citrus."],
+                            ["On the palate, Grey Goose Vodka is smooth and silky, with a rounded texture. It features hints of almond, fresh citrus, and a touch of sweetness, providing a balanced and refined flavor profile."],
+                            ["The finish is crisp and clean, with a slight lingering sweetness and a smooth, satisfying aftertaste."],
+                            ["Grey Goose Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Martini, Vodka Tonic, and Cosmopolitan. It also pairs nicely with caviar, smoked salmon, and fresh oysters."],
+                            ["Grey Goose Vodka is crafted in France using the finest French ingredients, including soft winter wheat from Picardy and pure spring water from Gensac-la-Pallue. The vodka undergoes a meticulous distillation process, ensuring its exceptional quality and smoothness."],
+                            ["Overall, Grey Goose Vodka is a premium vodka known for its exceptional quality and refined flavor. Its smooth, clean taste and versatility make it a favorite among vodka enthusiasts and a staple in any well-stocked bar."]
+                        ]
                     }
+                    
                 ]
             }
         ]
@@ -301,11 +317,24 @@
         "type" : "Rum",
         "sections" : [
             {
-                "category" : "",
+                "category" : null,
                 "brands" : [
                     {
-                        "name" : ""
+                        "name": ["Plantation", "(Dark Rum)"],
+                        "photo": "./images/plantation_dark_rum.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Plantation Dark Rum has a rich, dark amber color with golden highlights, reflecting its depth and complexity."],
+                            ["The aroma of Plantation Dark Rum is rich and inviting, with notes of caramel, molasses, and brown sugar. There are also hints of tropical fruits, vanilla, and a touch of spice."],
+                            ["On the palate, Plantation Dark Rum is full-bodied and smooth, with flavors of caramel, toffee, and dried fruits. The rum has a well-balanced sweetness with hints of spice, vanilla, and oak, providing a complex and satisfying taste experience."],
+                            ["The finish is long and warm, with lingering notes of caramel, spice, and a hint of smokiness, leaving a rich and memorable aftertaste."],
+                            ["Plantation Dark Rum pairs well with a variety of foods, including grilled meats, barbecue, rich desserts, and tropical fruit dishes. It is also excellent in classic rum cocktails such as the Mai Tai, Dark 'n' Stormy, and Rum Punch."],
+                            ["Plantation Dark Rum is crafted using a blend of rums from the Caribbean, primarily from Barbados and Jamaica. The rums are aged in oak barrels, which imparts depth and complexity to the final product. The blending and aging process is overseen by master blenders to ensure consistency and quality."],
+                            ["Overall, Plantation Dark Rum is a premium rum known for its rich flavor profile and smooth, complex character. Its versatility and depth make it a favorite among rum enthusiasts and a perfect addition to any bar."]
+                        ]
                     }
+                    
                 ]
             }
         ]
@@ -318,24 +347,62 @@
                 "category" : "Blanco",
                 "brands" : [
                     {
-                        "name" : ""
+                        "name": ["Don Julio"],
+                        "photo": "./images/don_julio_blanco.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Don Julio Blanco Tequila is crystal clear, showcasing its purity and quality."],
+                            ["The aroma of Don Julio Blanco is crisp and fresh, with notes of citrus, lime, and grapefruit. There are also subtle hints of agave and a touch of herbal undertones."],
+                            ["On the palate, Don Julio Blanco is light and smooth, with a clean and fresh taste. The flavors of citrus and agave are prominent, complemented by hints of black pepper and a touch of sweetness."],
+                            ["The finish is clean and crisp, with a lingering taste of citrus and agave, leaving a refreshing and satisfying aftertaste."],
+                            ["Don Julio Blanco Tequila pairs well with a variety of foods, including fresh seafood, ceviche, grilled chicken, and spicy Mexican dishes. It is also excellent in classic tequila cocktails such as the Margarita, Paloma, and Tequila Sunrise."],
+                            ["Don Julio Blanco is made from 100% blue agave, harvested from the highlands of Jalisco, Mexico. The agave is carefully selected and slow-cooked in traditional brick ovens before being distilled in stainless steel pot stills. This meticulous process ensures the highest quality and purity of the final product."],
+                            ["Overall, Don Julio Blanco is a premium tequila known for its exceptional quality and smooth, crisp flavor. Its versatility and refined taste make it a favorite among tequila enthusiasts and a perfect choice for any occasion."]
+                        ]
                     }
+                    
                 ]
             },
             {
                 "category" : "Reposado",
                 "brands" : [
                     {
-                        "name" : ""
-                    }
+                        "name": ["Don Julio"],
+                        "photo": "./images/don_julio_reposado.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Don Julio Reposado Tequila has a light amber color with golden hues, reflecting its aging process."],
+                            ["The aroma of Don Julio Reposado is rich and inviting, with notes of lemon, citrus, and a hint of ripe stone fruit. There are also subtle undertones of vanilla, spice, and toasted oak."],
+                            ["On the palate, Don Julio Reposado is smooth and elegant, with a balance of flavors including caramel, cooked agave, and a touch of chocolate. The oak aging adds depth and complexity, with hints of cinnamon and butterscotch."],
+                            ["The finish is warm and lingering, with notes of vanilla, oak, and a slight hint of pepper, leaving a satisfying and rich aftertaste."],
+                            ["Don Julio Reposado Tequila pairs well with a variety of foods, including grilled meats, roasted vegetables, rich stews, and spicy dishes. It is also excellent in premium tequila cocktails such as the Reposado Old Fashioned, Tequila Sour, and Tequila Negroni."],
+                            ["Don Julio Reposado is made from 100% blue agave, harvested from the highlands of Jalisco, Mexico. The agave is slow-cooked in traditional brick ovens before being distilled and aged for eight months in American white oak barrels. This aging process imparts a smooth and complex character to the tequila."],
+                            ["Overall, Don Julio Reposado is a premium tequila known for its rich flavor profile and smooth, complex character. Its balance of flavors and refined taste make it a favorite among tequila enthusiasts and a perfect choice for sipping or mixing in cocktails."]
+                        ]
+                    }                    
                 ]
             },
             {
                 "category" : "Anejo",
                 "brands" : [
                     {
-                        "name" : ""
+                        "name": ["Don Julio"],
+                        "photo": "./images/don_julio_anejo.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Don Julio Añejo Tequila has a rich, golden amber color, indicative of its extended aging process."],
+                            ["The aroma of Don Julio Añejo is complex and inviting, with notes of butterscotch, honey, and vanilla. There are also subtle hints of caramel, dried fruit, and toasted oak."],
+                            ["On the palate, Don Julio Añejo is rich and full-bodied, with flavors of dark chocolate, vanilla, and toffee. The oak aging contributes notes of cinnamon, nutmeg, and a touch of smokiness, creating a well-rounded and sophisticated taste experience."],
+                            ["The finish is long and smooth, with lingering notes of caramel, oak, and a hint of spice, leaving a warm and satisfying aftertaste."],
+                            ["Don Julio Añejo Tequila pairs well with a variety of rich foods, including grilled steaks, aged cheeses, dark chocolate, and dessert pastries. It is also excellent for sipping neat or in premium cocktails such as the Añejo Old Fashioned and Añejo Manhattan."],
+                            ["Don Julio Añejo is made from 100% blue agave, harvested from the highlands of Jalisco, Mexico. The agave is slow-cooked in traditional brick ovens before being distilled and aged for 18 months in American white oak barrels. This extended aging process imparts a deep and complex character to the tequila."],
+                            ["Overall, Don Julio Añejo is a premium tequila known for its rich and sophisticated flavor profile. Its depth, complexity, and smooth finish make it a favorite among tequila connoisseurs and a perfect choice for special occasions."]
+                        ]
                     }
+                    
                 ]
             }
         ]
@@ -345,10 +412,10 @@
         "type" : "Brandy",
         "sections" : [
             {
-                "category" : "",
+                "category" : null,
                 "brands" : [
                     {
-                        "name" : ""
+                        "name" : ["Coming Soon"]
                     }
                 ]
             }
@@ -359,10 +426,10 @@
         "type" : "Cordials",
         "sections" : [
             {
-                "category" : "",
+                "category" : null,
                 "brands" : [
                     {
-                        "name" : ""
+                        "name" : ["Coming Soon"]
                     }
                 ]
             }
@@ -373,11 +440,65 @@
         "type" : "Beer",
         "sections" : [
             {
-                "category" : "",
+                "category" : "Draft",
                 "brands" : [
                     {
-                        "name" : ""
+                        "name": ["Sapporo"],
+                        "photo": "./images/sapporo_draft.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["5% ABV"],
+                            ["Sapporo Draft Beer has a clear, golden color with a bright white, frothy head."],
+                            ["The aroma of Sapporo Draft is light and crisp, with notes of malt, grain, and a subtle hint of hops. There are also delicate floral and herbal undertones."],
+                            ["On the palate, Sapporo Draft is smooth and refreshing, with a balanced malt sweetness and a clean, crisp finish. The light hop bitterness adds a touch of complexity without overpowering the malt character."],
+                            ["The finish is clean and dry, with a slight lingering malt sweetness and a refreshing aftertaste that makes it easy to drink."],
+                            ["Sapporo Draft pairs well with a variety of foods, including sushi, sashimi, grilled meats, seafood, and light salads. Its crisp and clean profile makes it a versatile beer for many different cuisines."],
+                            ["Sapporo Draft is brewed using high-quality ingredients, including malted barley, hops, and rice. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Sapporo is known for its meticulous attention to detail and commitment to brewing excellence."],
+                            ["Overall, Sapporo Draft is a premium lager that offers a refreshing and clean drinking experience. Its balanced flavor profile and versatility make it a popular choice for beer enthusiasts and a great accompaniment to various dishes."]
+                        ]
                     }
+                    
+                ]
+            },
+            {
+                "category" : "Can",
+                "brands" : [
+                    {
+                        "name": ["Sapporo"],
+                        "photo": "./images/sapporo_can.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["5% ABV"],
+                            ["Sapporo Can Beer has a clear, pale golden color with a bright white, frothy head."],
+                            ["The aroma of Sapporo Can is light and crisp, featuring notes of malt, grain, and a subtle hint of hops. There are also delicate floral and herbal undertones that add complexity."],
+                            ["On the palate, Sapporo Can is smooth and refreshing, with a balanced malt sweetness and a clean, crisp finish. The light hop bitterness adds a touch of complexity without overpowering the malt character."],
+                            ["The finish is clean and dry, with a slight lingering malt sweetness and a refreshing aftertaste that makes it easy to drink."],
+                            ["Sapporo Can pairs well with a variety of foods, including sushi, sashimi, grilled meats, seafood, and light salads. Its crisp and clean profile makes it a versatile beer for many different cuisines."],
+                            ["Sapporo Can is brewed using high-quality ingredients, including malted barley, hops, and rice. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Sapporo is known for its meticulous attention to detail and commitment to brewing excellence."],
+                            ["Overall, Sapporo Can is a premium lager that offers a refreshing and clean drinking experience. Its balanced flavor profile and versatility make it a popular choice for beer enthusiasts and a great accompaniment to various dishes."]
+                        ]
+                    }
+                ]
+            },
+            {
+                "category" : "Bottle",
+                "brands" : [
+                    {
+                        "name": ["Sapporo Light"],
+                        "photo": "./images/sapporo_light_bottle.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["3.9% ABV"],
+                            ["Sapporo Light Bottle has a pale, golden color with a light, frothy head."],
+                            ["The aroma of Sapporo Light Bottle is mild and crisp, featuring subtle notes of malt, grain, and a hint of floral hops. There are also faint hints of citrus and bread."],
+                            ["On the palate, Sapporo Light Bottle is light-bodied and refreshing, with delicate flavors of malt and a touch of hop bitterness. The beer has a clean, crisp taste with a hint of sweetness and a refreshing finish."],
+                            ["The finish is clean and crisp, with a slight lingering sweetness and a refreshing aftertaste that makes it easy to drink."],
+                            ["Sapporo Light Bottle pairs well with a variety of foods, including sushi, sashimi, grilled chicken, seafood, and light salads. Its light and refreshing profile makes it a versatile beer for many different cuisines."],
+                            ["Sapporo Light Bottle is brewed using high-quality ingredients, including malted barley, hops, and rice. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Sapporo is known for its meticulous attention to detail and commitment to brewing excellence."],
+                            ["Overall, Sapporo Light Bottle is a premium light beer that offers a refreshing and clean drinking experience. Its mild flavor profile and low alcohol content make it a popular choice for those seeking a lighter option without sacrificing quality."]
+                        ]
+                    }
+                    
                 ]
             }
         ]

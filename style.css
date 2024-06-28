@@ -32,7 +32,7 @@ body {
     border-bottom: .5vh solid antiquewhite;
     padding: 2vh;
     background-color: rgb(0,0,0,0.6);
-    width: 60%;
+    width: 80%;
     height: auto;
     display: flex;
     justify-content: center;
@@ -40,8 +40,8 @@ body {
     text-align: center;
 }
 
-#titleContainer > h1{
-    margin: .25vh;
+#titleContainer > :first-child{
+    width: 30vw;
 }
 
 #buttonContainer{
