@@ -443,7 +443,7 @@
                 "category" : "Draft",
                 "brands" : [
                     {
-                        "name": ["Sapporo"],
+                        "name": ["Sapporo", "(Lager)"],
                         "photo": "./images/sapporo_draft.png",
                         "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
@@ -456,7 +456,53 @@
                             ["Sapporo Draft is brewed using high-quality ingredients, including malted barley, hops, and rice. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Sapporo is known for its meticulous attention to detail and commitment to brewing excellence."],
                             ["Overall, Sapporo Draft is a premium lager that offers a refreshing and clean drinking experience. Its balanced flavor profile and versatility make it a popular choice for beer enthusiasts and a great accompaniment to various dishes."]
                         ]
+                    },
+                    {
+                        "name": ["Asahi", "(Rice Lager)"],
+                        "photo": "./images/asahi_draft.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["5% ABV"],
+                            ["Asahi Draft Beer has a clear, pale golden color with a crisp, white frothy head."],
+                            ["The aroma of Asahi Draft is clean and light, with subtle notes of malt, grain, and a hint of floral hops. There are also faint hints of rice and bread."],
+                            ["On the palate, Asahi Draft is light-bodied and refreshing, with a balanced malt sweetness and a crisp, clean taste. The light hop bitterness adds a touch of complexity, complementing the malt character without overpowering it."],
+                            ["The finish is dry and refreshing, with a slight lingering malt sweetness and a crisp, clean aftertaste that makes it very drinkable."],
+                            ["Asahi Draft pairs well with a variety of foods, including sushi, sashimi, tempura, grilled chicken, and light salads. Its crisp and clean profile makes it a versatile beer that complements many different cuisines."],
+                            ["Asahi Draft is brewed using high-quality ingredients, including malted barley, hops, rice, and pure water. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Asahi is known for its attention to detail and commitment to brewing excellence."],
+                            ["Overall, Asahi Draft is a premium beer that offers a refreshing and clean drinking experience. Its balanced flavor profile and versatility make it a popular choice among beer enthusiasts and a great accompaniment to a wide range of dishes."]
+                        ]
+                    },
+                    {
+                        "name": ["Orange Blossom", "(Pilsner)"],
+                        "photo": "./images/orange_blossom_pilsner_draft.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["5.5% ABV"],
+                            ["Orange Blossom Pilsner Draft has a bright golden color with a light, frothy white head."],
+                            ["The aroma of Orange Blossom Pilsner Draft is inviting and fresh, with prominent notes of honey, orange blossom, and a touch of malt. There are also subtle hints of citrus and floral hops."],
+                            ["On the palate, Orange Blossom Pilsner Draft is light to medium-bodied, with a refreshing and slightly sweet taste. The flavors of honey and orange blossom are well-balanced by a mild malt backbone and a gentle hop bitterness, creating a harmonious and enjoyable drinking experience."],
+                            ["The finish is crisp and clean, with a lingering hint of honey and citrus, leaving a refreshing and slightly sweet aftertaste."],
+                            ["Orange Blossom Pilsner Draft pairs well with a variety of foods, including light appetizers, seafood dishes, salads, and mild cheeses. Its refreshing profile and subtle sweetness make it a versatile beer that complements many different cuisines."],
+                            ["Orange Blossom Pilsner Draft is brewed using high-quality ingredients, including malted barley, hops, orange blossom honey, and pure water. The brewing process involves traditional methods combined with modern techniques to ensure a consistent and high-quality product. The addition of orange blossom honey gives this pilsner its unique and distinctive character."],
+                            ["Overall, Orange Blossom Pilsner Draft is a unique and refreshing beer that offers a delightful blend of honey sweetness and floral notes. Its balanced flavor profile and versatility make it a popular choice for beer enthusiasts looking for something a little different."]
+                        ]
+                    },
+                    {
+                        "name": ["Hazify", "(IPA)"],
+                        "photo": "./images/hazify_draft.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["6.5% ABV"],
+                            ["Hazify Draft has a hazy, golden-orange color with a thick, frothy white head."],
+                            ["The aroma of Hazify Draft is vibrant and juicy, with prominent notes of tropical fruits such as pineapple, mango, and citrus. There are also hints of pine and floral hops, adding to its aromatic complexity."],
+                            ["On the palate, Hazify Draft is medium-bodied with a smooth and creamy mouthfeel. The flavors are dominated by juicy tropical fruits, citrus zest, and a touch of sweet malt. The hop bitterness is well-balanced, providing a refreshing contrast to the fruit-forward profile."],
+                            ["The finish is crisp and slightly dry, with lingering notes of tropical fruits and a mild hop bitterness that leaves a pleasant aftertaste."],
+                            ["Hazify Draft pairs well with a variety of foods, including spicy dishes, grilled meats, seafood, and tangy cheeses. Its fruity and hoppy profile makes it a versatile beer that complements bold and flavorful cuisines."],
+                            ["Hazify Draft is brewed using a blend of high-quality malts, hops, and yeast, with a focus on creating a hazy and juicy beer experience. The brewing process involves dry hopping to enhance the aromatic qualities and achieve the desired hazy appearance."],
+                            ["Overall, Hazify Draft is a modern, hazy beer that offers a delightful blend of juicy fruit flavors and balanced hop bitterness. Its unique character and refreshing taste make it a popular choice among craft beer enthusiasts."]
+                        ]
                     }
+                    
                     
                 ]
             },

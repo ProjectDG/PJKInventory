@@ -1,3 +1,6 @@
+
+
+
 // Fetch the JSON data
 fetch('data.json')
   .then(response => {
@@ -11,6 +14,7 @@ fetch('data.json')
     let backToSection = "";
     let backToCategory = "";
     let currentBrands = [];
+    
 
     // Wait until the document is ready
     $(document).ready(function() {
