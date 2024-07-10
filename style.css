@@ -155,6 +155,11 @@ text{
     display: none;
 }
 
+li{
+    padding: 0% 2vw;
+    list-style: none;
+}
+
 
 @media screen and (orientation: landscape) {
    #main{

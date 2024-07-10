@@ -7,24 +7,26 @@
                 "category" : "Red",
                 "brands" : [
                     {
-                        "name" : ["Chappellet", "(Cabernet Blend)"],
-                        "photo" : "./images/chappellet_cabernet_blend.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "name": ["Chappellet", "(Cabernet Blend)"],
+                        "photo": "./images/chappellet_cabernet_blend.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["Chappellet Red Blend typically exhibits a deep, garnet or ruby-red color, indicative of its concentration and intensity."],
-                            ["On the nose, this wine often presents a complex bouquet of aromas. Expect a mix of dark fruits like blackberry, black cherry, and plum, complemented by notes of spice, vanilla, and cocoa. Additional layers may include hints of oak, tobacco, and sometimes a touch of earthy minerality."],
-                            ["The taste profile of Chappellet Red Blend is rich and full-bodied, with a balanced structure. The dark fruit flavors detected on the nose carry through to the palate, interwoven with secondary notes of chocolate, espresso, and baking spices. The wine's tannins are typically smooth and well-integrated, providing a plush mouthfeel. Acidity is balanced, ensuring a fresh and lively finish."],
-                            ["The finish of Chappellet Red Blend is long and satisfying, often leaving lingering notes of dark fruit, spice, and sometimes a subtle smokiness."],
-                            ["This versatile red blend pairs well with a variety of foods. It's an excellent match for grilled meats, hearty stews, rich pasta dishes, and aged cheeses. The wine's robust character complements the bold flavors of these dishes, enhancing the overall dining experience."],
-                            ["Chappellet Red Blend is crafted with meticulous attention to detail, utilizing grapes from some of the best vineyards in Napa Valley. The blend typically includes varieties such as Cabernet Sauvignon, Merlot, Petit Verdot, and Malbec, each contributing its unique characteristics to the final wine. The wine is aged in oak barrels, which imparts additional complexity and depth."],
-                            ["Overall, Chappellet Red Blend is a sophisticated and elegant wine that embodies the quality and tradition of Chappellet Winery. Its rich flavors, balanced structure, and versatile pairing potential make it a favorite among wine enthusiasts and a standout selection for any occasion."]
+                            ["14.5% ABV"],
+                            ["Chappellet Cabernet Blend has a deep ruby-red color, indicative of its rich and robust character."],
+                            ["The aroma of Chappellet Cabernet Blend is complex and inviting, with notes of blackcurrant, blackberry, and plum, complemented by hints of vanilla, tobacco, and a touch of oak."],
+                            ["On the palate, Chappellet Cabernet Blend is full-bodied and well-structured, featuring flavors of blackcurrant, dark cherry, and plum. These fruit notes are complemented by undertones of dark chocolate, espresso, and a hint of spice. The tannins are firm yet smooth, adding to the wine's depth and complexity."],
+                            ["The finish is long and elegant, with lingering notes of dark fruit and subtle hints of spice and oak, leaving a lasting impression."],
+                            ["Chappellet Cabernet Blend pairs wonderfully with a variety of dishes, including grilled steaks, roasted lamb, hearty pasta dishes, and aged cheeses. Its bold flavors and structured tannins complement the rich, savory profiles of these foods."],
+                            ["Chappellet Cabernet Blend is crafted from high-quality grapes sourced from prime vineyards. The wine undergoes fermentation in stainless steel tanks, followed by aging in French oak barrels, which enhances its complexity and depth."],
+                            ["Overall, Chappellet Cabernet Blend is a sophisticated and well-balanced wine that embodies the excellence of its winemaking heritage. Its rich flavors, elegant structure, and versatile pairing options make it a standout choice for wine enthusiasts and a perfect addition to any occasion."]
                         ]
                     },
                     {
-                        "name" : ["The Critic", "(Cabernet)"],
-                        "photo" : "./images/the_critic_cabernet.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "name": ["The Critic", "(Cabernet)"],
+                        "photo": "./images/the_critic_cabernet.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
+                            ["13.9% ABV"],
                             ["The Critic Cabernet typically showcases a deep, ruby-red color, reflecting its richness and depth."],
                             ["On the nose, this Cabernet offers a bouquet of enticing aromas, including ripe blackberries, cassis, and black cherries, complemented by hints of vanilla, tobacco, and oak."],
                             ["The palate of The Critic Cabernet is robust and full-bodied, featuring concentrated flavors of dark fruits like black currant and plum. These primary notes are supported by undertones of dark chocolate, espresso, and a touch of spice. The tannins are well-structured, providing a firm yet smooth texture."],
@@ -33,64 +35,68 @@
                             ["The Critic Cabernet is carefully crafted from high-quality grapes sourced from prime vineyards. The wine undergoes a meticulous production process, including fermentation in stainless steel tanks and aging in oak barrels, which enhances its complexity and depth."],
                             ["Overall, The Critic Cabernet is a sophisticated and well-balanced wine that embodies the excellence of its winemaking heritage. Its rich flavors, elegant structure, and versatile pairing options make it a standout choice for wine enthusiasts and a perfect addition to any occasion."]
                         ]
-
                     },                   
                     {
                         "name": ["Flowers", "(Pinot Noir)"],
                         "photo": "./images/flowers_pinot_noir.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["Flowers Pinot Noir typically displays a vibrant ruby-red color, often with a slight garnet hue at the edges, showcasing its clarity and depth."],
-                            ["On the nose, this Pinot Noir offers an elegant bouquet of aromas, including ripe strawberries, cherries, and raspberries, complemented by hints of floral notes such as violet and rose petals. Subtle earthy undertones and a touch of spice add complexity."],
-                            ["The palate of Flowers Pinot Noir is silky and refined, with flavors that mirror the aromas of red berries and cherries, enhanced by notes of vanilla, clove, and a hint of forest floor. The wine's texture is velvety, supported by balanced acidity and fine-grained tannins."],
-                            ["The finish is long and graceful, with lingering flavors of red fruit, spice, and a subtle minerality, leaving a refreshing and harmonious impression."],
-                            ["Flowers Pinot Noir pairs beautifully with a range of dishes, including grilled salmon, roasted poultry, mushroom risotto, and soft cheeses. Its delicate flavors and silky texture complement lighter and more nuanced flavors superbly."],
-                            ["Flowers Pinot Noir is crafted from meticulously selected grapes sourced from estate vineyards on the Sonoma Coast and other premium vineyard sites. The wine is fermented in small lots using native yeasts and undergoes gentle punch-downs to preserve fruit purity. Aging in French oak barrels adds layers of complexity and enhances the wine's structure."],
-                            ["Overall, Flowers Pinot Noir is a sophisticated and expressive wine that captures the essence of its cool-climate origins. With its vibrant fruit, elegant structure, and versatile food pairing ability, it is a favorite among Pinot Noir enthusiasts and a delightful choice for any occasion."]
+                            ["13.5% ABV"],
+                            ["Flowers Pinot Noir has a garnet red color with a slight purple hue, showcasing its elegance and depth."],
+                            ["The aroma of Flowers Pinot Noir is complex and aromatic, with notes of ripe strawberries, cherries, and raspberries, complemented by hints of earthy spices, violet, and a touch of oak."],
+                            ["On the palate, Flowers Pinot Noir is silky and refined, with flavors of red berries, cranberry, and pomegranate. The wine has a velvety texture and balanced acidity, with gentle tannins that provide structure without overwhelming the palate."],
+                            ["The finish is long and graceful, with lingering notes of red fruit, subtle spice, and a hint of forest floor, leaving a lingering and satisfying impression."],
+                            ["Flowers Pinot Noir pairs beautifully with a variety of dishes, including roasted duck, grilled salmon, mushroom risotto, and soft cheeses. Its delicate yet flavorful profile complements a range of flavors and textures."],
+                            ["Flowers Pinot Noir is crafted from hand-harvested grapes sourced from sustainably farmed vineyards on the Sonoma Coast. The wine is fermented with native yeasts and aged in French oak barrels, allowing for a natural expression of the terroir and enhancing its complexity."],
+                            ["Overall, Flowers Pinot Noir is a distinguished wine known for its elegance and finesse. Its balanced structure, nuanced flavors, and versatile pairing options make it a favorite among Pinot Noir enthusiasts and a delightful choice for any occasion."]
                         ]
                     },
                     {
                         "name": ["Orin Swift '8 Years in the Desert'", "(Zinfandel Blend)"],
                         "photo": "./images/8_years_in_the_desert.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["Orin Swift '8 Years in the Desert' Zinfandel Blend exhibits a deep, dark garnet color with purple hues, indicating its richness and intensity."],
-                            ["The aroma is bold and complex, with notes of ripe blackberries, dark cherries, and plum. There are also hints of pepper, licorice, and oak, with subtle undertones of chocolate and vanilla."],
-                            ["On the palate, this wine is full-bodied and lush, featuring concentrated flavors of black fruits such as blackcurrant and blackberry, complemented by notes of mocha, tobacco, and a touch of spice. The tannins are firm yet well-integrated, providing a smooth and velvety texture."],
-                            ["The finish is long and lingering, with persistent notes of dark fruit, spice, and a hint of toasted oak, leaving a lasting impression of richness and complexity."],
-                            ["Orin Swift '8 Years in the Desert' pairs excellently with a variety of dishes, including grilled steaks, barbecue ribs, spicy sausages, and hearty stews. It also complements rich chocolate desserts and aged cheeses well."],
-                            ["This wine is a blend of Zinfandel, Petite Sirah, and Syrah. The grapes are sourced from top vineyards across California. The wine undergoes fermentation in both stainless steel and oak, followed by aging in French oak barrels to enhance its complexity and depth."],
-                            ["Orin Swift '8 Years in the Desert' is a powerful and expressive wine that embodies the craftsmanship and creativity of its winemaker. With its bold flavors, complex aroma, and elegant structure, it is a standout choice for lovers of robust red blends."]
+                            ["15.7% ABV"],
+                            ["Orin Swift '8 Years in the Desert' Zinfandel Blend has a deep garnet color, hinting at its bold and intense nature."],
+                            ["The aroma of this Zinfandel Blend is powerful and enticing, with notes of ripe blackberries, dark cherries, and plum, layered with hints of vanilla, baking spices, and a touch of cedar."],
+                            ["On the palate, '8 Years in the Desert' is full-bodied and opulent, with flavors of blackberry jam, raspberry compote, and black pepper. The wine has a rich texture and velvety tannins that add depth and structure."],
+                            ["The finish is long and lingering, with complex layers of dark fruit, spice, and a hint of cocoa, leaving a lasting impression."],
+                            ["Orin Swift '8 Years in the Desert' pairs well with robust dishes such as grilled meats, barbecued ribs, hearty stews, and aged cheeses. Its bold flavors and structured profile complement rich and savory dishes."],
+                            ["'8 Years in the Desert' is crafted from a blend of Zinfandel and other Rhône varietals sourced from premier vineyards across California. The wine undergoes extended maceration and aging in French oak barrels, which enhances its richness and complexity."],
+                            ["Overall, Orin Swift '8 Years in the Desert' Zinfandel Blend is a powerful and luxurious wine known for its intense flavors and velvety texture. Its bold character and versatile pairing options make it a standout choice for wine enthusiasts seeking a memorable experience."]
                         ]
                     }, 
                     {
                         "name": ["Planet Oregon", "(Pinot Noir)"],
                         "photo": "./images/planet_oregon_pinot_noir.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["Planet Oregon Pinot Noir has a bright ruby-red color, indicative of its vibrant and youthful nature."],
-                            ["The aroma of this Pinot Noir is enticing, with notes of fresh red berries such as strawberry and raspberry, complemented by hints of cherry, rose petals, and a touch of earthiness."],
-                            ["On the palate, Planet Oregon Pinot Noir is light to medium-bodied, with flavors of red fruit like cranberry and raspberry, accented by subtle spice, herbaceous undertones, and a hint of minerality. The wine's acidity is well-balanced, providing a refreshing and lively mouthfeel."],
-                            ["The finish is smooth and lingering, with delicate notes of red fruit and a gentle hint of spice, leaving a pleasant and lasting impression."],
-                            ["This Pinot Noir pairs beautifully with a variety of dishes, including grilled salmon, roasted chicken, mushroom risotto, and light pasta dishes. Its versatility makes it an excellent companion to a wide range of cuisines."],
-                            ["Planet Oregon Pinot Noir is produced using sustainably farmed grapes sourced from select vineyards in Oregon's Willamette Valley. The wine is fermented in stainless steel and aged in French oak barrels, which helps to preserve its fresh fruit character while adding subtle complexity."],
-                            ["Overall, Planet Oregon Pinot Noir is a delightful and approachable wine that showcases the quality and character of Oregon Pinot Noir. Its bright fruit flavors, balanced acidity, and smooth finish make it a perfect choice for any occasion."]
+                            ["13.5% ABV"],
+                            ["Planet Oregon Pinot Noir has a vibrant ruby-red color, showcasing its youthful and approachable character."],
+                            ["The aroma of Planet Oregon Pinot Noir is inviting, with notes of ripe cherries, strawberries, and cranberries, complemented by hints of floral undertones and a touch of earthiness."],
+                            ["On the palate, Planet Oregon Pinot Noir is medium-bodied and silky, with flavors of red berries, plum, and a hint of spice. The wine has a balanced acidity and soft tannins, offering a smooth and enjoyable mouthfeel."],
+                            ["The finish is clean and lingering, with gentle notes of red fruit and a touch of minerality, leaving a refreshing and satisfying aftertaste."],
+                            ["Planet Oregon Pinot Noir pairs well with a variety of dishes, including roasted chicken, grilled salmon, mushroom risotto, and soft cheeses. Its balanced profile complements a range of flavors and textures."],
+                            ["Planet Oregon Pinot Noir is sustainably sourced from vineyards in Oregon's Willamette Valley, known for its cool climate and ideal conditions for growing Pinot Noir. The wine is fermented with native yeasts and aged in a combination of French and American oak barrels, preserving its natural fruit flavors and enhancing its complexity."],
+                            ["Overall, Planet Oregon Pinot Noir is a versatile and approachable wine known for its fruit-forward character and balanced structure. Its smooth texture and bright acidity make it a favorite among Pinot Noir enthusiasts and a delightful choice for everyday enjoyment."]
                         ]
                     },                    
                     {
-                        "name" : ["Viña Cobos Felino", "(Malbec)"],
-                        "photo" : "./images/felino_malbec.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "name": ["Viña Cobos Felino", "(Malbec)"],
+                        "photo": "./images/felino_malbec.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["The Critic Cabernet typically showcases a deep, ruby-red color, reflecting its richness and depth."],
-                            ["On the nose, this Cabernet offers a bouquet of enticing aromas, including ripe blackberries, cassis, and black cherries, complemented by hints of vanilla, tobacco, and oak."],
-                            ["The palate of The Critic Cabernet is robust and full-bodied, featuring concentrated flavors of dark fruits like black currant and plum. These primary notes are supported by undertones of dark chocolate, espresso, and a touch of spice. The tannins are well-structured, providing a firm yet smooth texture."],
-                            ["The finish is long and lingering, with persistent notes of dark fruit and subtle hints of spice and oak, leaving a lasting impression."],
-                            ["This Cabernet pairs wonderfully with a variety of dishes, including grilled steaks, roasted lamb, hearty pasta dishes, and aged cheeses. Its bold flavors and structured tannins complement the rich, savory profiles of these foods."],
-                            ["The Critic Cabernet is carefully crafted from high-quality grapes sourced from prime vineyards. The wine undergoes a meticulous production process, including fermentation in stainless steel tanks and aging in oak barrels, which enhances its complexity and depth."],
-                            ["Overall, The Critic Cabernet is a sophisticated and well-balanced wine that embodies the excellence of its winemaking heritage. Its rich flavors, elegant structure, and versatile pairing options make it a standout choice for wine enthusiasts and a perfect addition to any occasion."]
+                            ["14.5% ABV"],
+                            ["Viña Cobos Felino Malbec has a deep, dark purple color, reflecting its rich and intense character."],
+                            ["The aroma of Viña Cobos Felino Malbec is complex and inviting, with notes of ripe blackberries, plums, and black cherries, complemented by hints of violets, spices, and a touch of oak."],
+                            ["On the palate, Viña Cobos Felino Malbec is full-bodied and well-structured, with flavors of blackberries, plums, and dark chocolate. The wine has a velvety texture and balanced acidity, with well-integrated tannins adding to its depth and complexity."],
+                            ["The finish is long and smooth, with lingering notes of dark fruit and subtle hints of spice and oak, leaving a lasting impression."],
+                            ["Viña Cobos Felino Malbec pairs well with a variety of foods, including grilled meats, roasted vegetables, hearty pasta dishes, and aged cheeses. Its rich and robust profile complements the bold flavors of these dishes."],
+                            ["Viña Cobos Felino Malbec is crafted from hand-harvested grapes sourced from select vineyards in Mendoza, Argentina. The winemaking process includes fermentation in stainless steel tanks and aging in French and American oak barrels for several months, enhancing its complexity and depth."],
+                            ["Overall, Viña Cobos Felino Malbec is a premium wine known for its rich and complex flavor profile. Its full-bodied and well-structured character, combined with its versatility in food pairings, makes it a favorite choice for Malbec enthusiasts and a perfect addition to any occasion."]
                         ]
                     }
+                    
                     
                 ]
             },
@@ -100,23 +106,24 @@
                     {
                         "name": ["Alexander Valley", "(Chardonnay)"],
                         "photo": "./images/alexander_valley_chardonnay.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["Alexander Valley Chardonnay exhibits a brilliant golden-yellow color with a slight green hue, reflecting its freshness and vibrancy."],
-                            ["The aroma of this Chardonnay is inviting and complex, with notes of ripe apple, pear, and tropical fruits such as pineapple and mango. Subtle hints of vanilla, butter, and toasted oak add depth and richness."],
-                            ["On the palate, Alexander Valley Chardonnay is rich and full-bodied, with flavors of ripe apple, pear, and citrus, complemented by creamy notes of butter and vanilla. The wine's acidity is well-balanced, providing a lively and refreshing mouthfeel."],
-                            ["The finish is long and smooth, with lingering notes of fruit, vanilla, and a touch of oak, leaving a satisfying and elegant aftertaste."],
-                            ["This Chardonnay pairs wonderfully with a variety of dishes, including roasted chicken, grilled seafood, creamy pasta dishes, and soft cheeses. Its rich flavors and balanced acidity make it a versatile companion to many different cuisines."],
-                            ["Alexander Valley Chardonnay is crafted from carefully selected grapes grown in the Alexander Valley region of California. The wine undergoes fermentation in stainless steel and oak barrels, followed by aging in oak to enhance its complexity and depth. The use of malolactic fermentation contributes to its creamy texture and rich flavors."],
-                            ["Overall, Alexander Valley Chardonnay is a sophisticated and well-balanced wine that showcases the quality and character of the Alexander Valley terroir. Its rich fruit flavors, creamy texture, and elegant finish make it a standout choice for Chardonnay lovers and a perfect addition to any occasion."]
+                            ["14.2% ABV"],
+                            ["Alexander Valley Chardonnay has a pale straw color with golden hues, reflecting its elegance and freshness."],
+                            ["The aroma of Alexander Valley Chardonnay is inviting, with notes of tropical fruits such as pineapple and mango, complemented by hints of ripe pear, vanilla, and a touch of toasted oak."],
+                            ["On the palate, Alexander Valley Chardonnay is medium to full-bodied, with flavors of citrus, green apple, and creamy peach. The wine has a balanced acidity and a rich, creamy texture, with subtle oak notes adding complexity."],
+                            ["The finish is long and lingering, with a creamy mouthfeel and notes of tropical fruit and a hint of vanilla, leaving a lasting impression."],
+                            ["Alexander Valley Chardonnay pairs well with a variety of dishes, including seafood such as grilled shrimp or lobster, creamy pasta dishes, roasted chicken, and mild cheeses. Its balanced acidity and creamy texture complement a wide range of flavors."],
+                            ["Alexander Valley Chardonnay is crafted from hand-harvested grapes sourced from select vineyards in Alexander Valley, Sonoma County. The wine undergoes partial malolactic fermentation and aging in French oak barrels, which enhances its richness and adds layers of complexity."],
+                            ["Overall, Alexander Valley Chardonnay is a refined and well-balanced wine known for its fruit-forward character and creamy texture. Its versatility in pairing with foods and its approachable style make it a favorite among Chardonnay enthusiasts."]
                         ]
-                    }
-                    ,
+                    },
                     {
                         "name": ["Briganti Nonnina Filomena", "(Pinot Grigio)"],
                         "photo": "./images/briganti_pinot_grigio.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV","Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
+                            ["12.5% ABV"],
                             ["Briganti Nonnina Filomena Pinot Grigio has a pale straw color with hints of green, indicating its freshness and youthful character."],
                             ["The aroma is fresh and lively, with notes of green apple, pear, and citrus fruits such as lemon and lime. Subtle floral hints and a touch of minerality add complexity to the bouquet."],
                             ["On the palate, Briganti Nonnina Filomena Pinot Grigio is light to medium-bodied, with crisp and clean flavors of green apple, pear, and citrus. The wine's bright acidity provides a refreshing and zesty mouthfeel, with a hint of minerality that adds depth."],
@@ -130,17 +137,18 @@
                     {
                         "name": ["ZD", "(Chardonnay)"],
                         "photo": "./images/zd_chardonnay.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["ZD Chardonnay has a bright, golden straw color, indicating its freshness and quality."],
-                            ["The aroma of ZD Chardonnay is vibrant and complex, with notes of citrus, green apple, and pear. These are complemented by hints of tropical fruit, vanilla, and a touch of toasted oak, adding depth and richness."],
-                            ["On the palate, ZD Chardonnay is full-bodied and well-balanced, with flavors of ripe apple, pear, and lemon zest. The creamy texture is enhanced by notes of butter and vanilla, with a subtle hint of minerality. The wine's acidity is crisp and refreshing, providing a lively mouthfeel."],
-                            ["The finish is long and elegant, with lingering notes of citrus and tropical fruit, intertwined with a touch of oak and vanilla, leaving a clean and satisfying aftertaste."],
-                            ["ZD Chardonnay pairs beautifully with a wide range of dishes, including roasted chicken, seafood, creamy pastas, and soft cheeses. Its rich flavors and balanced acidity make it a versatile choice for various cuisines."],
-                            ["ZD Chardonnay is crafted using grapes sourced from select vineyards in California. The wine undergoes fermentation in a combination of stainless steel and oak barrels, followed by aging in French oak. This process enhances its complexity and imparts a creamy texture and rich flavors. Malolactic fermentation adds to the wine's buttery character."],
-                            ["Overall, ZD Chardonnay is a refined and elegant wine that showcases the quality of California Chardonnay. Its vibrant aromas, rich flavors, and balanced acidity make it a standout choice for Chardonnay enthusiasts and a delightful addition to any occasion."]
+                            ["14.5% ABV"],
+                            ["ZD Chardonnay has a bright golden color, reflecting its richness and depth."],
+                            ["The aroma of ZD Chardonnay is vibrant and complex, with notes of ripe apple, pear, and tropical fruits, complemented by hints of vanilla, toasted oak, and a touch of citrus."],
+                            ["On the palate, ZD Chardonnay is full-bodied and creamy, with rich flavors of apple, pear, and pineapple. The oak aging imparts notes of vanilla and butter, while a balanced acidity provides a refreshing backbone."],
+                            ["The finish is long and elegant, with lingering notes of fruit and a subtle hint of toasty oak, leaving a satisfying and refined aftertaste."],
+                            ["ZD Chardonnay pairs well with a variety of foods, including roasted chicken, grilled seafood, creamy pasta dishes, and soft cheeses. Its rich and balanced profile enhances the flavors of these dishes, making it a versatile choice for food pairings."],
+                            ["ZD Chardonnay is crafted from hand-harvested grapes sourced from select vineyards in California. The wine undergoes fermentation and aging in American oak barrels, which enhances its complexity and depth. The winemaking process includes sur lie aging, where the wine is aged on its lees (spent yeast cells) to develop a rich and creamy texture."],
+                            ["Overall, ZD Chardonnay is a premium wine known for its rich and complex flavor profile. Its full-bodied and creamy character, combined with its versatility in food pairings, makes it a favorite choice for Chardonnay enthusiasts and a perfect addition to any occasion."]
                         ]
-                    }
+                    }                    
                     
                 ]
             },
@@ -148,17 +156,40 @@
                 "category" : "Rose",
                 "brands" : [
                     {
-                        "name": ["Whispering Angel"],
+                        "name": ["Whispering Angel", "(Rosé)"],
                         "photo": "./images/whispering_angel_rose.png",
-                        "sectionNames": ["Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["Whispering Angel Rosé has a pale, salmon-pink color, indicative of its delicate and refined character."],
-                            ["The aroma of Whispering Angel is fresh and inviting, with notes of red berries such as strawberry and raspberry, complemented by hints of peach, citrus, and a subtle floral undertone."],
-                            ["On the palate, Whispering Angel is crisp and elegant, with flavors of red fruit, citrus, and a touch of minerality. The wine has a smooth texture and a well-balanced acidity, providing a refreshing and lively mouthfeel."],
-                            ["The finish is clean and refreshing, with lingering notes of red berries and citrus, leaving a pleasant and invigorating aftertaste."],
-                            ["Whispering Angel Rosé pairs beautifully with a variety of dishes, including seafood, grilled vegetables, light salads, and Mediterranean cuisine. Its crisp and refreshing character also makes it an excellent aperitif."],
-                            ["Whispering Angel is produced by Château d'Esclans in the Provence region of France, known for its high-quality rosé wines. The wine is made from a blend of Grenache, Cinsault, and Vermentino grapes, harvested in the cool of the night to preserve their freshness. It undergoes fermentation in stainless steel tanks to retain its bright and vibrant character."],
-                            ["Overall, Whispering Angel is a sophisticated and elegant rosé that embodies the excellence of Provence winemaking. Its delicate aromas, crisp flavors, and refreshing finish make it a standout choice for rosé lovers and a perfect addition to any occasion."]
+                            ["13% ABV"],
+                            ["Whispering Angel Rosé has a pale, light pink color, reflecting its delicate and elegant nature."],
+                            ["The aroma of Whispering Angel Rosé is fresh and enticing, with notes of red berries, citrus, and a hint of peach. There are also subtle floral undertones adding to its complexity."],
+                            ["On the palate, Whispering Angel Rosé is smooth and well-balanced, with flavors of strawberry, raspberry, and a touch of citrus. The wine has a crisp acidity that enhances its refreshing character, making it very easy to drink."],
+                            ["The finish is clean and refreshing, with lingering notes of red berries and a hint of minerality, leaving a pleasant and satisfying aftertaste."],
+                            ["Whispering Angel Rosé pairs well with a variety of foods, including seafood, salads, light pasta dishes, and grilled chicken. Its versatile and refreshing profile makes it an excellent choice for pairing with many dishes."],
+                            ["Whispering Angel Rosé is crafted from a blend of Grenache, Cinsault, and Rolle (Vermentino) grapes, sourced from the finest vineyards in the Côtes de Provence region. The wine is produced using a combination of traditional and modern winemaking techniques, including gentle pressing and fermentation in stainless steel tanks to preserve its fresh and vibrant character."],
+                            ["Overall, Whispering Angel Rosé is a premium rosé wine known for its delicate and refreshing flavor profile. Its elegant and well-balanced nature, combined with its versatility in food pairings, makes it a favorite choice for rosé enthusiasts and a perfect addition to any occasion."]
+                        ]
+                    }
+                    
+                    
+                ]
+            },
+            {
+                "category" : "Sparkling",
+                "brands" : [
+                    {
+                        "name": ["Albert Bichot", "(Crémant Brut Réserve)"],
+                        "photo": "./images/albert_bichot_cremant_brut_reserve.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["12% ABV"],
+                            ["Albert Bichot Crémant Brut Réserve has a pale golden color with fine, persistent bubbles, reflecting its elegance and quality."],
+                            ["The aroma of Albert Bichot Crémant Brut Réserve is fresh and inviting, with notes of green apple, citrus, and white flowers. There are also subtle hints of brioche and almond, adding complexity to the bouquet."],
+                            ["On the palate, Albert Bichot Crémant Brut Réserve is crisp and lively, with flavors of green apple, lemon zest, and pear. The fine bubbles create a creamy texture, while the balanced acidity provides a refreshing finish."],
+                            ["The finish is clean and elegant, with lingering notes of citrus and a touch of minerality, leaving a pleasant and refreshing aftertaste."],
+                            ["Albert Bichot Crémant Brut Réserve pairs wonderfully with a variety of foods, including seafood, light salads, and soft cheeses. It is also an excellent choice for celebrations and can be enjoyed on its own as an aperitif."],
+                            ["Albert Bichot Crémant Brut Réserve is produced using the traditional method, with a blend of Chardonnay, Pinot Noir, and Gamay grapes. The wine undergoes a second fermentation in the bottle, followed by aging on the lees for a minimum of 12 months, which enhances its complexity and depth."],
+                            ["Overall, Albert Bichot Crémant Brut Réserve is a sophisticated and elegant sparkling wine known for its crisp and refreshing flavor profile. Its fine bubbles and balanced acidity make it a versatile choice for various occasions and a delightful alternative to Champagne."]
                         ]
                     }
                     
@@ -279,7 +310,23 @@
                             ["Tanqueray is crafted using a secret blend of four botanicals: juniper, coriander, angelica root, and licorice. It is distilled four times to remove any impurities and achieve its distinctive, smooth taste. The precise blend and distillation process give Tanqueray its unique flavor profile."],
                             ["Overall, Tanqueray is a premium gin known for its exceptional quality and balanced flavor. Its smooth, crisp taste and versatility make it a favorite among gin enthusiasts and a staple in any well-stocked bar."]
                         ]
+                    },
+                    {
+                        "name": ["Rivi"],
+                        "photo": "./images/rivi_gin.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["43% ABV (86 proof)"],
+                            ["Rivi Gin is clear and bright, reflecting its purity and high-quality distillation process."],
+                            ["The aroma of Rivi Gin is fresh and aromatic, with prominent notes of juniper, citrus zest, and a hint of floral botanicals. There are also subtle undertones of spice and herbs, adding complexity to the bouquet."],
+                            ["On the palate, Rivi Gin is smooth and balanced, with a harmonious blend of juniper, citrus, and herbal flavors. The citrus notes provide a bright and refreshing quality, while the juniper and botanicals offer depth and complexity. The mouthfeel is clean and crisp."],
+                            ["The finish is long and refreshing, with lingering notes of citrus and juniper, leaving a pleasant and invigorating aftertaste."],
+                            ["Rivi Gin pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Gin and Tonic, Martini, and Negroni. It also complements dishes like smoked salmon, grilled seafood, and fresh salads, enhancing their flavors with its botanical complexity."],
+                            ["Rivi Gin is crafted using a blend of traditional and modern techniques, incorporating a selection of high-quality botanicals. The gin is distilled in small batches to ensure consistency and quality. The careful balance of botanicals used in the distillation process gives Rivi Gin its distinctive and refined character."],
+                            ["Overall, Rivi Gin is a premium gin known for its smooth and balanced flavor profile. Its fresh and aromatic qualities, combined with a clean and crisp finish, make it a versatile choice for gin enthusiasts and a perfect addition to any cocktail."]
+                        ]
                     }
+                    
                     
                 ]
             }
@@ -305,6 +352,51 @@
                             ["Grey Goose Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Martini, Vodka Tonic, and Cosmopolitan. It also pairs nicely with caviar, smoked salmon, and fresh oysters."],
                             ["Grey Goose Vodka is crafted in France using the finest French ingredients, including soft winter wheat from Picardy and pure spring water from Gensac-la-Pallue. The vodka undergoes a meticulous distillation process, ensuring its exceptional quality and smoothness."],
                             ["Overall, Grey Goose Vodka is a premium vodka known for its exceptional quality and refined flavor. Its smooth, clean taste and versatility make it a favorite among vodka enthusiasts and a staple in any well-stocked bar."]
+                        ]
+                    },
+                    {
+                        "name": ["Tito's"],
+                        "photo": "./images/titos_vodka.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Tito's Vodka is clear and pristine, reflecting its purity and high quality."],
+                            ["The aroma of Tito's Vodka is clean and neutral, with subtle hints of corn and a slight sweetness."],
+                            ["On the palate, Tito's Vodka is smooth and mellow, with a creamy mouthfeel. The flavor is clean and crisp, with a touch of sweetness and a hint of grain from the corn."],
+                            ["The finish is clean and smooth, with a slight warmth and no harsh aftertaste, making it very approachable."],
+                            ["Tito's Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Vodka Martini, Vodka Tonic, and Moscow Mule. It also complements dishes like smoked salmon, caviar, and light appetizers."],
+                            ["Tito's Vodka is made from 100% corn and is distilled six times in pot stills, ensuring a high level of purity and quality. The vodka is crafted in small batches in Austin, Texas, following traditional methods to achieve its smooth and clean character."],
+                            ["Overall, Tito's Vodka is a premium vodka known for its exceptional smoothness and clean taste. Its versatility and high quality make it a favorite among vodka enthusiasts and a staple in any well-stocked bar."]
+                        ]
+                    },
+                    {
+                        "name": ["Wheatley"],
+                        "photo": "./images/wheatley_vodka.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Wheatley Vodka is crystal clear, reflecting its high level of purity and quality."],
+                            ["The aroma of Wheatley Vodka is clean and fresh, with subtle notes of wheat, a hint of citrus, and a touch of sweetness."],
+                            ["On the palate, Wheatley Vodka is exceptionally smooth and crisp, with a light and creamy mouthfeel. The flavor profile is clean and slightly sweet, with delicate notes of wheat and a hint of vanilla."],
+                            ["The finish is smooth and refreshing, with a clean and slightly sweet aftertaste, making it very easy to sip neat or mix in cocktails."],
+                            ["Wheatley Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Vodka Martini, Vodka Soda, and Bloody Mary. It also complements dishes like fresh seafood, light salads, and soft cheeses."],
+                            ["Wheatley Vodka is crafted in small batches using a unique micro-distillation process. It is distilled ten times from a base of wheat and other grains, resulting in a smooth and refined spirit. The vodka is made at Buffalo Trace Distillery in Frankfort, Kentucky, known for its meticulous production methods."],
+                            ["Overall, Wheatley Vodka is a premium vodka celebrated for its smoothness, clean taste, and versatility. Its refined character and exceptional quality make it a preferred choice for both sipping and mixing."]
+                        ]
+                    },
+                    {
+                        "name": ["Belvedere"],
+                        "photo": "./images/belvedere_vodka.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Belvedere Vodka is crystal clear, reflecting its purity and high-quality distillation process."],
+                            ["The aroma of Belvedere Vodka is clean and fresh, with subtle notes of vanilla, rye, and a hint of citrus. There are also delicate floral and spicy undertones adding complexity."],
+                            ["On the palate, Belvedere Vodka is smooth and velvety, with a rich and creamy mouthfeel. The flavor profile includes notes of vanilla, white pepper, and a touch of almond, balanced by a hint of rye spiciness."],
+                            ["The finish is long and clean, with lingering notes of vanilla and a slight peppery warmth, leaving a refined and satisfying aftertaste."],
+                            ["Belvedere Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Vodka Martini, Vodka Tonic, and Moscow Mule. It also complements dishes like smoked salmon, caviar, and light appetizers, enhancing their flavors with its smooth and clean profile."],
+                            ["Belvedere Vodka is crafted from 100% Polish Dankowskie Rye, which is known for its high starch content and rich, velvety mouthfeel. The vodka is distilled using a proprietary process that includes four distillations to ensure purity and quality. It is produced at the Polmos Zyrardów distillery in Poland, which has over 100 years of vodka-making tradition."],
+                            ["Overall, Belvedere Vodka is a premium vodka celebrated for its exceptional smoothness and refined flavor profile. Its rich and creamy character, combined with its versatility in cocktails and food pairings, makes it a favorite choice for vodka enthusiasts and a staple in any well-stocked bar."]
                         ]
                     }
                     
@@ -333,7 +425,23 @@
                             ["Plantation Dark Rum is crafted using a blend of rums from the Caribbean, primarily from Barbados and Jamaica. The rums are aged in oak barrels, which imparts depth and complexity to the final product. The blending and aging process is overseen by master blenders to ensure consistency and quality."],
                             ["Overall, Plantation Dark Rum is a premium rum known for its rich flavor profile and smooth, complex character. Its versatility and depth make it a favorite among rum enthusiasts and a perfect addition to any bar."]
                         ]
+                    },
+                    {
+                        "name": ["Captain Morgan", "(Spiced Rum)"],
+                        "photo": "./images/captain_morgan_rum.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["35% ABV (70 proof)"],
+                            ["Captain Morgan Spiced Rum has a rich, amber color with golden hues, reflecting its spiced and aged character."],
+                            ["The aroma of Captain Morgan Spiced Rum is warm and inviting, with notes of vanilla, caramel, and a blend of spices including cinnamon and clove. There are also subtle hints of oak and brown sugar."],
+                            ["On the palate, Captain Morgan Spiced Rum is smooth and flavorful, with a harmonious blend of vanilla, caramel, and spices. The sweetness is balanced by the warming spice notes, creating a well-rounded and enjoyable drinking experience."],
+                            ["The finish is smooth and slightly sweet, with lingering notes of vanilla and spice, leaving a warm and satisfying aftertaste."],
+                            ["Captain Morgan Spiced Rum pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Rum and Coke, Spiced Rum Punch, and Dark and Stormy. It also complements dishes like grilled meats, barbecue, and tropical desserts, enhancing their flavors with its spiced character."],
+                            ["Captain Morgan Spiced Rum is crafted using high-quality Caribbean rum, which is aged in oak barrels and infused with a secret blend of spices. The rum undergoes a meticulous production process to ensure consistency and quality, resulting in its distinctive spiced flavor profile."],
+                            ["Overall, Captain Morgan Spiced Rum is a popular and versatile rum known for its smooth and flavorful character. Its blend of spices and sweetness makes it a favorite choice for mixing in cocktails or enjoying on its own, offering a warm and inviting drinking experience."]
+                        ]
                     }
+                    
                     
                 ]
             }
@@ -360,7 +468,22 @@
                             ["Don Julio Blanco is made from 100% blue agave, harvested from the highlands of Jalisco, Mexico. The agave is carefully selected and slow-cooked in traditional brick ovens before being distilled in stainless steel pot stills. This meticulous process ensures the highest quality and purity of the final product."],
                             ["Overall, Don Julio Blanco is a premium tequila known for its exceptional quality and smooth, crisp flavor. Its versatility and refined taste make it a favorite among tequila enthusiasts and a perfect choice for any occasion."]
                         ]
-                    }
+                    },
+                    {
+                        "name": ["Casamigos"],
+                        "photo": "./images/casamigos_blanco_tequila.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Casamigos Blanco Tequila is crystal clear, highlighting its pure and unaged character."],
+                            ["The aroma of Casamigos Blanco Tequila is fresh and crisp, with vibrant notes of citrus, sweet agave, and hints of vanilla and grapefruit. There are also subtle herbal undertones adding complexity."],
+                            ["On the palate, Casamigos Blanco Tequila is smooth and clean, with a rich agave flavor complemented by hints of citrus and vanilla. The mouthfeel is silky, with a slight sweetness balanced by a touch of peppery spice."],
+                            ["The finish is long and clean, with lingering notes of sweet agave and citrus, leaving a refreshing and slightly warming aftertaste."],
+                            ["Casamigos Blanco Tequila pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Margarita, Paloma, and Tequila Sunrise. It also complements dishes like ceviche, grilled shrimp, and fresh salads, enhancing their flavors with its crisp and clean profile."],
+                            ["Casamigos Blanco Tequila is crafted from 100% Blue Weber agaves, which are harvested by hand in the rich clay soil of the Highlands of Jalisco, Mexico. The agaves are slow-cooked in traditional brick ovens for 72 hours and then fermented for 80 hours. The tequila is distilled twice and filtered for purity, resulting in a high-quality and smooth spirit."],
+                            ["Overall, Casamigos Blanco Tequila is a premium tequila known for its exceptional smoothness and rich agave flavor. Its crisp and clean character, along with its versatility in cocktails, makes it a favorite choice for tequila enthusiasts and a standout in any collection."]
+                        ]
+                    }                    
                     
                 ]
             },
@@ -381,7 +504,23 @@
                             ["Don Julio Reposado is made from 100% blue agave, harvested from the highlands of Jalisco, Mexico. The agave is slow-cooked in traditional brick ovens before being distilled and aged for eight months in American white oak barrels. This aging process imparts a smooth and complex character to the tequila."],
                             ["Overall, Don Julio Reposado is a premium tequila known for its rich flavor profile and smooth, complex character. Its balance of flavors and refined taste make it a favorite among tequila enthusiasts and a perfect choice for sipping or mixing in cocktails."]
                         ]
-                    }                    
+                    },
+                    {
+                        "name": ["Casamigos"],
+                        "photo": "./images/casamigos_reposado_tequila.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Casamigos Reposado Tequila has a light amber color, reflecting its aging process in oak barrels."],
+                            ["The aroma of Casamigos Reposado Tequila is rich and complex, with notes of caramel, cocoa, and a touch of agave. There are also hints of oak, vanilla, and spice, adding depth to the bouquet."],
+                            ["On the palate, Casamigos Reposado Tequila is smooth and well-rounded, with flavors of caramel, cocoa, and a hint of citrus. The oak aging imparts a rich and creamy texture, with underlying notes of vanilla and spice that enhance the agave's natural sweetness."],
+                            ["The finish is long and smooth, with lingering notes of caramel and spice, leaving a warm and satisfying aftertaste."],
+                            ["Casamigos Reposado Tequila pairs well with a variety of foods, including grilled meats, roasted vegetables, and rich desserts. It is also excellent in cocktails such as the Reposado Old Fashioned, Tequila Mule, and Margarita, where its complex flavors can shine."],
+                            ["Casamigos Reposado Tequila is crafted from 100% Blue Weber agaves, which are harvested by hand in the rich clay soil of the Highlands of Jalisco, Mexico. The agaves are slow-cooked in traditional brick ovens for 72 hours and then fermented for 80 hours. The tequila is aged for seven months in American white oak barrels, which imparts its distinctive flavor and character."],
+                            ["Overall, Casamigos Reposado Tequila is a premium tequila known for its rich and complex flavor profile. Its smooth and well-rounded character, combined with its versatility in cocktails and food pairings, makes it a favorite choice for tequila enthusiasts."]
+                        ]
+                    }
+                                    
                 ]
             },
             {
@@ -401,7 +540,22 @@
                             ["Don Julio Añejo is made from 100% blue agave, harvested from the highlands of Jalisco, Mexico. The agave is slow-cooked in traditional brick ovens before being distilled and aged for 18 months in American white oak barrels. This extended aging process imparts a deep and complex character to the tequila."],
                             ["Overall, Don Julio Añejo is a premium tequila known for its rich and sophisticated flavor profile. Its depth, complexity, and smooth finish make it a favorite among tequila connoisseurs and a perfect choice for special occasions."]
                         ]
-                    }
+                    },
+                    {
+                        "name": ["Casamigos"],
+                        "photo": "./images/casamigos_anejo_tequila.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Casamigos Añejo Tequila has a deep, rich amber color, reflecting its extended aging process in oak barrels."],
+                            ["The aroma of Casamigos Añejo Tequila is complex and inviting, with prominent notes of caramel, vanilla, and roasted agave. Additional layers of dark chocolate, oak, and spice add depth to the bouquet."],
+                            ["On the palate, Casamigos Añejo Tequila is smooth and full-bodied, with rich flavors of caramel, vanilla, and roasted agave. The oak aging imparts notes of dark chocolate, tobacco, and a hint of cinnamon, creating a well-rounded and luxurious taste experience."],
+                            ["The finish is long and elegant, with lingering notes of caramel, vanilla, and spice, leaving a warm and satisfying aftertaste."],
+                            ["Casamigos Añejo Tequila pairs wonderfully with a variety of foods, including grilled steaks, rich desserts like chocolate cake, and aged cheeses. It also shines in cocktails such as the Añejo Old Fashioned and the Tequila Manhattan, where its complex flavors can be fully appreciated."],
+                            ["Casamigos Añejo Tequila is crafted from 100% Blue Weber agaves, which are harvested by hand in the rich clay soil of the Highlands of Jalisco, Mexico. The agaves are slow-cooked in traditional brick ovens for 72 hours and then fermented for 80 hours. The tequila is aged for 14 months in American white oak barrels, which imparts its distinctive flavor and character."],
+                            ["Overall, Casamigos Añejo Tequila is a premium tequila known for its rich and complex flavor profile. Its smooth and luxurious character, combined with its versatility in cocktails and food pairings, makes it a favorite choice for tequila enthusiasts."]
+                        ]
+                    }                    
                     
                 ]
             }
@@ -543,7 +697,22 @@
                             ["Sapporo Light Bottle is brewed using high-quality ingredients, including malted barley, hops, and rice. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Sapporo is known for its meticulous attention to detail and commitment to brewing excellence."],
                             ["Overall, Sapporo Light Bottle is a premium light beer that offers a refreshing and clean drinking experience. Its mild flavor profile and low alcohol content make it a popular choice for those seeking a lighter option without sacrificing quality."]
                         ]
-                    }
+                    },
+                    {
+                        "name": ["Tsingtao"],
+                        "photo": "./images/tsingtao_bottle.png",
+                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["4.8% ABV"],
+                            ["Tsingtao Bottle Beer has a clear, pale golden color with a frothy white head that dissipates quickly."],
+                            ["The aroma of Tsingtao Bottle Beer is light and crisp, with notes of malt, grain, and a hint of floral hops. There are also subtle hints of grass and a touch of sweetness."],
+                            ["On the palate, Tsingtao Bottle Beer is light-bodied and refreshing, with a balanced flavor profile. The taste includes mild malt sweetness, a touch of grain, and a slight hop bitterness. It is clean and crisp, making it very easy to drink."],
+                            ["The finish is clean and refreshing, with a slight dryness and lingering notes of malt and hops, leaving a pleasant aftertaste."],
+                            ["Tsingtao Bottle Beer pairs well with a variety of foods, including Asian cuisine, seafood, light salads, and grilled vegetables. Its light and refreshing profile makes it a versatile choice for many dishes."],
+                            ["Tsingtao Bottle Beer is brewed using high-quality barley, hops, yeast, and pure mountain water. The beer follows a traditional brewing process that includes a long, slow fermentation to ensure a clean and refreshing taste. It is brewed in Qingdao, China, and has a history dating back to 1903."],
+                            ["Overall, Tsingtao Bottle Beer is a classic lager known for its light and crisp flavor profile. Its refreshing character and versatile pairing options make it a popular choice for beer enthusiasts around the world."]
+                        ]
+                    }                    
                     
                 ]
             }
