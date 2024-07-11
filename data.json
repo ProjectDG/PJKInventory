@@ -9,9 +9,10 @@
                     {
                         "name": ["Chappellet", "(Cabernet Blend)"],
                         "photo": "./images/chappellet_cabernet_blend.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["14.5% ABV"],
+                            ["Napa Valley, California, USA"],
                             ["Chappellet Cabernet Blend has a deep ruby-red color, indicative of its rich and robust character."],
                             ["The aroma of Chappellet Cabernet Blend is complex and inviting, with notes of blackcurrant, blackberry, and plum, complemented by hints of vanilla, tobacco, and a touch of oak."],
                             ["On the palate, Chappellet Cabernet Blend is full-bodied and well-structured, featuring flavors of blackcurrant, dark cherry, and plum. These fruit notes are complemented by undertones of dark chocolate, espresso, and a hint of spice. The tannins are firm yet smooth, adding to the wine's depth and complexity."],
@@ -24,9 +25,10 @@
                     {
                         "name": ["The Critic", "(Cabernet)"],
                         "photo": "./images/the_critic_cabernet.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["13.9% ABV"],
+                            ["Napa Valley, California, USA"],
                             ["The Critic Cabernet typically showcases a deep, ruby-red color, reflecting its richness and depth."],
                             ["On the nose, this Cabernet offers a bouquet of enticing aromas, including ripe blackberries, cassis, and black cherries, complemented by hints of vanilla, tobacco, and oak."],
                             ["The palate of The Critic Cabernet is robust and full-bodied, featuring concentrated flavors of dark fruits like black currant and plum. These primary notes are supported by undertones of dark chocolate, espresso, and a touch of spice. The tannins are well-structured, providing a firm yet smooth texture."],
@@ -39,9 +41,10 @@
                     {
                         "name": ["Flowers", "(Pinot Noir)"],
                         "photo": "./images/flowers_pinot_noir.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["13.5% ABV"],
+                            ["Sonoma Coast, California, USA"],
                             ["Flowers Pinot Noir has a garnet red color with a slight purple hue, showcasing its elegance and depth."],
                             ["The aroma of Flowers Pinot Noir is complex and aromatic, with notes of ripe strawberries, cherries, and raspberries, complemented by hints of earthy spices, violet, and a touch of oak."],
                             ["On the palate, Flowers Pinot Noir is silky and refined, with flavors of red berries, cranberry, and pomegranate. The wine has a velvety texture and balanced acidity, with gentle tannins that provide structure without overwhelming the palate."],
@@ -54,9 +57,10 @@
                     {
                         "name": ["Orin Swift '8 Years in the Desert'", "(Zinfandel Blend)"],
                         "photo": "./images/8_years_in_the_desert.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["15.7% ABV"],
+                            ["California, USA"],
                             ["Orin Swift '8 Years in the Desert' Zinfandel Blend has a deep garnet color, hinting at its bold and intense nature."],
                             ["The aroma of this Zinfandel Blend is powerful and enticing, with notes of ripe blackberries, dark cherries, and plum, layered with hints of vanilla, baking spices, and a touch of cedar."],
                             ["On the palate, '8 Years in the Desert' is full-bodied and opulent, with flavors of blackberry jam, raspberry compote, and black pepper. The wine has a rich texture and velvety tannins that add depth and structure."],
@@ -69,9 +73,10 @@
                     {
                         "name": ["Planet Oregon", "(Pinot Noir)"],
                         "photo": "./images/planet_oregon_pinot_noir.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["13.5% ABV"],
+                            ["Willamette Valley, Oregon, USA"],
                             ["Planet Oregon Pinot Noir has a vibrant ruby-red color, showcasing its youthful and approachable character."],
                             ["The aroma of Planet Oregon Pinot Noir is inviting, with notes of ripe cherries, strawberries, and cranberries, complemented by hints of floral undertones and a touch of earthiness."],
                             ["On the palate, Planet Oregon Pinot Noir is medium-bodied and silky, with flavors of red berries, plum, and a hint of spice. The wine has a balanced acidity and soft tannins, offering a smooth and enjoyable mouthfeel."],
@@ -84,9 +89,10 @@
                     {
                         "name": ["Viña Cobos Felino", "(Malbec)"],
                         "photo": "./images/felino_malbec.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["14.5% ABV"],
+                            ["Mendoza, Argentina"],
                             ["Viña Cobos Felino Malbec has a deep, dark purple color, reflecting its rich and intense character."],
                             ["The aroma of Viña Cobos Felino Malbec is complex and inviting, with notes of ripe blackberries, plums, and black cherries, complemented by hints of violets, spices, and a touch of oak."],
                             ["On the palate, Viña Cobos Felino Malbec is full-bodied and well-structured, with flavors of blackberries, plums, and dark chocolate. The wine has a velvety texture and balanced acidity, with well-integrated tannins adding to its depth and complexity."],
@@ -106,9 +112,10 @@
                     {
                         "name": ["Alexander Valley", "(Chardonnay)"],
                         "photo": "./images/alexander_valley_chardonnay.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["14.2% ABV"],
+                            ["Alexander Valley, Sonoma County, California, USA"],
                             ["Alexander Valley Chardonnay has a pale straw color with golden hues, reflecting its elegance and freshness."],
                             ["The aroma of Alexander Valley Chardonnay is inviting, with notes of tropical fruits such as pineapple and mango, complemented by hints of ripe pear, vanilla, and a touch of toasted oak."],
                             ["On the palate, Alexander Valley Chardonnay is medium to full-bodied, with flavors of citrus, green apple, and creamy peach. The wine has a balanced acidity and a rich, creamy texture, with subtle oak notes adding complexity."],
@@ -121,7 +128,7 @@
                     {
                         "name": ["Briganti Nonnina Filomena", "(Pinot Grigio)"],
                         "photo": "./images/briganti_pinot_grigio.png",
-                        "sectionNames": ["ABV","Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In","Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["12.5% ABV"],
                             ["Briganti Nonnina Filomena Pinot Grigio has a pale straw color with hints of green, indicating its freshness and youthful character."],
@@ -158,7 +165,7 @@
                     {
                         "name": ["Whispering Angel", "(Rosé)"],
                         "photo": "./images/whispering_angel_rose.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["13% ABV"],
                             ["Whispering Angel Rosé has a pale, light pink color, reflecting its delicate and elegant nature."],
@@ -180,7 +187,7 @@
                     {
                         "name": ["Albert Bichot", "(Crémant Brut Réserve)"],
                         "photo": "./images/albert_bichot_cremant_brut_reserve.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["12% ABV"],
                             ["Albert Bichot Crémant Brut Réserve has a pale golden color with fine, persistent bubbles, reflecting its elegance and quality."],
@@ -191,7 +198,22 @@
                             ["Albert Bichot Crémant Brut Réserve is produced using the traditional method, with a blend of Chardonnay, Pinot Noir, and Gamay grapes. The wine undergoes a second fermentation in the bottle, followed by aging on the lees for a minimum of 12 months, which enhances its complexity and depth."],
                             ["Overall, Albert Bichot Crémant Brut Réserve is a sophisticated and elegant sparkling wine known for its crisp and refreshing flavor profile. Its fine bubbles and balanced acidity make it a versatile choice for various occasions and a delightful alternative to Champagne."]
                         ]
-                    }
+                    },
+                    {
+                        "name": ["Charles Le Bel 1818", "(Inspiration Brut)"],
+                        "photo": "./images/charles_le_bel_1818_inspiration_brut.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["12% ABV"],
+                            ["Charles Le Bel 1818 Inspiration Brut has a pale golden color with fine, persistent bubbles, reflecting its elegance and vibrancy."],
+                            ["The aroma of Charles Le Bel 1818 Inspiration Brut is fresh and enticing, with notes of green apple, pear, and citrus, complemented by hints of white flowers and a touch of brioche."],
+                            ["On the palate, this brut is crisp and well-balanced, featuring flavors of lemon, green apple, and a hint of almond. The wine has a lively acidity and a creamy texture, with a fine mousse that enhances its refreshing character."],
+                            ["The finish is clean and refreshing, with lingering notes of citrus and a subtle hint of minerality, leaving a bright and satisfying aftertaste."],
+                            ["Charles Le Bel 1818 Inspiration Brut pairs beautifully with a variety of dishes, including seafood, oysters, sushi, light salads, and soft cheeses. Its crisp acidity and refreshing profile complement the delicate flavors of these foods."],
+                            ["Charles Le Bel 1818 Inspiration Brut is crafted using the traditional method, with a blend of Chardonnay, Pinot Noir, and Pinot Meunier grapes sourced from select vineyards. The wine undergoes secondary fermentation in the bottle and is aged on the lees, enhancing its complexity and depth."],
+                            ["Overall, Charles Le Bel 1818 Inspiration Brut is a refined and elegant sparkling wine known for its fresh and vibrant character. Its crisp acidity, fine bubbles, and versatile pairing options make it a delightful choice for celebrations and everyday enjoyment."]
+                        ]
+                    }                    
                     
                 ]
             },
@@ -199,9 +221,9 @@
                 "category" : "Sake",
                 "brands" : [
                     {
-                        "name": ["Tozai 'Living Jewel'"],
+                        "name": ["Tozai 'Living Jewel'", "(Glass or Bottle)"],
                         "photo": "./images/tozai_living_jewel_sake.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["15% ABV"],
                             ["Tozai 'Living Jewel' Junmai Sake has a clear, pale straw color with a slight silver tint, characteristic of its purity and elegance."],
@@ -214,9 +236,9 @@
                         ]
                     },
                     {
-                        "name": ["Kikusui Funaguchi Aged Red"],
+                        "name": ["Kikusui Funaguchi Aged Red", "(Can)"],
                         "photo": "./images/kikusui_funaguchi_aged_red_sake.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["19% ABV"],
                             ["Kikusui Funaguchi Aged Red Sake has a deep amber color, reminiscent of aged sake with rich hues and clarity."],
@@ -227,8 +249,39 @@
                             ["Kikusui Funaguchi Aged Red Sake is brewed using traditional methods in Niigata, Japan, known for its premium sake production. It is aged to perfection in small barrels, allowing the flavors to develop and mature over time."],
                             ["Overall, Kikusui Funaguchi Aged Red Sake is a luxurious and indulgent sake that appeals to aficionados of aged spirits. Its rich flavors, velvety texture, and complex aroma make it a standout choice for special occasions and pairing with gourmet cuisine."]
                         ]
-                    }
-                    
+                    },
+                    {
+                        "name": ["Gekkeikan Junmai Nigori", "(300ml Unfiltered)"],
+                        "photo": "./images/gekkeikan_junmai_nigori_unfiltered.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["15.6% ABV"],
+                            ["Fushimi, Kyoto, Japan"],
+                            ["Gekkeikan Junmai Nigori Unfiltered has a milky, opaque appearance, typical of nigori sake, with a slightly viscous texture."],
+                            ["The aroma of this sake is sweet and aromatic, with notes of tropical fruits like pineapple and coconut, complemented by hints of banana and rice."],
+                            ["On the palate, Gekkeikan Junmai Nigori Unfiltered is rich and creamy, with flavors of sweet rice, coconut, and a touch of vanilla. The unfiltered nature gives it a full-bodied texture and a pleasantly sweet finish."],
+                            ["The finish is smooth and lingering, with a balanced sweetness and a hint of nuttiness, leaving a creamy and satisfying aftertaste."],
+                            ["Gekkeikan Junmai Nigori Unfiltered pairs well with a variety of dishes, including spicy foods, sushi, sashimi, and light desserts. Its sweetness and creamy texture complement both savory and sweet flavors."],
+                            ["This nigori sake is made from high-quality rice and pure water, following traditional brewing methods. The sake is left unfiltered, allowing the rice sediments to remain, which gives it its distinctive milky appearance and rich texture."],
+                            ["Overall, Gekkeikan Junmai Nigori Unfiltered is a delightful and versatile sake known for its creamy texture and balanced sweetness. Its unique profile and versatile pairing options make it a popular choice for sake enthusiasts and a great addition to various dining experiences."]
+                        ]
+                    },
+                    {
+                        "name": ["Shimizu-No-Mai 'Pure Dusk' ", "(Junmai Daiginjo 300ml)"],
+                        "photo": "./images/shimizu_no_mai_pure_dusk.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["15.5% ABV"],
+                            ["Akita, Japan"],
+                            ["Shimizu-No-Mai 'Pure Dusk' Junmai Daiginjo has a clear, pale straw color, showcasing its refined and delicate nature."],
+                            ["The aroma of this sake is elegant and complex, with notes of white flowers, pear, and melon, complemented by subtle hints of rice and a touch of minerality."],
+                            ["On the palate, 'Pure Dusk' is smooth and silky, with flavors of fresh apple, pear, and a hint of citrus. The sake has a balanced acidity and a light, clean texture, with a gentle umami presence."],
+                            ["The finish is crisp and refreshing, with lingering notes of fruit and a delicate touch of minerality, leaving a clean and satisfying aftertaste."],
+                            ["Shimizu-No-Mai 'Pure Dusk' pairs well with a variety of dishes, including sushi, sashimi, grilled fish, light salads, and soft cheeses. Its delicate and balanced profile complements both subtle and flavorful dishes."],
+                            ["This Junmai Daiginjo sake is crafted from premium Yamada Nishiki rice, which is polished to 50% of its original size. The sake is brewed using pure water from the Akita region and traditional methods, ensuring a high-quality and refined product."],
+                            ["Overall, Shimizu-No-Mai 'Pure Dusk' Junmai Daiginjo is a sophisticated and elegant sake known for its delicate flavors and refined character. Its smooth texture, balanced acidity, and versatile pairing options make it a favorite among sake enthusiasts and a delightful choice for various occasions."]
+                        ]
+                    }                    
                 ]
             }
         ]
@@ -243,7 +296,7 @@
                     {
                         "name": ["Jameson", "(Irish Whiskey)"],
                         "photo": "./images/jameson_irish_whiskey.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
                             ["Jameson Irish Whiskey has a rich, golden amber color, reflecting its smooth and refined nature."],
@@ -258,7 +311,7 @@
                     {
                         "name": ["Jack Daniel's", "(Tennessee Whiskey)"],
                         "photo": "./images/jack_daniels.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
                             ["Jack Daniel's Tennessee Whiskey has a warm amber color, reflecting its rich and smooth character."],
@@ -284,7 +337,7 @@
                     {
                         "name": ["Bombay Sapphire"],
                         "photo": "./images/bombay_sapphire.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["47% ABV (94 proof)"],
                             ["Bombay Sapphire has a clear, crystalline appearance, reflecting its purity and quality."],
@@ -299,7 +352,7 @@
                     {
                         "name": ["Tanqueray"],
                         "photo": "./images/tanqueray.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["47.3% ABV (94.6 proof)"],
                             ["Tanqueray has a clear, crystalline appearance, reflecting its purity and high quality."],
@@ -314,7 +367,7 @@
                     {
                         "name": ["Rivi"],
                         "photo": "./images/rivi_gin.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["43% ABV (86 proof)"],
                             ["Rivi Gin is clear and bright, reflecting its purity and high-quality distillation process."],
@@ -342,7 +395,7 @@
                     {
                         "name": ["Grey Goose"],
                         "photo": "./images/grey_goose_vodka.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
                             ["Grey Goose Vodka is clear and crystalline, reflecting its purity and high quality."],
@@ -357,7 +410,7 @@
                     {
                         "name": ["Tito's"],
                         "photo": "./images/titos_vodka.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
                             ["Tito's Vodka is clear and pristine, reflecting its purity and high quality."],
@@ -372,7 +425,7 @@
                     {
                         "name": ["Wheatley"],
                         "photo": "./images/wheatley_vodka.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
                             ["Wheatley Vodka is crystal clear, reflecting its high level of purity and quality."],
@@ -387,7 +440,7 @@
                     {
                         "name": ["Belvedere"],
                         "photo": "./images/belvedere_vodka.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
                             ["Belvedere Vodka is crystal clear, reflecting its purity and high-quality distillation process."],
@@ -414,7 +467,7 @@
                     {
                         "name": ["Plantation", "(Dark Rum)"],
                         "photo": "./images/plantation_dark_rum.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
                             ["Plantation Dark Rum has a rich, dark amber color with golden highlights, reflecting its depth and complexity."],
@@ -429,7 +482,7 @@
                     {
                         "name": ["Captain Morgan", "(Spiced Rum)"],
                         "photo": "./images/captain_morgan_rum.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["35% ABV (70 proof)"],
                             ["Captain Morgan Spiced Rum has a rich, amber color with golden hues, reflecting its spiced and aged character."],
@@ -457,9 +510,10 @@
                     {
                         "name": ["Don Julio"],
                         "photo": "./images/don_julio_blanco.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
                             ["Don Julio Blanco Tequila is crystal clear, showcasing its purity and quality."],
                             ["The aroma of Don Julio Blanco is crisp and fresh, with notes of citrus, lime, and grapefruit. There are also subtle hints of agave and a touch of herbal undertones."],
                             ["On the palate, Don Julio Blanco is light and smooth, with a clean and fresh taste. The flavors of citrus and agave are prominent, complemented by hints of black pepper and a touch of sweetness."],
@@ -472,9 +526,10 @@
                     {
                         "name": ["Casamigos"],
                         "photo": "./images/casamigos_blanco_tequila.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
                             ["Casamigos Blanco Tequila is crystal clear, highlighting its pure and unaged character."],
                             ["The aroma of Casamigos Blanco Tequila is fresh and crisp, with vibrant notes of citrus, sweet agave, and hints of vanilla and grapefruit. There are also subtle herbal undertones adding complexity."],
                             ["On the palate, Casamigos Blanco Tequila is smooth and clean, with a rich agave flavor complemented by hints of citrus and vanilla. The mouthfeel is silky, with a slight sweetness balanced by a touch of peppery spice."],
@@ -493,9 +548,10 @@
                     {
                         "name": ["Don Julio"],
                         "photo": "./images/don_julio_reposado.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
                             ["Don Julio Reposado Tequila has a light amber color with golden hues, reflecting its aging process."],
                             ["The aroma of Don Julio Reposado is rich and inviting, with notes of lemon, citrus, and a hint of ripe stone fruit. There are also subtle undertones of vanilla, spice, and toasted oak."],
                             ["On the palate, Don Julio Reposado is smooth and elegant, with a balance of flavors including caramel, cooked agave, and a touch of chocolate. The oak aging adds depth and complexity, with hints of cinnamon and butterscotch."],
@@ -508,9 +564,10 @@
                     {
                         "name": ["Casamigos"],
                         "photo": "./images/casamigos_reposado_tequila.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
                             ["Casamigos Reposado Tequila has a light amber color, reflecting its aging process in oak barrels."],
                             ["The aroma of Casamigos Reposado Tequila is rich and complex, with notes of caramel, cocoa, and a touch of agave. There are also hints of oak, vanilla, and spice, adding depth to the bouquet."],
                             ["On the palate, Casamigos Reposado Tequila is smooth and well-rounded, with flavors of caramel, cocoa, and a hint of citrus. The oak aging imparts a rich and creamy texture, with underlying notes of vanilla and spice that enhance the agave's natural sweetness."],
@@ -529,9 +586,10 @@
                     {
                         "name": ["Don Julio"],
                         "photo": "./images/don_julio_anejo.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
                             ["Don Julio Añejo Tequila has a rich, golden amber color, indicative of its extended aging process."],
                             ["The aroma of Don Julio Añejo is complex and inviting, with notes of butterscotch, honey, and vanilla. There are also subtle hints of caramel, dried fruit, and toasted oak."],
                             ["On the palate, Don Julio Añejo is rich and full-bodied, with flavors of dark chocolate, vanilla, and toffee. The oak aging contributes notes of cinnamon, nutmeg, and a touch of smokiness, creating a well-rounded and sophisticated taste experience."],
@@ -544,9 +602,10 @@
                     {
                         "name": ["Casamigos"],
                         "photo": "./images/casamigos_anejo_tequila.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
                             ["Casamigos Añejo Tequila has a deep, rich amber color, reflecting its extended aging process in oak barrels."],
                             ["The aroma of Casamigos Añejo Tequila is complex and inviting, with prominent notes of caramel, vanilla, and roasted agave. Additional layers of dark chocolate, oak, and spice add depth to the bouquet."],
                             ["On the palate, Casamigos Añejo Tequila is smooth and full-bodied, with rich flavors of caramel, vanilla, and roasted agave. The oak aging imparts notes of dark chocolate, tobacco, and a hint of cinnamon, creating a well-rounded and luxurious taste experience."],
