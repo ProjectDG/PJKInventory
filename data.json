@@ -156,7 +156,72 @@
                             ["Made from 100% Chardonnay grapes sourced from the Napa Valley region. The wine is fermented and aged in oak barrels, enhancing its complexity and depth of flavor."],
                             ["Overall, ZD Chardonnay is a well-balanced and elegant wine that showcases the quality and character of Napa Valley Chardonnay. Its rich flavors and smooth finish make it a standout choice for any occasion."]
                         ]
+                    },
+                    {
+                        "name": ["Craggy Range", "(Sauvignon Blanc)"],
+                        "photo": "./images/craggy_range_sauvignon_blanc.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["13% ABV"],
+                            ["Hawke's Bay, New Zealand"],
+                            ["Pale straw with greenish highlights."],
+                            ["Aromas of fresh citrus, gooseberry, and tropical fruits with hints of herbaceous notes and minerality."],
+                            ["The palate is vibrant and crisp, with flavors of lime, passion fruit, and a touch of green bell pepper. The acidity is well-balanced, giving the wine a refreshing character."],
+                            ["The finish is clean and zesty, with lingering citrus and herbal notes."],
+                            ["Pairs excellently with seafood, especially oysters and grilled fish, as well as fresh salads and goat cheese."],
+                            ["Craggy Range Sauvignon Blanc is crafted from carefully selected grapes and undergoes fermentation in stainless steel tanks to preserve its fresh, aromatic qualities."],
+                            ["Overall, Craggy Range Sauvignon Blanc offers a lively and aromatic profile, showcasing the best characteristics of New Zealand Sauvignon Blanc. Its balanced acidity and vibrant flavors make it a versatile choice for various pairings."]
+                        ]
+                    },
+                    {
+                        "name": ["Dominique et Janine Crochet", "(Sancerre)"],
+                        "photo": "./images/dominique_et_janine_crochet_sancerre.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["13% ABV"],
+                            ["Sancerre, Loire Valley, France"],
+                            ["Pale yellow with greenish tints."],
+                            ["Fresh aromas of citrus fruits like lemon and lime, complemented by notes of green apple and subtle floral undertones."],
+                            ["On the palate, this Sancerre is crisp and well-balanced, featuring bright flavors of grapefruit, green apple, and a hint of minerality. The texture is smooth with a lively acidity."],
+                            ["The finish is clean and refreshing, with lingering citrus and mineral notes."],
+                            ["Pairs well with a variety of dishes, including seafood, particularly shellfish, goat cheese, and light salads."],
+                            ["Dominique et Janine Crochet Sancerre is made from 100% Sauvignon Blanc grapes, with fermentation in stainless steel to maintain its fresh and vibrant character. The wine is aged on its lees to enhance complexity and mouthfeel."],
+                            ["Overall, Dominique et Janine Crochet Sancerre is a classic representation of the Sancerre region, known for its elegant and refreshing style. Its crisp acidity and nuanced flavors make it a versatile choice for many dishes."]
+                        ]
+                    },
+                    {
+                        "name": ["Dr. Loosen \"Red Slate\"", " (Dry Riesling)"],
+                        "photo": "./images/dr_loosen_red_slate_dry_riesling.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["12% ABV"],
+                            ["Mosel, Germany"],
+                            ["Pale straw yellow with greenish highlights."],
+                            ["Aromas of green apple, peach, and lime, with underlying notes of flint and minerality."],
+                            ["Crisp and vibrant on the palate, featuring flavors of green apple, citrus, and a pronounced mineral character. The acidity is well-balanced, providing a refreshing mouthfeel."],
+                            ["The finish is clean and zesty, with lingering citrus and mineral notes."],
+                            ["Pairs well with a variety of foods, including seafood, spicy Asian cuisine, and fresh salads. It also complements soft cheeses and light poultry dishes."],
+                            ["Dr. Loosen \"Red Slate\" Dry Riesling is produced from grapes grown in the red slate soils of the Mosel Valley. The wine is fermented in stainless steel tanks to preserve its fresh and vibrant character, with minimal intervention to highlight the terroir."],
+                            ["Overall, Dr. Loosen \"Red Slate\" Dry Riesling is a quintessential Mosel Riesling, known for its crisp acidity, mineral complexity, and refreshing flavors. It is a versatile wine that pairs beautifully with a wide range of dishes."]
+                        ]
+                    },
+                    {
+                        "name": ["Domaine Jean-Marc Brocard", "(Chablis)"],
+                        "photo": "./images/domaine_jean_marc_brocard_chablis.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["12.5% ABV"],
+                            ["Chablis, Burgundy, France"],
+                            ["Pale gold with green reflections."],
+                            ["Fresh aromas of green apple, citrus, and white flowers, with hints of flint and wet stone."],
+                            ["Crisp and elegant on the palate, featuring flavors of lemon, green apple, and a pronounced mineral note. The acidity is bright and well-integrated, enhancing the wine's freshness."],
+                            ["The finish is clean and long, with persistent notes of citrus and minerality."],
+                            ["Pairs excellently with seafood, oysters, grilled fish, and light poultry dishes. It also complements creamy cheeses and vegetable dishes."],
+                            ["Domaine Jean-Marc Brocard Chablis is produced from Chardonnay grapes grown in the limestone-rich soils of Chablis. The wine is fermented and aged in stainless steel tanks to preserve its fresh and mineral-driven character, with minimal use of oak."],
+                            ["Overall, Domaine Jean-Marc Brocard Chablis is a classic example of Chablis, known for its crisp acidity, mineral complexity, and elegant flavors. It is a versatile wine that pairs beautifully with a wide range of dishes."]
+                        ]
                     }
+                                                            
                 ]
             },
             {
@@ -734,7 +799,7 @@
                 "category" : "Can",
                 "brands" : [
                     {
-                        "name": ["Sapporo", "Lager"],
+                        "name": ["Sapporo", "(Lager)"],
                         "photo": "./images/sapporo_can.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
@@ -748,7 +813,73 @@
                             ["Sapporo is brewed with a careful selection of ingredients, including high-quality rice, and follows traditional Japanese brewing methods."],
                             ["Overall, Sapporo is a classic lager known for its smoothness and refreshing qualities."]
                         ]
-                    }                    
+                    },
+                    {
+                        "name": ["Heineken 0.0", "(Lager)"],
+                        "photo": "./images/heineken_00_can.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["0.0% ABV"],
+                            ["Netherlands"],
+                            ["Clear golden color with a foamy white head."],
+                            ["Aromas of malt, grain, and a hint of citrus, with subtle floral notes."],
+                            ["Light-bodied with flavors of crisp malt, subtle sweetness, and a touch of bitterness. The taste is clean and refreshing, mimicking the profile of traditional Heineken."],
+                            ["The finish is crisp and clean with a slight hoppy bitterness."],
+                            ["Pairs well with light snacks, salads, grilled chicken, and non-spicy Asian dishes. Its refreshing quality makes it a good match for various casual meals."],
+                            ["Heineken 0.0 is brewed with the same high-quality ingredients as regular Heineken, including water, malted barley, and hops. The alcohol is removed through a natural process to retain the characteristic taste of Heineken while achieving a 0.0% ABV."],
+                            ["Overall, Heineken 0.0 offers the taste experience of traditional Heineken beer without the alcohol content. It is a great choice for those looking to enjoy a non-alcoholic beverage with the familiar flavor of a well-known beer."]
+                        ]
+                    },
+                    {
+                        "name": ["Heineken", "(Lager)"],
+                        "photo": "./images/heineken_lager_can.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["5.0% ABV"],
+                            ["Netherlands"],
+                            ["Clear golden color with a foamy white head."],
+                            ["Aromas of fresh grain, mild hop bitterness, and a touch of citrus."],
+                            ["Light to medium-bodied with a balanced taste of malt sweetness and mild hop bitterness. Crisp and refreshing with a clean profile."],
+                            ["The finish is smooth and dry with a subtle lingering bitterness."],
+                            ["Pairs well with a wide variety of foods including burgers, pizzas, light salads, seafood, and spicy dishes. Its crispness makes it a versatile companion for casual dining."],
+                            ["Heineken Lager is brewed with water, malted barley, hops, and the signature Heineken A-Yeast. The brewing process involves a natural fermentation followed by a lagering period to develop its distinct flavor."],
+                            ["Overall, Heineken Lager is a classic European pale lager known for its crisp, clean taste and balanced flavor. It is a popular choice worldwide and well-regarded for its consistent quality."]
+                        ]
+                    },
+                    {
+                        "name": ["Maduro", "(Brown Ale)"],
+                        "photo": "./images/maduro_brown_ale.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["5.5% ABV"],
+                            ["Tampa, Florida, USA"],
+                            ["Deep brown color with ruby highlights and a creamy tan head."],
+                            ["Aromas of roasted malt, chocolate, coffee, and hints of caramel and nuttiness."],
+                            ["Medium-bodied with flavors of chocolate, toffee, and roasted nuts, balanced by a mild hop bitterness. Smooth and slightly sweet with a creamy mouthfeel."],
+                            ["The finish is smooth and slightly dry, with lingering notes of chocolate and roasted malt."],
+                            ["Pairs well with roasted meats, barbecue, burgers, stews, and desserts like chocolate cake or brownies. Its rich flavors complement hearty and savory dishes."],
+                            ["Maduro Brown Ale is brewed using a blend of specialty malts, which contribute to its complex flavor profile. The brewing process involves traditional ale fermentation techniques, ensuring a rich and satisfying taste."],
+                            ["Overall, Maduro Brown Ale is a robust and flavorful beer known for its rich malt character and smooth finish. It is a favorite among those who enjoy darker, malt-forward ales."]
+                        ]
+                    },
+                    {
+                        "name": ["Amstel Light", "(Lager)"],
+                        "photo": "./images/amstel_light_can.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["3.5% ABV"],
+                            ["Amsterdam, Netherlands"],
+                            ["Pale golden color with a light, frothy white head."],
+                            ["Light malt aroma with hints of grain and a subtle hop presence."],
+                            ["Crisp and light-bodied with flavors of mild malt, grain, and a slight hop bitterness. Refreshing and clean on the palate."],
+                            ["The finish is crisp and clean, with a mild bitterness and no lingering aftertaste."],
+                            ["Pairs well with light dishes such as salads, seafood, grilled chicken, and mild cheeses. Its light and refreshing profile makes it a versatile beer for various foods."],
+                            ["Amstel Light is brewed with a blend of barley and hops, using a slower brewing process that allows for a lower calorie and lower alcohol content without sacrificing flavor."],
+                            ["Overall, Amstel Light is a light and refreshing lager, ideal for those seeking a lower-calorie beer that still offers a pleasant and satisfying taste."]
+                        ]
+                    }
+                                      
+                                      
                 ]
             },
             {
@@ -785,7 +916,24 @@
                             ["Tsingtao is brewed using high-quality malt, hops, and pure water from the Laoshan spring."],
                             ["Overall, Tsingtao is a well-balanced lager known for its refreshing taste and smooth drinkability."]
                         ]
+                    },
+                    {
+                        "name": ["Lucky Buddha", "(Lager)"],
+                        "photo": "./images/lucky_buddha_bottle.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["4.8% ABV"],
+                            ["China"],
+                            ["Golden color with a clear appearance and a white, foamy head."],
+                            ["Aroma of light malt and subtle floral notes with a hint of sweetness."],
+                            ["The palate is smooth and crisp, with a light malt flavor and gentle bitterness."],
+                            ["The finish is clean and refreshing with a mild aftertaste."],
+                            ["Pairs well with Asian cuisine, light salads, and seafood."],
+                            ["Lucky Buddha is brewed using premium ingredients and pure water, following traditional brewing methods."],
+                            ["Overall, Lucky Buddha is a smooth and refreshing lager with a distinctive, unique bottle design."]
+                        ]
                     }
+                    
                 ]
             }
         ]
