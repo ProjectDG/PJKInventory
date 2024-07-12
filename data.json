@@ -128,35 +128,35 @@
                     {
                         "name": ["Briganti Nonnina Filomena", "(Pinot Grigio)"],
                         "photo": "./images/briganti_pinot_grigio.png",
-                        "sectionNames": ["ABV", "Produced In","Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["12.5% ABV"],
-                            ["Briganti Nonnina Filomena Pinot Grigio has a pale straw color with hints of green, indicating its freshness and youthful character."],
-                            ["The aroma is fresh and lively, with notes of green apple, pear, and citrus fruits such as lemon and lime. Subtle floral hints and a touch of minerality add complexity to the bouquet."],
-                            ["On the palate, Briganti Nonnina Filomena Pinot Grigio is light to medium-bodied, with crisp and clean flavors of green apple, pear, and citrus. The wine's bright acidity provides a refreshing and zesty mouthfeel, with a hint of minerality that adds depth."],
-                            ["The finish is crisp and refreshing, with lingering notes of citrus and green apple, leaving a clean and invigorating aftertaste."],
-                            ["This Pinot Grigio pairs wonderfully with light dishes such as salads, seafood, grilled chicken, and fresh vegetables. Its crisp and clean flavors also make it an excellent companion to Mediterranean cuisine and light pasta dishes."],
-                            ["Briganti Nonnina Filomena Pinot Grigio is crafted from grapes grown in select vineyards, known for their ideal conditions for producing high-quality Pinot Grigio. The wine is fermented in stainless steel tanks to preserve its fresh fruit character and bright acidity."],
-                            ["Overall, Briganti Nonnina Filomena Pinot Grigio is a delightful and refreshing wine that embodies the essence of a classic Pinot Grigio. Its vibrant aromas, crisp flavors, and refreshing finish make it a perfect choice for warm weather and light, flavorful dishes."]
+                            ["Italy"],
+                            ["Pale straw yellow with greenish reflections."],
+                            ["Fresh and fruity with notes of green apple, pear, and citrus, along with floral hints."],
+                            ["Crisp and light-bodied with flavors of apple, pear, and lemon zest, balanced by a refreshing acidity."],
+                            ["Clean and crisp with a pleasant, lingering citrus finish."],
+                            ["Pairs well with seafood, light pasta dishes, salads, and grilled vegetables."],
+                            ["Made from 100% Pinot Grigio grapes, harvested from vineyards in Italy. The grapes are gently pressed and fermented in stainless steel tanks to preserve the fresh and fruity character of the wine."],
+                            ["Overall, Briganti Nonnina Filomena Pinot Grigio is a refreshing and versatile wine with a bright, fruity profile. Its light body and crisp acidity make it a perfect choice for a variety of dishes and occasions."]
                         ]
-                    }
-                    ,
+                    },
                     {
                         "name": ["ZD", "(Chardonnay)"],
                         "photo": "./images/zd_chardonnay.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["14.5% ABV"],
-                            ["ZD Chardonnay has a bright golden color, reflecting its richness and depth."],
-                            ["The aroma of ZD Chardonnay is vibrant and complex, with notes of ripe apple, pear, and tropical fruits, complemented by hints of vanilla, toasted oak, and a touch of citrus."],
-                            ["On the palate, ZD Chardonnay is full-bodied and creamy, with rich flavors of apple, pear, and pineapple. The oak aging imparts notes of vanilla and butter, while a balanced acidity provides a refreshing backbone."],
-                            ["The finish is long and elegant, with lingering notes of fruit and a subtle hint of toasty oak, leaving a satisfying and refined aftertaste."],
-                            ["ZD Chardonnay pairs well with a variety of foods, including roasted chicken, grilled seafood, creamy pasta dishes, and soft cheeses. Its rich and balanced profile enhances the flavors of these dishes, making it a versatile choice for food pairings."],
-                            ["ZD Chardonnay is crafted from hand-harvested grapes sourced from select vineyards in California. The wine undergoes fermentation and aging in American oak barrels, which enhances its complexity and depth. The winemaking process includes sur lie aging, where the wine is aged on its lees (spent yeast cells) to develop a rich and creamy texture."],
-                            ["Overall, ZD Chardonnay is a premium wine known for its rich and complex flavor profile. Its full-bodied and creamy character, combined with its versatility in food pairings, makes it a favorite choice for Chardonnay enthusiasts and a perfect addition to any occasion."]
+                            ["Napa Valley, California, USA"],
+                            ["Bright, golden straw color."],
+                            ["Aromas of ripe citrus, apple, pear, and tropical fruits, complemented by hints of vanilla and toasted oak."],
+                            ["Rich and full-bodied with flavors of lemon, apple, and tropical fruits, balanced by a touch of oak and a creamy texture."],
+                            ["Long and smooth with lingering notes of fruit and subtle oak."],
+                            ["Pairs well with roasted chicken, seafood, creamy pasta dishes, and mild cheeses."],
+                            ["Made from 100% Chardonnay grapes sourced from the Napa Valley region. The wine is fermented and aged in oak barrels, enhancing its complexity and depth of flavor."],
+                            ["Overall, ZD Chardonnay is a well-balanced and elegant wine that showcases the quality and character of Napa Valley Chardonnay. Its rich flavors and smooth finish make it a standout choice for any occasion."]
                         ]
-                    }                    
-                    
+                    }
                 ]
             },
             {
@@ -168,17 +168,16 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["13% ABV"],
-                            ["Whispering Angel Rosé has a pale, light pink color, reflecting its delicate and elegant nature."],
-                            ["The aroma of Whispering Angel Rosé is fresh and enticing, with notes of red berries, citrus, and a hint of peach. There are also subtle floral undertones adding to its complexity."],
-                            ["On the palate, Whispering Angel Rosé is smooth and well-balanced, with flavors of strawberry, raspberry, and a touch of citrus. The wine has a crisp acidity that enhances its refreshing character, making it very easy to drink."],
-                            ["The finish is clean and refreshing, with lingering notes of red berries and a hint of minerality, leaving a pleasant and satisfying aftertaste."],
-                            ["Whispering Angel Rosé pairs well with a variety of foods, including seafood, salads, light pasta dishes, and grilled chicken. Its versatile and refreshing profile makes it an excellent choice for pairing with many dishes."],
-                            ["Whispering Angel Rosé is crafted from a blend of Grenache, Cinsault, and Rolle (Vermentino) grapes, sourced from the finest vineyards in the Côtes de Provence region. The wine is produced using a combination of traditional and modern winemaking techniques, including gentle pressing and fermentation in stainless steel tanks to preserve its fresh and vibrant character."],
-                            ["Overall, Whispering Angel Rosé is a premium rosé wine known for its delicate and refreshing flavor profile. Its elegant and well-balanced nature, combined with its versatility in food pairings, makes it a favorite choice for rosé enthusiasts and a perfect addition to any occasion."]
+                            ["Côtes de Provence, France"],
+                            ["Pale, salmon pink color."],
+                            ["Delicate aromas of red berries, citrus, and floral notes, with hints of peach and rose petals."],
+                            ["Crisp and fresh with flavors of strawberry, raspberry, and citrus, balanced by a subtle minerality."],
+                            ["Smooth and refreshing with a clean, dry finish and lingering notes of red fruit."],
+                            ["Pairs well with light salads, seafood, grilled vegetables, and Mediterranean dishes. It is also a great aperitif wine."],
+                            ["Produced from a blend of Grenache, Cinsault, and Rolle (Vermentino) grapes. The grapes are harvested from the vineyards of Château d'Esclans in the Côtes de Provence region, and the wine is fermented in stainless steel tanks to preserve its fresh and vibrant character."],
+                            ["Overall, Whispering Angel Rosé is a highly acclaimed wine known for its elegance, freshness, and versatility. Its delicate flavors and refreshing finish make it a popular choice for enjoying in warm weather and with a variety of dishes."]
                         ]
-                    }
-                    
-                    
+                    }   
                 ]
             },
             {
@@ -190,13 +189,14 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["12% ABV"],
-                            ["Albert Bichot Crémant Brut Réserve has a pale golden color with fine, persistent bubbles, reflecting its elegance and quality."],
-                            ["The aroma of Albert Bichot Crémant Brut Réserve is fresh and inviting, with notes of green apple, citrus, and white flowers. There are also subtle hints of brioche and almond, adding complexity to the bouquet."],
-                            ["On the palate, Albert Bichot Crémant Brut Réserve is crisp and lively, with flavors of green apple, lemon zest, and pear. The fine bubbles create a creamy texture, while the balanced acidity provides a refreshing finish."],
-                            ["The finish is clean and elegant, with lingering notes of citrus and a touch of minerality, leaving a pleasant and refreshing aftertaste."],
-                            ["Albert Bichot Crémant Brut Réserve pairs wonderfully with a variety of foods, including seafood, light salads, and soft cheeses. It is also an excellent choice for celebrations and can be enjoyed on its own as an aperitif."],
-                            ["Albert Bichot Crémant Brut Réserve is produced using the traditional method, with a blend of Chardonnay, Pinot Noir, and Gamay grapes. The wine undergoes a second fermentation in the bottle, followed by aging on the lees for a minimum of 12 months, which enhances its complexity and depth."],
-                            ["Overall, Albert Bichot Crémant Brut Réserve is a sophisticated and elegant sparkling wine known for its crisp and refreshing flavor profile. Its fine bubbles and balanced acidity make it a versatile choice for various occasions and a delightful alternative to Champagne."]
+                            ["Burgundy, France"],
+                            ["Pale gold color with fine, persistent bubbles."],
+                            ["Elegant aromas of white flowers, citrus, and green apple, with subtle hints of almond and brioche."],
+                            ["Fresh and lively on the palate with flavors of lemon, green apple, and a touch of honey, balanced by a crisp acidity."],
+                            ["Crisp and clean finish with lingering notes of citrus and a hint of toast."],
+                            ["Pairs well with seafood, sushi, light appetizers, and as an aperitif. It also complements desserts like fruit tarts and light pastries."],
+                            ["Made using the traditional method from a blend of Chardonnay, Pinot Noir, and Aligoté grapes. The grapes are sourced from the vineyards of Burgundy and undergo a second fermentation in the bottle, followed by aging on lees to develop complexity and depth of flavor."],
+                            ["Overall, Albert Bichot Crémant Brut Réserve is a refined and elegant sparkling wine that offers excellent value. Its delicate bubbles, fresh flavors, and versatile pairing options make it a delightful choice for any occasion."]
                         ]
                     },
                     {
@@ -205,16 +205,16 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["12% ABV"],
-                            ["Charles Le Bel 1818 Inspiration Brut has a pale golden color with fine, persistent bubbles, reflecting its elegance and vibrancy."],
-                            ["The aroma of Charles Le Bel 1818 Inspiration Brut is fresh and enticing, with notes of green apple, pear, and citrus, complemented by hints of white flowers and a touch of brioche."],
-                            ["On the palate, this brut is crisp and well-balanced, featuring flavors of lemon, green apple, and a hint of almond. The wine has a lively acidity and a creamy texture, with a fine mousse that enhances its refreshing character."],
-                            ["The finish is clean and refreshing, with lingering notes of citrus and a subtle hint of minerality, leaving a bright and satisfying aftertaste."],
-                            ["Charles Le Bel 1818 Inspiration Brut pairs beautifully with a variety of dishes, including seafood, oysters, sushi, light salads, and soft cheeses. Its crisp acidity and refreshing profile complement the delicate flavors of these foods."],
-                            ["Charles Le Bel 1818 Inspiration Brut is crafted using the traditional method, with a blend of Chardonnay, Pinot Noir, and Pinot Meunier grapes sourced from select vineyards. The wine undergoes secondary fermentation in the bottle and is aged on the lees, enhancing its complexity and depth."],
-                            ["Overall, Charles Le Bel 1818 Inspiration Brut is a refined and elegant sparkling wine known for its fresh and vibrant character. Its crisp acidity, fine bubbles, and versatile pairing options make it a delightful choice for celebrations and everyday enjoyment."]
+                            ["Champagne, France"],
+                            ["Light golden color with fine, persistent bubbles."],
+                            ["Elegant and complex aromas of white flowers, citrus, and green apple, with subtle notes of brioche and almond."],
+                            ["Fresh and lively on the palate with flavors of lemon, green apple, and hints of honey and toast, balanced by a crisp acidity."],
+                            ["Long and clean finish with lingering notes of citrus and a touch of minerality."],
+                            ["Pairs well with seafood, sushi, light appetizers, and as an aperitif. It also complements desserts like fruit tarts and light pastries."],
+                            ["Crafted from a blend of Chardonnay, Pinot Noir, and Pinot Meunier grapes. The wine undergoes traditional method fermentation in the bottle, followed by aging on lees to enhance its complexity and depth of flavor."],
+                            ["Overall, Charles Le Bel 1818 Inspiration Brut is a sophisticated and elegant Champagne that embodies the quality and tradition of its region. Its delicate bubbles, fresh flavors, and versatile pairing options make it an excellent choice for celebrations and special occasions."]
                         ]
-                    }                    
-                    
+                    }
                 ]
             },
             {
@@ -225,14 +225,15 @@
                         "photo": "./images/tozai_living_jewel_sake.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["15% ABV"],
-                            ["Tozai 'Living Jewel' Junmai Sake has a clear, pale straw color with a slight silver tint, characteristic of its purity and elegance."],
-                            ["The aroma of this Junmai Sake is delicate and refined, with notes of white flowers, melon, and pear, accompanied by subtle hints of rice sweetness and a touch of minerality."],
-                            ["On the palate, Tozai 'Living Jewel' is clean and crisp, with flavors of crisp apple, pear, and a hint of citrus. The texture is smooth and silky, with a balanced acidity that enhances its refreshing qualities."],
-                            ["The finish is smooth and dry, with lingering notes of fruit and a hint of rice sweetness, leaving a clean and refreshing aftertaste."],
-                            ["Tozai 'Living Jewel' Junmai Sake pairs excellently with a variety of Japanese dishes, including sushi, sashimi, tempura, and grilled seafood. Its clean and crisp flavors complement the delicate flavors of these dishes beautifully."],
-                            ["Tozai 'Living Jewel' is brewed in Kyoto, Japan, using premium sake rice polished to 60% of its original size. It is fermented at low temperatures and carefully aged to preserve its delicate flavors and aromas."],
-                            ["Overall, Tozai 'Living Jewel' Junmai Sake is a refined and versatile sake that embodies the craftsmanship and elegance of traditional Japanese brewing. Its clean flavors, smooth texture, and balanced acidity make it a perfect choice for sake enthusiasts and a delightful accompaniment to Japanese cuisine."]
+                            ["14.9% ABV"],
+                            ["Kyoto, Japan"],
+                            ["Clear with a slightly viscous appearance."],
+                            ["Aromas of white grape, anise, and a hint of sweet rice."],
+                            ["Light and smooth with flavors of green apple, honeydew melon, and a touch of almond."],
+                            ["Clean and crisp finish with a delicate sweetness and mild umami note."],
+                            ["Pairs well with sushi, sashimi, light seafood dishes, and fresh salads. It also complements lightly salted snacks and mild cheeses."],
+                            ["Tozai 'Living Jewel' is a Junmai sake made with high-quality rice and pure water from the Fushimi region. The sake undergoes careful fermentation and is brewed using traditional methods to maintain its freshness and flavor."],
+                            ["Overall, Tozai 'Living Jewel' is a refreshing and well-balanced sake that offers a delightful drinking experience. Its smooth texture, fruity flavors, and versatile pairing options make it a great choice for both sake enthusiasts and newcomers."]
                         ]
                     },
                     {
@@ -241,13 +242,14 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["19% ABV"],
-                            ["Kikusui Funaguchi Aged Red Sake has a deep amber color, reminiscent of aged sake with rich hues and clarity."],
-                            ["The aroma is complex and inviting, with notes of caramelized nuts, dried fruits such as raisins and figs, and a hint of vanilla. There are also subtle undertones of oak and spice, adding depth and complexity."],
-                            ["On the palate, Kikusui Funaguchi Aged Red is full-bodied and velvety, with flavors of caramel, toffee, and dark chocolate. The sake has a rich and creamy texture, balanced by a pleasant sweetness and a touch of umami."],
-                            ["The finish is long and lingering, with layers of caramelized flavors and a gentle warmth, leaving a luxurious and satisfying impression."],
-                            ["Kikusui Funaguchi Aged Red Sake pairs beautifully with rich and savory dishes, including grilled meats, aged cheeses, and dishes with caramelized flavors like teriyaki or barbecue. It also complements desserts such as chocolate truffles or crème brûlée."],
-                            ["Kikusui Funaguchi Aged Red Sake is brewed using traditional methods in Niigata, Japan, known for its premium sake production. It is aged to perfection in small barrels, allowing the flavors to develop and mature over time."],
-                            ["Overall, Kikusui Funaguchi Aged Red Sake is a luxurious and indulgent sake that appeals to aficionados of aged spirits. Its rich flavors, velvety texture, and complex aroma make it a standout choice for special occasions and pairing with gourmet cuisine."]
+                            ["Niigata, Japan"],
+                            ["Golden amber color, slightly cloudy due to its unfiltered nature."],
+                            ["Rich aroma with notes of dried fruit, caramel, and a hint of vanilla."],
+                            ["Full-bodied and robust, featuring flavors of ripe plums, toffee, and a touch of nutmeg."],
+                            ["Long and smooth finish with a lingering sweetness and mild umami character."],
+                            ["Pairs well with rich, savory dishes such as grilled meats, teriyaki, and aged cheeses. It also complements hearty stews and spicy foods."],
+                            ["Kikusui Funaguchi Aged Red is an unpasteurized, unfiltered sake that is aged for one year to enhance its depth and complexity. The sake is packaged in a convenient can, preserving its fresh and bold flavors."],
+                            ["Overall, Kikusui Funaguchi Aged Red is a bold and flavorful sake that offers a unique and rich drinking experience. Its robust character and versatile pairing options make it an excellent choice for those seeking a distinctive sake."]
                         ]
                     },
                     {
@@ -299,30 +301,32 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
-                            ["Jameson Irish Whiskey has a rich, golden amber color, reflecting its smooth and refined nature."],
-                            ["The aroma of Jameson is light and floral, with a delicate balance of spicy and sweet notes. Hints of vanilla, honey, and toasted wood mingle with subtle undertones of sherry and citrus."],
-                            ["On the palate, Jameson is exceptionally smooth and mellow, offering flavors of sweet vanilla, ripe orchard fruits, and a touch of spice. The mouthfeel is creamy and balanced, with gentle hints of toasted wood and nutty undertones."],
-                            ["The finish is clean and lingering, with a sweet, slightly spicy aftertaste that leaves a pleasant warmth. Subtle hints of oak and sherry contribute to a satisfying and refined conclusion."],
-                            ["Jameson Irish Whiskey pairs wonderfully with a variety of foods, including grilled meats, smoked salmon, aged cheeses, and rich desserts like chocolate mousse or apple pie. It also complements traditional Irish dishes such as shepherd's pie and soda bread."],
-                            ["Jameson is crafted using a blend of pot still and fine grain whiskeys, triple-distilled for exceptional smoothness. It is aged in a combination of sherry and bourbon barrels for a minimum of four years, which imparts its distinctive character and complexity."],
-                            ["Jameson Irish Whiskey is renowned for its exceptional smoothness and versatility. Whether enjoyed neat, on the rocks, or in a classic cocktail like an Irish Coffee or a Whiskey Sour, Jameson delivers a consistently delightful and approachable experience."]
+                            ["Midleton, County Cork, Ireland"],
+                            ["Light amber color with golden hues, clear and bright."],
+                            ["Jameson offers a light floral fragrance, peppered with spicy wood and sweet notes."],
+                            ["The palate is smooth and balanced with an elegant mix of vanilla, sweet sherry, and exceptional smoothness."],
+                            ["The finish is smooth and mellow, with lingering notes of vanilla and spice."],
+                            ["Jameson pairs well with a variety of foods, including smoked salmon, grilled meats, and cheeses. It's also great in classic cocktails like the Irish Coffee and the Whiskey Sour."],
+                            ["Jameson is triple-distilled from a blend of pot still and fine grain whiskeys, then aged for a minimum of four years in oak casks. This meticulous process gives it its signature smoothness and complexity."],
+                            ["Overall, Jameson Irish Whiskey is known for its exceptional smoothness, balance, and versatility, making it a favorite among whiskey enthusiasts worldwide."]
                         ]
                     },
                     {
                         "name": ["Jack Daniel's", "(Tennessee Whiskey)"],
-                        "photo": "./images/jack_daniels.png",
+                        "photo": "./images/jack_daniels_tennessee_whiskey.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
-                            ["Jack Daniel's Tennessee Whiskey has a warm amber color, reflecting its rich and smooth character."],
-                            ["The aroma of Jack Daniel's is rich and inviting, with notes of caramel, vanilla, and toasted oak. Hints of banana, honey, and a touch of smoke add complexity to the bouquet."],
-                            ["On the palate, Jack Daniel's is smooth and mellow, with flavors of caramel, vanilla, and toasted oak. The whiskey has a well-balanced sweetness with hints of brown sugar, cinnamon, and a subtle smokiness."],
-                            ["The finish is smooth and lingering, with a balance of sweetness and oak, leaving a warm and satisfying aftertaste."],
-                            ["Jack Daniel's pairs well with a variety of foods, including grilled meats, smoked ribs, barbecue, and sharp cheeses. It is also a versatile whiskey for cocktails, such as the classic Old Fashioned, Whiskey Sour, and Jack and Coke."],
-                            ["Jack Daniel's is made in Lynchburg, Tennessee, using a unique charcoal mellowing process known as the Lincoln County Process. This involves filtering the whiskey through 10 feet of sugar maple charcoal before aging it in handcrafted barrels. This process gives Jack Daniel's its distinctive smoothness and character."],
-                            ["Overall, Jack Daniel's Tennessee Whiskey is a classic and iconic American whiskey known for its smoothness and rich flavor profile. Its versatility and consistent quality make it a favorite among whiskey enthusiasts and a staple in any bar."]
+                            ["Lynchburg, Tennessee, USA"],
+                            ["Deep amber color with a rich and warm appearance."],
+                            ["Jack Daniel's offers a sweet, woody aroma with notes of caramel, vanilla, and toasted oak."],
+                            ["The palate is smooth and well-balanced with flavors of caramel, vanilla, and toasted oak, complemented by hints of fruit and spice."],
+                            ["The finish is warm and lingering, with a smooth, smoky aftertaste and hints of sweet vanilla and oak."],
+                            ["Jack Daniel's pairs well with barbecue, grilled meats, and hearty dishes. It is also excellent in classic cocktails like the Old Fashioned, Whiskey Sour, and Lynchburg Lemonade."],
+                            ["Jack Daniel's is crafted using a unique charcoal mellowing process, where the whiskey is filtered through 10 feet of sugar maple charcoal before aging in handcrafted barrels. This process, known as the Lincoln County Process, gives it its distinctive smoothness and character."],
+                            ["Overall, Jack Daniel's Tennessee Whiskey is renowned for its rich flavor, smooth character, and versatility, making it a favorite among whiskey lovers worldwide."]
                         ]
-                    }
+                    }                    
                 ]
             }
         ]
@@ -336,32 +340,34 @@
                 "brands" : [
                     {
                         "name": ["Bombay Sapphire"],
-                        "photo": "./images/bombay_sapphire.png",
+                        "photo": "./images/bombay_sapphire_gin.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["47% ABV (94 proof)"],
-                            ["Bombay Sapphire has a clear, crystalline appearance, reflecting its purity and quality."],
-                            ["The aroma of Bombay Sapphire is complex and aromatic, with prominent notes of juniper berries, followed by a blend of earthy and floral botanicals. Hints of citrus peel, coriander, angelica, and a touch of spice create a well-balanced and inviting nose."],
-                            ["On the palate, Bombay Sapphire is smooth and refined, with a harmonious blend of botanicals. The juniper is upfront, supported by bright citrus notes, hints of licorice, almond, and a gentle spiciness from grains of paradise and cubeb berries. The mouthfeel is crisp and clean."],
-                            ["The finish is long and dry, with lingering notes of juniper and citrus, accompanied by a subtle spiciness that adds depth and character."],
-                            ["Bombay Sapphire is incredibly versatile and pairs well with a variety of mixers and cocktails. It is perfect for classic gin and tonics, martinis, and refreshing cocktails like the Tom Collins or French 75. It also complements seafood dishes, light salads, and Mediterranean cuisine."],
-                            ["Bombay Sapphire is crafted using a unique vapor infusion process, where the botanicals are suspended above the spirit in perforated copper baskets during distillation. This method ensures that the flavors of the botanicals are delicately infused into the gin, resulting in a balanced and aromatic spirit. The ten botanicals used in Bombay Sapphire are sourced from all over the world, contributing to its distinctive flavor profile."],
-                            ["Overall, Bombay Sapphire is a premium gin known for its exceptional quality and aromatic complexity. Its smooth, balanced flavor and versatility make it a favorite among gin enthusiasts and a staple in any well-stocked bar."]
+                            ["Laverstoke Mill, Hampshire, England"],
+                            ["Clear and bright, typical of a London Dry Gin."],
+                            ["A complex and aromatic bouquet with notes of juniper, citrus, and a blend of exotic botanicals, including coriander, angelica, and orris root."],
+                            ["Bombay Sapphire is smooth and balanced, with flavors of juniper, citrus, and a harmonious blend of 10 botanicals that create a distinctive, refined taste."],
+                            ["The finish is crisp and clean, with lingering botanical notes and a touch of spice."],
+                            ["Pairs well with a variety of mixers in classic cocktails such as the Gin and Tonic, Martini, and Negroni. It also complements seafood dishes, light salads, and appetizers."],
+                            ["Bombay Sapphire is crafted using a unique vapor infusion process, where the 10 botanicals are placed in perforated copper baskets and the alcohol vapors pass through them during distillation, capturing their flavors and aromas."],
+                            ["Overall, Bombay Sapphire is celebrated for its distinctive blend of botanicals, smooth character, and versatility in cocktails, making it a staple in any gin lover's collection."]
                         ]
                     },
                     {
                         "name": ["Tanqueray"],
-                        "photo": "./images/tanqueray.png",
+                        "photo": "./images/tanqueray_gin.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["47.3% ABV (94.6 proof)"],
-                            ["Tanqueray has a clear, crystalline appearance, reflecting its purity and high quality."],
-                            ["The aroma of Tanqueray is vibrant and aromatic, with a prominent note of juniper berries. This is complemented by hints of coriander, angelica root, and licorice, creating a well-balanced and inviting nose."],
-                            ["On the palate, Tanqueray is smooth and crisp, with the juniper upfront, followed by bright citrus notes and a complex blend of botanicals. The flavor is clean and refreshing, with a slight peppery finish."],
-                            ["The finish is dry and lingering, with persistent notes of juniper and a hint of spice, leaving a clean and refreshing aftertaste."],
-                            ["Tanqueray is incredibly versatile and pairs well with a variety of mixers and cocktails. It is perfect for classic gin and tonics, martinis, and refreshing cocktails like the Negroni, Tom Collins, and Gin Fizz. It also pairs well with seafood dishes, light salads, and Mediterranean cuisine."],
-                            ["Tanqueray is crafted using a secret blend of four botanicals: juniper, coriander, angelica root, and licorice. It is distilled four times to remove any impurities and achieve its distinctive, smooth taste. The precise blend and distillation process give Tanqueray its unique flavor profile."],
-                            ["Overall, Tanqueray is a premium gin known for its exceptional quality and balanced flavor. Its smooth, crisp taste and versatility make it a favorite among gin enthusiasts and a staple in any well-stocked bar."]
+                            ["43.1% ABV (86.2 proof)"],
+                            ["Scotland"],
+                            ["Clear and bright, showcasing its purity."],
+                            ["A classic gin aroma with strong juniper notes complemented by hints of coriander, angelica root, and other botanicals."],
+                            ["On the palate, Tanqueray is crisp and refreshing, with a bold juniper flavor balanced by subtle citrus and herbal notes."],
+                            ["The finish is clean and dry, leaving a lingering taste of juniper and a touch of spice."],
+                            ["Pairs excellently with tonic water in a classic Gin and Tonic, as well as in cocktails like the Martini and Negroni. It also complements seafood and spicy dishes."],
+                            ["Tanqueray is produced using a quadruple distillation process, ensuring a high-quality and smooth spirit. The secret recipe includes four key botanicals: juniper, coriander, angelica root, and liquorice."],
+                            ["Overall, Tanqueray is renowned for its classic gin flavor, making it a favorite among gin enthusiasts and a versatile choice for cocktails."]
                         ]
                     },
                     {
@@ -369,18 +375,17 @@
                         "photo": "./images/rivi_gin.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["43% ABV (86 proof)"],
-                            ["Rivi Gin is clear and bright, reflecting its purity and high-quality distillation process."],
-                            ["The aroma of Rivi Gin is fresh and aromatic, with prominent notes of juniper, citrus zest, and a hint of floral botanicals. There are also subtle undertones of spice and herbs, adding complexity to the bouquet."],
-                            ["On the palate, Rivi Gin is smooth and balanced, with a harmonious blend of juniper, citrus, and herbal flavors. The citrus notes provide a bright and refreshing quality, while the juniper and botanicals offer depth and complexity. The mouthfeel is clean and crisp."],
-                            ["The finish is long and refreshing, with lingering notes of citrus and juniper, leaving a pleasant and invigorating aftertaste."],
-                            ["Rivi Gin pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Gin and Tonic, Martini, and Negroni. It also complements dishes like smoked salmon, grilled seafood, and fresh salads, enhancing their flavors with its botanical complexity."],
-                            ["Rivi Gin is crafted using a blend of traditional and modern techniques, incorporating a selection of high-quality botanicals. The gin is distilled in small batches to ensure consistency and quality. The careful balance of botanicals used in the distillation process gives Rivi Gin its distinctive and refined character."],
-                            ["Overall, Rivi Gin is a premium gin known for its smooth and balanced flavor profile. Its fresh and aromatic qualities, combined with a clean and crisp finish, make it a versatile choice for gin enthusiasts and a perfect addition to any cocktail."]
+                            ["40% ABV (80 proof)"],
+                            ["United States"],
+                            ["Clear with a slight sheen, indicating its purity."],
+                            ["The aroma is fresh and vibrant, showcasing juniper along with floral and citrus notes."],
+                            ["On the palate, Rivi is smooth and balanced, featuring flavors of juniper, lemon zest, and a hint of spice."],
+                            ["The finish is clean and refreshing, with lingering notes of botanicals and a touch of sweetness."],
+                            ["Pairs well with tonic water, fresh herbs, and citrus fruits, as well as in cocktails like the Gin Fizz and Tom Collins."],
+                            ["Rivi is crafted using a blend of carefully selected botanicals, distilled in small batches to preserve the integrity of the flavors."],
+                            ["Overall, Rivi is a contemporary gin known for its smoothness and versatility, making it an excellent choice for both sipping and mixing."]
                         ]
                     }
-                    
-                    
                 ]
             }
         ]
@@ -398,13 +403,14 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
-                            ["Grey Goose Vodka is clear and crystalline, reflecting its purity and high quality."],
-                            ["The aroma of Grey Goose Vodka is clean and fresh, with subtle notes of almond and a hint of citrus."],
-                            ["On the palate, Grey Goose Vodka is smooth and silky, with a rounded texture. It features hints of almond, fresh citrus, and a touch of sweetness, providing a balanced and refined flavor profile."],
-                            ["The finish is crisp and clean, with a slight lingering sweetness and a smooth, satisfying aftertaste."],
-                            ["Grey Goose Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Martini, Vodka Tonic, and Cosmopolitan. It also pairs nicely with caviar, smoked salmon, and fresh oysters."],
-                            ["Grey Goose Vodka is crafted in France using the finest French ingredients, including soft winter wheat from Picardy and pure spring water from Gensac-la-Pallue. The vodka undergoes a meticulous distillation process, ensuring its exceptional quality and smoothness."],
-                            ["Overall, Grey Goose Vodka is a premium vodka known for its exceptional quality and refined flavor. Its smooth, clean taste and versatility make it a favorite among vodka enthusiasts and a staple in any well-stocked bar."]
+                            ["France"],
+                            ["Crystal clear with a slight sheen."],
+                            ["The aroma is clean and fresh, with hints of almond and a touch of citrus."],
+                            ["On the palate, Grey Goose is smooth and velvety, featuring flavors of soft grain and a subtle sweetness."],
+                            ["The finish is crisp and clean, leaving a refreshing aftertaste."],
+                            ["Pairs well with a variety of mixers, particularly tonic and soda, as well as in classic cocktails like the Martini."],
+                            ["Grey Goose is made from high-quality French wheat and spring water, distilled using a meticulous process to ensure purity and smoothness."],
+                            ["Overall, Grey Goose is a premium vodka known for its exceptional quality and versatility, making it a favorite choice among vodka enthusiasts."]
                         ]
                     },
                     {
@@ -413,13 +419,14 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
-                            ["Tito's Vodka is clear and pristine, reflecting its purity and high quality."],
-                            ["The aroma of Tito's Vodka is clean and neutral, with subtle hints of corn and a slight sweetness."],
-                            ["On the palate, Tito's Vodka is smooth and mellow, with a creamy mouthfeel. The flavor is clean and crisp, with a touch of sweetness and a hint of grain from the corn."],
-                            ["The finish is clean and smooth, with a slight warmth and no harsh aftertaste, making it very approachable."],
-                            ["Tito's Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Vodka Martini, Vodka Tonic, and Moscow Mule. It also complements dishes like smoked salmon, caviar, and light appetizers."],
-                            ["Tito's Vodka is made from 100% corn and is distilled six times in pot stills, ensuring a high level of purity and quality. The vodka is crafted in small batches in Austin, Texas, following traditional methods to achieve its smooth and clean character."],
-                            ["Overall, Tito's Vodka is a premium vodka known for its exceptional smoothness and clean taste. Its versatility and high quality make it a favorite among vodka enthusiasts and a staple in any well-stocked bar."]
+                            ["Austin, Texas, USA"],
+                            ["Clear and bright with a clean appearance."],
+                            ["The aroma is clean and slightly sweet, with hints of corn and a touch of pepper."],
+                            ["On the palate, Tito's is smooth and slightly creamy, with a well-balanced flavor profile featuring corn sweetness."],
+                            ["The finish is clean and smooth, leaving a pleasant aftertaste."],
+                            ["Pairs well with a variety of mixers, particularly tonic water, soda, and fruit juices, as well as in cocktails like the Moscow Mule and Bloody Mary."],
+                            ["Tito's Handmade Vodka is made from 100% corn and distilled six times in old-fashioned pot stills, ensuring a high-quality product."],
+                            ["Overall, Tito's is a premium vodka known for its smoothness and versatility, making it a popular choice for both sipping and mixing."]
                         ]
                     },
                     {
@@ -428,13 +435,14 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
-                            ["Wheatley Vodka is crystal clear, reflecting its high level of purity and quality."],
-                            ["The aroma of Wheatley Vodka is clean and fresh, with subtle notes of wheat, a hint of citrus, and a touch of sweetness."],
-                            ["On the palate, Wheatley Vodka is exceptionally smooth and crisp, with a light and creamy mouthfeel. The flavor profile is clean and slightly sweet, with delicate notes of wheat and a hint of vanilla."],
-                            ["The finish is smooth and refreshing, with a clean and slightly sweet aftertaste, making it very easy to sip neat or mix in cocktails."],
-                            ["Wheatley Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Vodka Martini, Vodka Soda, and Bloody Mary. It also complements dishes like fresh seafood, light salads, and soft cheeses."],
-                            ["Wheatley Vodka is crafted in small batches using a unique micro-distillation process. It is distilled ten times from a base of wheat and other grains, resulting in a smooth and refined spirit. The vodka is made at Buffalo Trace Distillery in Frankfort, Kentucky, known for its meticulous production methods."],
-                            ["Overall, Wheatley Vodka is a premium vodka celebrated for its smoothness, clean taste, and versatility. Its refined character and exceptional quality make it a preferred choice for both sipping and mixing."]
+                            ["Frankfort, Kentucky, USA"],
+                            ["Crystal clear with a bright and clean appearance."],
+                            ["The aroma is soft and inviting, with subtle hints of vanilla and grain."],
+                            ["On the palate, Wheatley is smooth and balanced, with a creamy mouthfeel and a touch of sweetness."],
+                            ["The finish is clean and refreshing, leaving a light, pleasant aftertaste."],
+                            ["Pairs well with mixers such as tonic water, soda, and fruit juices, and is also great in cocktails like martinis and mojitos."],
+                            ["Wheatley Vodka is crafted from soft winter wheat and distilled 10 times in small batches, ensuring exceptional quality."],
+                            ["Overall, Wheatley Vodka is known for its smoothness and versatility, making it an excellent choice for any vodka lover."]
                         ]
                     },
                     {
@@ -443,16 +451,16 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
-                            ["Belvedere Vodka is crystal clear, reflecting its purity and high-quality distillation process."],
-                            ["The aroma of Belvedere Vodka is clean and fresh, with subtle notes of vanilla, rye, and a hint of citrus. There are also delicate floral and spicy undertones adding complexity."],
-                            ["On the palate, Belvedere Vodka is smooth and velvety, with a rich and creamy mouthfeel. The flavor profile includes notes of vanilla, white pepper, and a touch of almond, balanced by a hint of rye spiciness."],
-                            ["The finish is long and clean, with lingering notes of vanilla and a slight peppery warmth, leaving a refined and satisfying aftertaste."],
-                            ["Belvedere Vodka pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Vodka Martini, Vodka Tonic, and Moscow Mule. It also complements dishes like smoked salmon, caviar, and light appetizers, enhancing their flavors with its smooth and clean profile."],
-                            ["Belvedere Vodka is crafted from 100% Polish Dankowskie Rye, which is known for its high starch content and rich, velvety mouthfeel. The vodka is distilled using a proprietary process that includes four distillations to ensure purity and quality. It is produced at the Polmos Zyrardów distillery in Poland, which has over 100 years of vodka-making tradition."],
-                            ["Overall, Belvedere Vodka is a premium vodka celebrated for its exceptional smoothness and refined flavor profile. Its rich and creamy character, combined with its versatility in cocktails and food pairings, makes it a favorite choice for vodka enthusiasts and a staple in any well-stocked bar."]
+                            ["Poland"],
+                            ["Clear and pure with a slight sheen."],
+                            ["The aroma is clean and crisp, featuring subtle notes of vanilla and white pepper."],
+                            ["On the palate, Belvedere is smooth and velvety, with flavors of creamy vanilla and a hint of spice."],
+                            ["The finish is long and satisfying, with a clean and refreshing aftertaste."],
+                            ["Pairs beautifully with mixers like soda and tonic, and also shines in classic cocktails such as martinis."],
+                            ["Belvedere Vodka is made from 100% Polska rye and undergoes a quadruple distillation process, ensuring high quality and purity."],
+                            ["Overall, Belvedere is celebrated for its smoothness and character, making it a favorite among vodka aficionados."]
                         ]
-                    }
-                    
+                    }                   
                 ]
             }
         ]
@@ -470,13 +478,14 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["40% ABV (80 proof)"],
-                            ["Plantation Dark Rum has a rich, dark amber color with golden highlights, reflecting its depth and complexity."],
-                            ["The aroma of Plantation Dark Rum is rich and inviting, with notes of caramel, molasses, and brown sugar. There are also hints of tropical fruits, vanilla, and a touch of spice."],
-                            ["On the palate, Plantation Dark Rum is full-bodied and smooth, with flavors of caramel, toffee, and dried fruits. The rum has a well-balanced sweetness with hints of spice, vanilla, and oak, providing a complex and satisfying taste experience."],
-                            ["The finish is long and warm, with lingering notes of caramel, spice, and a hint of smokiness, leaving a rich and memorable aftertaste."],
-                            ["Plantation Dark Rum pairs well with a variety of foods, including grilled meats, barbecue, rich desserts, and tropical fruit dishes. It is also excellent in classic rum cocktails such as the Mai Tai, Dark 'n' Stormy, and Rum Punch."],
-                            ["Plantation Dark Rum is crafted using a blend of rums from the Caribbean, primarily from Barbados and Jamaica. The rums are aged in oak barrels, which imparts depth and complexity to the final product. The blending and aging process is overseen by master blenders to ensure consistency and quality."],
-                            ["Overall, Plantation Dark Rum is a premium rum known for its rich flavor profile and smooth, complex character. Its versatility and depth make it a favorite among rum enthusiasts and a perfect addition to any bar."]
+                            ["France (Caribbean sourced)"],
+                            ["Golden amber color with a rich sheen."],
+                            ["Aroma notes of tropical fruits, vanilla, and a hint of spice."],
+                            ["On the palate, Plantation rum is smooth with flavors of caramel, dried fruits, and oak."],
+                            ["The finish is warm and complex, with lingering hints of spice and sweetness."],
+                            ["Pairs well with grilled meats, spicy dishes, and tropical cocktails."],
+                            ["Plantation rum is crafted using traditional methods and aged in both the Caribbean and France, enhancing its flavor profile."],
+                            ["Overall, Plantation rum is known for its rich complexity and balance, making it a standout choice for rum enthusiasts."]
                         ]
                     },
                     {
@@ -485,17 +494,16 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["35% ABV (70 proof)"],
-                            ["Captain Morgan Spiced Rum has a rich, amber color with golden hues, reflecting its spiced and aged character."],
-                            ["The aroma of Captain Morgan Spiced Rum is warm and inviting, with notes of vanilla, caramel, and a blend of spices including cinnamon and clove. There are also subtle hints of oak and brown sugar."],
-                            ["On the palate, Captain Morgan Spiced Rum is smooth and flavorful, with a harmonious blend of vanilla, caramel, and spices. The sweetness is balanced by the warming spice notes, creating a well-rounded and enjoyable drinking experience."],
-                            ["The finish is smooth and slightly sweet, with lingering notes of vanilla and spice, leaving a warm and satisfying aftertaste."],
-                            ["Captain Morgan Spiced Rum pairs well with a variety of mixers and can be enjoyed in classic cocktails such as the Rum and Coke, Spiced Rum Punch, and Dark and Stormy. It also complements dishes like grilled meats, barbecue, and tropical desserts, enhancing their flavors with its spiced character."],
-                            ["Captain Morgan Spiced Rum is crafted using high-quality Caribbean rum, which is aged in oak barrels and infused with a secret blend of spices. The rum undergoes a meticulous production process to ensure consistency and quality, resulting in its distinctive spiced flavor profile."],
-                            ["Overall, Captain Morgan Spiced Rum is a popular and versatile rum known for its smooth and flavorful character. Its blend of spices and sweetness makes it a favorite choice for mixing in cocktails or enjoying on its own, offering a warm and inviting drinking experience."]
+                            ["Puerto Rico"],
+                            ["Amber color with golden hues."],
+                            ["The aroma features a blend of spices, vanilla, and caramel."],
+                            ["On the palate, it is smooth and sweet with notes of vanilla, cinnamon, and a hint of nutmeg."],
+                            ["The finish is warm and lingering, with a touch of spice."],
+                            ["Pairs well with cola, ginger beer, and tropical cocktails."],
+                            ["Captain Morgan is produced using a blend of Caribbean rums and flavored with spices and natural flavors."],
+                            ["Overall, Captain Morgan is a popular spiced rum known for its versatility and enjoyable flavor profile."]
                         ]
                     }
-                    
-                    
                 ]
             }
         ]
@@ -658,64 +666,67 @@
                     {
                         "name": ["Sapporo", "(Lager)"],
                         "photo": "./images/sapporo_draft.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["5% ABV"],
-                            ["Sapporo Draft Beer has a clear, golden color with a bright white, frothy head."],
-                            ["The aroma of Sapporo Draft is light and crisp, with notes of malt, grain, and a subtle hint of hops. There are also delicate floral and herbal undertones."],
-                            ["On the palate, Sapporo Draft is smooth and refreshing, with a balanced malt sweetness and a clean, crisp finish. The light hop bitterness adds a touch of complexity without overpowering the malt character."],
-                            ["The finish is clean and dry, with a slight lingering malt sweetness and a refreshing aftertaste that makes it easy to drink."],
-                            ["Sapporo Draft pairs well with a variety of foods, including sushi, sashimi, grilled meats, seafood, and light salads. Its crisp and clean profile makes it a versatile beer for many different cuisines."],
-                            ["Sapporo Draft is brewed using high-quality ingredients, including malted barley, hops, and rice. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Sapporo is known for its meticulous attention to detail and commitment to brewing excellence."],
-                            ["Overall, Sapporo Draft is a premium lager that offers a refreshing and clean drinking experience. Its balanced flavor profile and versatility make it a popular choice for beer enthusiasts and a great accompaniment to various dishes."]
+                            ["Japan"],
+                            ["Pale golden color with a clear appearance."],
+                            ["The aroma is light and crisp, with hints of malt and floral notes."],
+                            ["On the palate, it is refreshing with a balanced taste of mild hops and sweet malt."],
+                            ["The finish is clean and dry, making it very drinkable."],
+                            ["Pairs well with sushi, grilled meats, and light salads."],
+                            ["Sapporo Lager is brewed using a blend of quality malted barley, hops, and rice."],
+                            ["Overall, Sapporo is a well-known lager celebrated for its crisp, clean taste and refreshing qualities."]
                         ]
-                    },
+                    },                    
                     {
                         "name": ["Asahi", "(Rice Lager)"],
                         "photo": "./images/asahi_draft.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["5% ABV"],
-                            ["Asahi Draft Beer has a clear, pale golden color with a crisp, white frothy head."],
-                            ["The aroma of Asahi Draft is clean and light, with subtle notes of malt, grain, and a hint of floral hops. There are also faint hints of rice and bread."],
-                            ["On the palate, Asahi Draft is light-bodied and refreshing, with a balanced malt sweetness and a crisp, clean taste. The light hop bitterness adds a touch of complexity, complementing the malt character without overpowering it."],
-                            ["The finish is dry and refreshing, with a slight lingering malt sweetness and a crisp, clean aftertaste that makes it very drinkable."],
-                            ["Asahi Draft pairs well with a variety of foods, including sushi, sashimi, tempura, grilled chicken, and light salads. Its crisp and clean profile makes it a versatile beer that complements many different cuisines."],
-                            ["Asahi Draft is brewed using high-quality ingredients, including malted barley, hops, rice, and pure water. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Asahi is known for its attention to detail and commitment to brewing excellence."],
-                            ["Overall, Asahi Draft is a premium beer that offers a refreshing and clean drinking experience. Its balanced flavor profile and versatility make it a popular choice among beer enthusiasts and a great accompaniment to a wide range of dishes."]
+                            ["Japan"],
+                            ["Pale straw color with a bright clarity."],
+                            ["The aroma is light and crisp with subtle hints of rice and malt."],
+                            ["On the palate, it is smooth and refreshing, with a balanced flavor of mild bitterness and sweetness."],
+                            ["The finish is clean and dry, leaving a refreshing aftertaste."],
+                            ["Pairs well with sushi, tempura, and grilled meats."],
+                            ["Asahi is brewed using high-quality ingredients, including premium rice and carefully selected hops."],
+                            ["Overall, Asahi is a popular rice lager known for its refreshing taste and easy drinkability."]
                         ]
                     },
                     {
                         "name": ["Orange Blossom", "(Pilsner)"],
                         "photo": "./images/orange_blossom_pilsner_draft.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
-                            ["5.5% ABV"],
-                            ["Orange Blossom Pilsner Draft has a bright golden color with a light, frothy white head."],
-                            ["The aroma of Orange Blossom Pilsner Draft is inviting and fresh, with prominent notes of honey, orange blossom, and a touch of malt. There are also subtle hints of citrus and floral hops."],
-                            ["On the palate, Orange Blossom Pilsner Draft is light to medium-bodied, with a refreshing and slightly sweet taste. The flavors of honey and orange blossom are well-balanced by a mild malt backbone and a gentle hop bitterness, creating a harmonious and enjoyable drinking experience."],
-                            ["The finish is crisp and clean, with a lingering hint of honey and citrus, leaving a refreshing and slightly sweet aftertaste."],
-                            ["Orange Blossom Pilsner Draft pairs well with a variety of foods, including light appetizers, seafood dishes, salads, and mild cheeses. Its refreshing profile and subtle sweetness make it a versatile beer that complements many different cuisines."],
-                            ["Orange Blossom Pilsner Draft is brewed using high-quality ingredients, including malted barley, hops, orange blossom honey, and pure water. The brewing process involves traditional methods combined with modern techniques to ensure a consistent and high-quality product. The addition of orange blossom honey gives this pilsner its unique and distinctive character."],
-                            ["Overall, Orange Blossom Pilsner Draft is a unique and refreshing beer that offers a delightful blend of honey sweetness and floral notes. Its balanced flavor profile and versatility make it a popular choice for beer enthusiasts looking for something a little different."]
+                            ["4.5% ABV"],
+                            ["USA"],
+                            ["Pale golden color with a slight haze."],
+                            ["Aroma of citrus, floral notes, and light malt."],
+                            ["Crisp and refreshing on the palate with a hint of orange and mild bitterness."],
+                            ["The finish is clean with lingering citrus notes."],
+                            ["Pairs well with salads, light seafood, and summer dishes."],
+                            ["Orange Blossom is brewed with a blend of traditional pilsner malts and fresh orange peel."],
+                            ["Overall, it's a refreshing pilsner that offers a unique citrus twist for easy sipping."]
                         ]
                     },
                     {
                         "name": ["Hazify", "(IPA)"],
                         "photo": "./images/hazify_draft.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["6.5% ABV"],
-                            ["Hazify Draft has a hazy, golden-orange color with a thick, frothy white head."],
-                            ["The aroma of Hazify Draft is vibrant and juicy, with prominent notes of tropical fruits such as pineapple, mango, and citrus. There are also hints of pine and floral hops, adding to its aromatic complexity."],
-                            ["On the palate, Hazify Draft is medium-bodied with a smooth and creamy mouthfeel. The flavors are dominated by juicy tropical fruits, citrus zest, and a touch of sweet malt. The hop bitterness is well-balanced, providing a refreshing contrast to the fruit-forward profile."],
-                            ["The finish is crisp and slightly dry, with lingering notes of tropical fruits and a mild hop bitterness that leaves a pleasant aftertaste."],
-                            ["Hazify Draft pairs well with a variety of foods, including spicy dishes, grilled meats, seafood, and tangy cheeses. Its fruity and hoppy profile makes it a versatile beer that complements bold and flavorful cuisines."],
-                            ["Hazify Draft is brewed using a blend of high-quality malts, hops, and yeast, with a focus on creating a hazy and juicy beer experience. The brewing process involves dry hopping to enhance the aromatic qualities and achieve the desired hazy appearance."],
-                            ["Overall, Hazify Draft is a modern, hazy beer that offers a delightful blend of juicy fruit flavors and balanced hop bitterness. Its unique character and refreshing taste make it a popular choice among craft beer enthusiasts."]
+                            ["USA"],
+                            ["Hazy golden color with a creamy white head."],
+                            ["Aroma bursts with tropical fruit notes, such as mango and pineapple, with hints of citrus."],
+                            ["The palate is smooth and juicy, featuring flavors of stone fruits and citrus, balanced by a soft malt backbone."],
+                            ["The finish is slightly bitter with lingering fruitiness."],
+                            ["Pairs well with spicy dishes, grilled meats, and sharp cheeses."],
+                            ["Hazify is brewed using a blend of hops that emphasizes fruit-forward flavors, creating a hazy and juicy profile."],
+                            ["Overall, it's a refreshing and aromatic IPA that's perfect for hop lovers."]
                         ]
                     }
-                    
                     
                 ]
             },
@@ -723,56 +734,58 @@
                 "category" : "Can",
                 "brands" : [
                     {
-                        "name": ["Sapporo"],
+                        "name": ["Sapporo", "Lager"],
                         "photo": "./images/sapporo_can.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["5% ABV"],
-                            ["Sapporo Can Beer has a clear, pale golden color with a bright white, frothy head."],
-                            ["The aroma of Sapporo Can is light and crisp, featuring notes of malt, grain, and a subtle hint of hops. There are also delicate floral and herbal undertones that add complexity."],
-                            ["On the palate, Sapporo Can is smooth and refreshing, with a balanced malt sweetness and a clean, crisp finish. The light hop bitterness adds a touch of complexity without overpowering the malt character."],
-                            ["The finish is clean and dry, with a slight lingering malt sweetness and a refreshing aftertaste that makes it easy to drink."],
-                            ["Sapporo Can pairs well with a variety of foods, including sushi, sashimi, grilled meats, seafood, and light salads. Its crisp and clean profile makes it a versatile beer for many different cuisines."],
-                            ["Sapporo Can is brewed using high-quality ingredients, including malted barley, hops, and rice. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Sapporo is known for its meticulous attention to detail and commitment to brewing excellence."],
-                            ["Overall, Sapporo Can is a premium lager that offers a refreshing and clean drinking experience. Its balanced flavor profile and versatility make it a popular choice for beer enthusiasts and a great accompaniment to various dishes."]
+                            ["Japan"],
+                            ["Pale golden color with a bright white head."],
+                            ["Crisp and clean aroma with notes of light malt and subtle hop."],
+                            ["The palate is refreshing with a balanced flavor profile of light malt sweetness and mild bitterness."],
+                            ["The finish is clean and dry, making it very drinkable."],
+                            ["Pairs well with sushi, grilled fish, and light salads."],
+                            ["Sapporo is brewed with a careful selection of ingredients, including high-quality rice, and follows traditional Japanese brewing methods."],
+                            ["Overall, Sapporo is a classic lager known for its smoothness and refreshing qualities."]
                         ]
-                    }
+                    }                    
                 ]
             },
             {
                 "category" : "Bottle",
                 "brands" : [
                     {
-                        "name": ["Sapporo Light"],
+                        "name": ["Sapporo Light", "(Lager)"],
                         "photo": "./images/sapporo_light_bottle.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["3.9% ABV"],
-                            ["Sapporo Light Bottle has a pale, golden color with a light, frothy head."],
-                            ["The aroma of Sapporo Light Bottle is mild and crisp, featuring subtle notes of malt, grain, and a hint of floral hops. There are also faint hints of citrus and bread."],
-                            ["On the palate, Sapporo Light Bottle is light-bodied and refreshing, with delicate flavors of malt and a touch of hop bitterness. The beer has a clean, crisp taste with a hint of sweetness and a refreshing finish."],
-                            ["The finish is clean and crisp, with a slight lingering sweetness and a refreshing aftertaste that makes it easy to drink."],
-                            ["Sapporo Light Bottle pairs well with a variety of foods, including sushi, sashimi, grilled chicken, seafood, and light salads. Its light and refreshing profile makes it a versatile beer for many different cuisines."],
-                            ["Sapporo Light Bottle is brewed using high-quality ingredients, including malted barley, hops, and rice. The brewing process combines traditional methods with modern technology to ensure consistency and quality. Sapporo is known for its meticulous attention to detail and commitment to brewing excellence."],
-                            ["Overall, Sapporo Light Bottle is a premium light beer that offers a refreshing and clean drinking experience. Its mild flavor profile and low alcohol content make it a popular choice for those seeking a lighter option without sacrificing quality."]
+                            ["Japan"],
+                            ["Light golden color with a frothy white head."],
+                            ["Aroma is light and crisp with hints of malt and a touch of hops."],
+                            ["On the palate, it's smooth and refreshing with subtle malt sweetness."],
+                            ["The finish is clean and light, making it very drinkable."],
+                            ["Pairs well with lighter fare such as salads, seafood, and chicken dishes."],
+                            ["Sapporo Light is brewed using traditional methods but with fewer calories, maintaining a crisp flavor."],
+                            ["Overall, Sapporo Light is a refreshing lager that's perfect for those looking for a lighter beer option."]
                         ]
                     },
                     {
-                        "name": ["Tsingtao"],
+                        "name": ["Tsingtao", "(Lager)"],
                         "photo": "./images/tsingtao_bottle.png",
-                        "sectionNames": ["ABV", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["4.8% ABV"],
-                            ["Tsingtao Bottle Beer has a clear, pale golden color with a frothy white head that dissipates quickly."],
-                            ["The aroma of Tsingtao Bottle Beer is light and crisp, with notes of malt, grain, and a hint of floral hops. There are also subtle hints of grass and a touch of sweetness."],
-                            ["On the palate, Tsingtao Bottle Beer is light-bodied and refreshing, with a balanced flavor profile. The taste includes mild malt sweetness, a touch of grain, and a slight hop bitterness. It is clean and crisp, making it very easy to drink."],
-                            ["The finish is clean and refreshing, with a slight dryness and lingering notes of malt and hops, leaving a pleasant aftertaste."],
-                            ["Tsingtao Bottle Beer pairs well with a variety of foods, including Asian cuisine, seafood, light salads, and grilled vegetables. Its light and refreshing profile makes it a versatile choice for many dishes."],
-                            ["Tsingtao Bottle Beer is brewed using high-quality barley, hops, yeast, and pure mountain water. The beer follows a traditional brewing process that includes a long, slow fermentation to ensure a clean and refreshing taste. It is brewed in Qingdao, China, and has a history dating back to 1903."],
-                            ["Overall, Tsingtao Bottle Beer is a classic lager known for its light and crisp flavor profile. Its refreshing character and versatile pairing options make it a popular choice for beer enthusiasts around the world."]
+                            ["China"],
+                            ["Pale golden color with a white, frothy head."],
+                            ["Aroma features light malt and subtle floral hops."],
+                            ["The palate is crisp and refreshing with a mild sweetness and balanced bitterness."],
+                            ["The finish is clean, with lingering malt flavors."],
+                            ["Pairs well with Chinese cuisine, seafood, and light appetizers."],
+                            ["Tsingtao is brewed using high-quality malt, hops, and pure water from the Laoshan spring."],
+                            ["Overall, Tsingtao is a well-balanced lager known for its refreshing taste and smooth drinkability."]
                         ]
-                    }                    
-                    
+                    }
                 ]
             }
         ]
