@@ -361,7 +361,7 @@
                 "category" : null,
                 "brands" : [
                     {
-                        "name": ["Jameson", "(Irish Whiskey)"],
+                        "name": ["Jameson", "(Irish)"],
                         "photo": "./images/jameson_irish_whiskey.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
@@ -377,7 +377,7 @@
                         ]
                     },
                     {
-                        "name": ["Jack Daniel's", "(Tennessee Whiskey)"],
+                        "name": ["Jack Daniel's", "(Tennessee)"],
                         "photo": "./images/jack_daniels_tennessee_whiskey.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
@@ -391,7 +391,40 @@
                             ["Jack Daniel's is crafted using a unique charcoal mellowing process, where the whiskey is filtered through 10 feet of sugar maple charcoal before aging in handcrafted barrels. This process, known as the Lincoln County Process, gives it its distinctive smoothness and character."],
                             ["Overall, Jack Daniel's Tennessee Whiskey is renowned for its rich flavor, smooth character, and versatility, making it a favorite among whiskey lovers worldwide."]
                         ]
-                    }                    
+                    },
+                    {
+                        "name": ["Rittenhouse", "(Rye)"],
+                        "photo": "./images/rittenhouse_rye.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["50% ABV (100 proof)"],
+                            ["Bardstown, Kentucky, USA"],
+                            ["Deep amber color with golden highlights."],
+                            ["Rich and robust aroma with notes of dried fruit, cocoa, and spice, complemented by hints of vanilla and oak."],
+                            ["Full-bodied and smooth, with flavors of caramel, toffee, and baking spices. The rye grain adds a peppery spice, balanced by sweetness from the oak aging."],
+                            ["Long and warm finish with lingering notes of spice, caramel, and a touch of vanilla."],
+                            ["Pairs well with hearty dishes such as roasted meats, grilled steaks, and aged cheeses. Also excellent in classic rye whiskey cocktails like the Manhattan, Old Fashioned, and Sazerac."],
+                            ["Rittenhouse Rye is made from a mash bill of at least 51% rye, with the remainder being corn and malted barley. It is aged for a minimum of four years in charred new American oak barrels, which imparts its rich flavor and deep color."],
+                            ["Overall, Rittenhouse Rye is a classic rye whiskey known for its bold flavor, smooth texture, and versatility in cocktails. It is a favorite among whiskey enthusiasts and bartenders for its quality and rich character."]
+                        ]
+                    },
+                    {
+                        "name": ["Woodford Reserve", "(Bourbon)"],
+                        "photo": "./images/whiskey_bourbon_woodford_reserve.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["45.2% ABV (90.4 proof)"],
+                            ["Versailles, Kentucky, USA"],
+                            ["Rich amber color with deep golden highlights."],
+                            ["Aroma of dried fruit, vanilla, and tobacco, with hints of cocoa, caramel, and spice."],
+                            ["Full-bodied and well-balanced, with flavors of toffee, caramel, and dark chocolate. Notes of dried fruit, vanilla, and toasted oak add complexity."],
+                            ["Long and smooth finish with lingering notes of spice, vanilla, and oak."],
+                            ["Pairs well with grilled meats, roasted vegetables, and rich desserts like pecan pie and chocolate cake. Also excellent in classic bourbon cocktails like the Old Fashioned, Manhattan, and Mint Julep."],
+                            ["Woodford Reserve Bourbon is crafted using a high-quality grain recipe of 72% corn, 18% rye, and 10% malted barley. It is distilled in copper pot stills and aged in new charred American oak barrels for at least seven years, which imparts its rich flavor and deep color."],
+                            ["Overall, Woodford Reserve Bourbon is a premium bourbon known for its complex flavor profile, smooth texture, and versatility in cocktails. Its high quality and rich character make it a favorite among bourbon enthusiasts."]
+                        ]
+                    }
+                                           
                 ]
             }
         ]
@@ -525,7 +558,23 @@
                             ["Belvedere Vodka is made from 100% Polska rye and undergoes a quadruple distillation process, ensuring high quality and purity."],
                             ["Overall, Belvedere is celebrated for its smoothness and character, making it a favorite among vodka aficionados."]
                         ]
-                    }                   
+                    },
+                    {
+                        "name": ["Ketel One"],
+                        "photo": "./images/ketel_one.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Schiedam, Netherlands"],
+                            ["Crystal clear appearance."],
+                            ["Clean and crisp aroma with hints of citrus and honey, along with subtle herbal notes."],
+                            ["Smooth and silky mouthfeel with a clean, fresh taste. Flavors of wheat and a touch of sweetness, balanced by a slight peppery finish."],
+                            ["The finish is smooth and long-lasting, with a clean, crisp aftertaste."],
+                            ["Pairs well with a variety of cocktails, including classic martinis, vodka tonics, and Bloody Marys. It also complements light appetizers such as smoked salmon, caviar, and fresh oysters."],
+                            ["Ketel One Vodka is crafted using 100% non-GMO European wheat. It is distilled in copper pot stills and then filtered over loose charcoal, giving it its signature smoothness and purity. The final product is blended with pure water to achieve the desired flavor profile."],
+                            ["Overall, Ketel One Vodka is renowned for its exceptional quality, smoothness, and versatility, making it a favorite among vodka enthusiasts and mixologists alike."]
+                        ]
+                    }                                   
                 ]
             }
         ]
