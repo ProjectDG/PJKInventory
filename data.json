@@ -483,7 +483,58 @@
                             ["Rivi is crafted using a blend of carefully selected botanicals, distilled in small batches to preserve the integrity of the flavors."],
                             ["Overall, Rivi is a contemporary gin known for its smoothness and versatility, making it an excellent choice for both sipping and mixing."]
                         ]
+                    },
+                    {
+                        "name": ["The Botanist"],
+                        "photo": "./images/gin_the_botanist.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["46% ABV (92 proof)"],
+                            ["Islay, Scotland"],
+                            ["Clear with a pure, pristine appearance."],
+                            ["A complex and fragrant aroma with notes of citrus, juniper, and a blend of wild herbs, flowers, and spices."],
+                            ["A rich and mellow palate with a harmonious blend of citrus, juniper, and a delicate balance of herbs and botanicals. It has a smooth and creamy texture with a hint of sweetness."],
+                            ["The finish is long and balanced, with lingering notes of botanicals and a clean, refreshing aftertaste."],
+                            ["Pairs well with tonic water, fresh herbs, and citrus fruits. It is excellent in classic gin cocktails such as the Gin and Tonic, Martini, and Negroni. It also complements seafood dishes, light salads, and artisanal cheeses."],
+                            ["The Botanist is crafted using a slow distillation process in a unique Lomond pot still, known as 'Ugly Betty.' It is infused with 22 hand-foraged botanicals from the Isle of Islay, along with 9 classic gin botanicals. This meticulous production method ensures a complex and balanced gin."],
+                            ["Overall, The Botanist is a premium gin known for its exceptional quality and intricate flavor profile. Its blend of hand-foraged botanicals from Islay creates a unique and versatile spirit, perfect for both sipping and mixing in cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["St. George Terroir"],
+                        "photo": "./images/gin_st_george_terroir.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["45% ABV (90 proof)"],
+                            ["Alameda, California, USA"],
+                            ["Clear, bright appearance, showcasing its purity."],
+                            ["The aroma is intensely aromatic with notes of pine, sage, and bay laurel, reminiscent of a walk through the California coastal forests."],
+                            ["On the palate, St. George Terroir Gin is earthy and herbaceous, with prominent flavors of Douglas fir, California bay laurel, and coastal sage, balanced by a hint of citrus and a touch of spice."],
+                            ["The finish is long and crisp, with lingering notes of pine and fresh herbs, leaving a clean, refreshing aftertaste."],
+                            ["This gin pairs wonderfully in a variety of cocktails, such as a classic Gin and Tonic, Martini, or Negroni. It also complements dishes with bold flavors, including grilled seafood, roasted vegetables, and herb-crusted meats."],
+                            ["St. George Terroir Gin is distilled using a unique blend of botanicals sourced from the California coast, including Douglas fir, bay laurel, sage, and other native plants. The botanicals are carefully selected and distilled to capture the essence of the local landscape, resulting in a gin that is truly reflective of its terroir."],
+                            ["Overall, St. George Terroir Gin is a distinctive and flavorful spirit that embodies the essence of the California coast. Its bold botanical profile and exceptional quality make it a favorite among gin enthusiasts and a versatile choice for a wide range of cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["St. George Botanivore"],
+                        "photo": "./images/gin_st_george_botanivore.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["45% ABV (90 proof)"],
+                            ["Alameda, California, USA"],
+                            ["Clear, bright appearance, showcasing its purity."],
+                            ["The aroma is complex and inviting, with a blend of fresh botanicals including juniper, coriander, and a bouquet of citrus, floral, and herbaceous notes."],
+                            ["On the palate, St. George Botanivore Gin is balanced and harmonious, featuring flavors of juniper, bay laurel, coriander, and lemon peel. Additional layers of angelica root, orris root, and black pepper add depth and complexity."],
+                            ["The finish is clean and refreshing, with lingering notes of citrus and fresh herbs, leaving a crisp and satisfying aftertaste."],
+                            ["This gin pairs well in a variety of classic and contemporary cocktails, such as a Gin and Tonic, Martini, or Tom Collins. It also complements dishes with fresh and vibrant flavors, including seafood, salads, and light appetizers."],
+                            ["St. George Botanivore Gin is crafted using a blend of 19 different botanicals, each chosen for their unique flavor profiles. The botanicals are distilled in small batches to ensure quality and consistency, resulting in a gin that is both complex and approachable."],
+                            ["Overall, St. George Botanivore Gin is a versatile and well-balanced spirit that offers a rich and diverse botanical experience. Its carefully crafted flavor profile and exceptional quality make it a standout choice for gin enthusiasts and cocktail lovers alike."]
+                        ]
                     }
+                    
+                    
+                    
                 ]
             }
         ]
@@ -750,8 +801,38 @@
                 "category" : null,
                 "brands" : [
                     {
-                        "name" : ["Coming Soon"]
+                        "name": ["B&B"],
+                        "photo": "./images/brandy_b&b.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["France"],
+                            ["Deep amber color with golden highlights."],
+                            ["Complex aroma with notes of honey, spices, and a hint of vanilla, along with subtle herbal undertones."],
+                            ["Smooth and rich taste with flavors of caramel, honey, and spice, balanced by a touch of oak and vanilla."],
+                            ["Warm and lingering finish with a blend of sweet and spicy notes, leaving a satisfying aftertaste."],
+                            ["Pairs well with rich desserts like crème brûlée, chocolate mousse, and fruit tarts. It can also be enjoyed neat, over ice, or in classic cocktails such as the B&B (Benedictine and Brandy) and Brandy Alexander."],
+                            ["B&B is crafted by blending fine French brandy with Benedictine, a herbal liqueur made from a secret recipe of 27 plants and spices. The blend is then aged in oak barrels to achieve a harmonious balance of flavors."],
+                            ["Overall, B&B is a sophisticated and well-balanced brandy known for its rich and complex flavor profile. Its unique blend of brandy and Benedictine creates a smooth and versatile spirit, perfect for sipping or mixing in classic cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["Hardy XO Rare", "(Champagne Cognac)"],
+                        "photo": "./images/congnac_hardy_xo_rare.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Cognac, France"],
+                            ["Rich amber color with golden highlights, showcasing its extended aging process."],
+                            ["The aroma is complex and inviting, featuring notes of dried fruits, toasted almonds, vanilla, and a hint of spice."],
+                            ["On the palate, Hardy XO Rare is smooth and full-bodied, with flavors of dried apricots, figs, and a touch of honey. The oak aging imparts notes of vanilla, caramel, and a hint of nutmeg, creating a well-balanced and sophisticated taste."],
+                            ["The finish is long and elegant, with lingering notes of dried fruit, oak, and a touch of spice, leaving a warm and satisfying aftertaste."],
+                            ["This cognac pairs beautifully with fine chocolates, aged cheeses, and rich desserts such as crème brûlée and tarte tatin. It is also excellent for sipping neat or with a splash of water to release its complex flavors."],
+                            ["Hardy XO Rare is crafted from a blend of eaux-de-vie sourced from the top Cognac regions, including Grande Champagne and Petite Champagne. The eaux-de-vie are aged for a minimum of 20 years in French oak barrels, allowing the flavors to develop and mature, resulting in a cognac of exceptional quality and depth."],
+                            ["Overall, Hardy XO Rare is a premium cognac known for its rich and sophisticated flavor profile. Its depth, complexity, and smooth finish make it a favorite among cognac connoisseurs and a perfect choice for special occasions."]
+                        ]
                     }
+                    
                 ]
             }
         ]
@@ -764,8 +845,72 @@
                 "category" : null,
                 "brands" : [
                     {
-                        "name" : ["Coming Soon"]
+                        "name": ["Cointreau"],
+                        "photo": "./images/cordials_cointreau.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Saint-Barthélemy-d'Anjou, France"],
+                            ["Crystal clear appearance."],
+                            ["Bright and fragrant aroma of sweet and bitter orange peels with a hint of spice."],
+                            ["Well-balanced taste with a harmonious blend of sweet and bitter orange flavors, complemented by subtle notes of spice and vanilla."],
+                            ["Crisp and clean finish with lingering notes of orange zest and a touch of sweetness."],
+                            ["Versatile in cocktails, Cointreau is an essential ingredient in classics like the Margarita, Cosmopolitan, Sidecar, and White Lady. It also pairs well with desserts like orange soufflé, chocolate mousse, and fruit tarts."],
+                            ["Cointreau is crafted using a unique blend of sweet and bitter orange peels, which are macerated and distilled to create its distinctive flavor. The production process involves meticulous selection of oranges and a proprietary distillation technique to achieve the perfect balance of flavors."],
+                            ["Overall, Cointreau is a premium orange liqueur known for its exceptional quality, versatility, and distinctive flavor. Its bright citrus profile and smooth finish make it a staple in many classic cocktails and a favorite among mixologists and cocktail enthusiasts."]
+                        ]
+                    },
+                    {
+                        "name": ["Drambuie"],
+                        "photo": "./images/cordials_drambuie.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Scotland"],
+                            ["Rich amber color with golden highlights."],
+                            ["The aroma is a blend of sweet honey, herbs, and spices with a hint of whisky undertones."],
+                            ["On the palate, Drambuie is smooth and velvety, with flavors of heather honey, spices, and a subtle herbal note. The whisky base adds depth and warmth."],
+                            ["The finish is long and warming, with lingering notes of honey and spices, leaving a sweet and slightly spicy aftertaste."],
+                            ["Drambuie can be enjoyed neat, on the rocks, or in cocktails such as the classic Rusty Nail. It pairs well with desserts, especially those with chocolate or caramel, and can be used to enhance the flavor of coffee or tea."],
+                            ["Drambuie is made from a blend of aged Scotch whisky, heather honey, herbs, and spices. The exact recipe is a closely guarded secret, but it is known to include a selection of aromatic herbs and spices that complement the whisky base."],
+                            ["Overall, Drambuie is a premium liqueur known for its rich and complex flavor profile. Its blend of whisky, honey, and spices creates a unique and versatile spirit that is perfect for sipping or mixing in cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["St. George Bruto Americano"],
+                        "photo": "./images/cordials_st_george_bruto_americano.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["24% ABV"],
+                            ["Alameda, California, USA"],
+                            ["Deep amber color with a vibrant reddish hue."],
+                            ["The aroma is bold and complex, with notes of citrus peel, forest floor, cinnamon, and a hint of bitterness from gentian root."],
+                            ["On the palate, Bruto Americano is intensely bitter and herbal, with flavors of citrus, juniper, sage, and eucalyptus, balanced by a touch of sweetness."],
+                            ["The finish is long and lingering, with a pronounced bitterness and a refreshing citrus zest that leaves a clean, dry aftertaste."],
+                            ["St. George Bruto Americano pairs well with a variety of cocktails, especially those that benefit from its bitter and herbal profile, such as Negronis and Americanos. It also complements dishes with strong flavors, like charcuterie, grilled vegetables, and spicy foods."],
+                            ["St. George Bruto Americano is crafted using a combination of natural botanicals, including gentian root, citrus peels, and other herbs and spices. The botanicals are macerated and then distilled to extract their flavors, resulting in a bold and unique bitter liqueur."],
+                            ["Overall, St. George Bruto Americano is a distinctive and versatile bitter liqueur that adds complexity and depth to cocktails. Its bold flavors and herbal bitterness make it a standout choice for those who appreciate a well-crafted aperitif."]
+                        ]
+                    },
+                    {
+                        "name": ["St. George NOLA"],
+                        "photo": "./images/cordials_st_george_nola.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["25% ABV (50 proof)"],
+                            ["Alameda, California, USA"],
+                            ["Deep, rich brown color, reminiscent of freshly brewed coffee."],
+                            ["The aroma is rich and enticing, with prominent notes of freshly roasted coffee beans, dark chocolate, and a hint of vanilla."],
+                            ["On the palate, St. George NOLA Coffee Liqueur is smooth and full-bodied, featuring bold flavors of freshly brewed coffee, cocoa, and a touch of caramel. The sweetness is balanced by a slight bitterness from the coffee, creating a well-rounded profile."],
+                            ["The finish is long and satisfying, with lingering notes of coffee and chocolate, leaving a warm and comforting aftertaste."],
+                            ["This coffee liqueur pairs wonderfully in a variety of cocktails, such as an Espresso Martini, White Russian, or Coffee Old Fashioned. It also complements desserts like tiramisu, chocolate cake, and vanilla ice cream, enhancing their flavors with its rich coffee profile."],
+                            ["St. George NOLA Coffee Liqueur is crafted using Ethiopian Yirgacheffe coffee beans, roasted to perfection to bring out their full flavor. The coffee is cold-brewed and then blended with French chicory root, Madagascar vanilla, and organic cane sugar, resulting in a liqueur that captures the essence of New Orleans-style coffee."],
+                            ["Overall, St. George NOLA Coffee Liqueur is a premium liqueur known for its rich and authentic coffee flavor. Its smooth and balanced profile, combined with its versatility in cocktails and desserts, makes it a favorite choice for coffee lovers and spirits enthusiasts alike."]
+                        ]
                     }
+                    
+                    
+                    
                 ]
             }
         ]
