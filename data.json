@@ -423,7 +423,177 @@
                             ["Woodford Reserve Bourbon is crafted using a high-quality grain recipe of 72% corn, 18% rye, and 10% malted barley. It is distilled in copper pot stills and aged in new charred American oak barrels for at least seven years, which imparts its rich flavor and deep color."],
                             ["Overall, Woodford Reserve Bourbon is a premium bourbon known for its complex flavor profile, smooth texture, and versatility in cocktails. Its high quality and rich character make it a favorite among bourbon enthusiasts."]
                         ]
+                    },
+                    {
+                        "name": ["Crown Royal", "(Canadian)"],
+                        "photo": "./images/whiskey_crown_royal.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Gimli, Manitoba, Canada"],
+                            ["Crown Royal has a golden amber color, reflecting its aging process in oak barrels."],
+                            ["The aroma is a blend of rich, creamy vanilla, with hints of oak, dried fruit, and subtle spices like cinnamon and clove."],
+                            ["On the palate, this whisky is smooth and well-balanced, with flavors of vanilla, caramel, and oak, accompanied by touches of ripe apple and light spices."],
+                            ["The finish is long, warm, and slightly sweet, with lingering notes of vanilla, oak, and a hint of spice."],
+                            ["Crown Royal pairs well with grilled meats, rich desserts like chocolate cake, and is often enjoyed neat, on the rocks, or as a base in classic cocktails such as the Old Fashioned or Whisky Sour."],
+                            ["Crown Royal is produced using a blend of fifty distinct whiskies, all aged in oak barrels. The whisky is then carefully blended to achieve the brand's signature smoothness and flavor profile."],
+                            ["Crown Royal is one of the most iconic Canadian whiskies, known for its smooth and balanced character. It's a versatile spirit, enjoyed by whisky enthusiasts for its rich flavors and ability to enhance a variety of cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["Seagram's 7", "(Blended American)"],
+                        "photo": "./images/whiskey_seagrams_7.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Lawrenceburg, Indiana, USA"],
+                            ["Seagram's 7 has a clear, amber color, indicative of its aging process."],
+                            ["The aroma of Seagram's 7 is light and slightly sweet, with notes of honey, caramel, and a hint of spice."],
+                            ["The palate is smooth and easy-drinking, featuring flavors of light caramel, vanilla, and a touch of oak, with a subtle hint of spice."],
+                            ["The finish is short, clean, and slightly sweet, leaving behind a faint trace of oak and vanilla."],
+                            ["Seagram's 7 pairs well with casual foods like burgers, barbecue, and pizza. It's most famously mixed with 7UP to create the popular \"7 and 7\" cocktail."],
+                            ["Seagram's 7 is a blended American whiskey made from a mix of grain spirits and aged whiskies, designed to be smooth and approachable. It's a popular choice for mixing due to its mild flavor profile."],
+                            ["Seagram's 7 is a classic American whiskey that has been a staple in bars for decades. Known for its smoothness and versatility, it's a go-to for those who enjoy simple, easy-drinking whiskey cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["Takamine Whiskey", "(Koji)"],
+                        "photo": "./images/whiskey_takamine.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Japan"],
+                            ["Takamine Whiskey has a golden amber hue, reflecting its time spent aging in oak barrels."],
+                            ["The aroma is complex and inviting, with notes of honey, floral elements, vanilla, and a hint of tropical fruit, complemented by subtle spices."],
+                            ["On the palate, Takamine Whiskey is smooth and well-rounded, featuring flavors of malt, caramel, and vanilla, with a touch of fruitiness and gentle spice from the oak aging."],
+                            ["The finish is long and warm, with lingering notes of sweet malt, oak, and a subtle spice that leaves a lasting impression."],
+                            ["Takamine Whiskey pairs well with rich dishes like grilled meats, sushi, or savory snacks. It can also be enjoyed neat or in cocktails that highlight its unique flavor profile."],
+                            ["Takamine Whiskey is crafted using a unique process involving koji, a traditional Japanese fermentation method, to convert starches into sugars before distillation. This technique adds depth and complexity to the whiskey, setting it apart from other whiskies."],
+                            ["Takamine Whiskey is a distinctive Japanese whiskey that blends traditional techniques with innovative methods, offering a rich and complex flavor profile. It's a great choice for those looking to explore the unique qualities of Japanese whiskey."]
+                        ]
+                    },
+                    {
+                        "name": ["Canadian Club", "(Blended Canadian)"],
+                        "photo": "./images/whiskey_canadian_club.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Canada"],
+                            ["Canadian Club has a light amber color, with a bright and clear appearance."],
+                            ["The aroma is clean and mild, with notes of vanilla, almond, and a touch of spice, along with a hint of oak."],
+                            ["On the palate, Canadian Club is smooth and approachable, with flavors of caramel, vanilla, and a touch of peppery spice, balanced by a subtle sweetness."],
+                            ["The finish is smooth and gentle, with lingering notes of light oak, vanilla, and a hint of spice."],
+                            ["Canadian Club pairs well with a variety of mixers, making it a versatile choice for cocktails. It can also be enjoyed neat or on the rocks, and complements dishes like roasted meats, barbecued foods, and mild cheeses."],
+                            ["Canadian Club is crafted using a blend of rye, rye malt, barley, and corn. It is aged in oak barrels for a minimum of six years, allowing the flavors to develop and mellow over time, resulting in a smooth and balanced whisky."],
+                            ["Canadian Club is a classic Canadian whisky known for its smoothness and versatility. It's a great option for both casual sipping and mixing in cocktails, appealing to a wide range of whisky enthusiasts."]
+                        ]
+                    },
+                    {
+                        "name": ["Knob Creek", "(Bourbon)"],
+                        "photo": "./images/whiskey_knob_creek.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["50% ABV (100 proof)"],
+                            ["Clermont, Kentucky, USA"],
+                            ["Knob Creek Bourbon has a deep amber color, with a rich and inviting appearance."],
+                            ["The aroma is bold and complex, featuring notes of caramel, vanilla, toasted oak, and a hint of spice, along with subtle undertones of dried fruit and nutmeg."],
+                            ["On the palate, Knob Creek is full-bodied and flavorful, offering rich flavors of caramel, toffee, and roasted nuts, balanced by a strong oak presence and a touch of rye spice."],
+                            ["The finish is long and warming, with lingering notes of oak, caramel, and a touch of smoky char, leaving a satisfying and robust aftertaste."],
+                            ["Knob Creek pairs excellently with grilled steaks, smoked meats, dark chocolate, and aged cheeses. It also shines in classic bourbon cocktails like the Old Fashioned or Manhattan."],
+                            ["Knob Creek is crafted using a traditional bourbon recipe with a high corn content, aged for nine years in charred American oak barrels. This aging process imparts deep flavors and a smooth, yet robust character to the whiskey."],
+                            ["Knob Creek is a well-regarded bourbon known for its rich, full-bodied flavor and strong oak influence. It's a favorite among bourbon enthusiasts and a great choice for those who appreciate a bold and flavorful whiskey."]
+                        ]
+                    },
+                    {
+                        "name": ["Dewar's", "(Blended Scotch)"],
+                        "photo": "./images/whiskey_dewars.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Scotland"],
+                            ["Dewar's Blended Scotch Whisky has a pale gold color, reflecting its light and smooth character."],
+                            ["The aroma is soft and approachable, featuring notes of honey, vanilla, citrus, and a hint of smoke, with subtle undertones of oak and malt."],
+                            ["On the palate, Dewar's is light and smooth, offering flavors of honey, vanilla, and citrus, complemented by a touch of malt and a slight smokiness."],
+                            ["The finish is clean and crisp, with lingering notes of honey and a touch of spice, leaving a gentle warmth."],
+                            ["Dewar's pairs well with light appetizers, grilled chicken, mild cheeses, and smoked salmon. It's also versatile in cocktails, such as a Scotch and soda or a Rob Roy."],
+                            ["Dewar's is a blend of up to 40 different single malt and grain whiskies, aged in oak casks to achieve its balanced and smooth character. The blending process is overseen by the Master Blender to ensure consistency and quality."],
+                            ["Dewar's is known for its smooth and approachable style, making it a popular choice for both whisky newcomers and seasoned Scotch drinkers. Its versatility and balance make it suitable for sipping neat, on the rocks, or in a variety of cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["Glenlivet 12", "(Single Malt Scotch)"],
+                        "photo": "./images/whiskey_glenlivet_12.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Speyside, Scotland"],
+                            ["Glenlivet 12 has a bright, golden color, indicative of its light and refreshing character."],
+                            ["The aroma is fresh and fruity, with notes of citrus, green apples, and pineapple, complemented by a hint of floral and vanilla."],
+                            ["On the palate, Glenlivet 12 is smooth and well-balanced, offering flavors of pear, apple, and citrus, with subtle undertones of honey, vanilla, and oak."],
+                            ["The finish is long, creamy, and slightly sweet, with lingering notes of fruit and a touch of almond."],
+                            ["Glenlivet 12 pairs well with seafood, light salads, grilled chicken, and creamy cheeses. It also complements fruit-based desserts and works well in Scotch cocktails like the classic Penicillin."],
+                            ["Glenlivet 12 is crafted from the pure waters of Josie's Well and carefully selected malted barley. The whisky is aged in a combination of American oak and European oak casks, which impart the signature smoothness and complexity of the Glenlivet style."],
+                            ["Glenlivet 12 is one of the most iconic single malt Scotch whiskies, known for its smooth and approachable character. Its light and fruity profile make it an excellent choice for both newcomers to Scotch and experienced whisky enthusiasts alike."]
+                        ]
+                    },
+                    {
+                        "name": ["Lagavulin 16", "(Single Malt Scotch)"],
+                        "photo": "./images/whiskey_lagavulin_16.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["43% ABV (86 proof)"],
+                            ["Islay, Scotland"],
+                            ["Lagavulin 16 has a deep amber color, reflecting its rich and intense character."],
+                            ["The aroma is powerful and complex, with dominant notes of peat smoke, iodine, and seaweed, complemented by hints of sweet vanilla, dried fruit, and a touch of sherry."],
+                            ["On the palate, Lagavulin 16 is full-bodied and robust, with bold flavors of smoky peat, dark chocolate, and rich, dried fruits. The smoke is balanced by sweeter notes of caramel, vanilla, and a touch of spice."],
+                            ["The finish is long and warming, with a lingering smokiness and a hint of salt, leaving a memorable and satisfying impression."],
+                            ["Lagavulin 16 pairs excellently with strong, bold flavors such as blue cheese, smoked meats, and rich chocolate desserts. It also stands up well on its own as a contemplative sipper."],
+                            ["Lagavulin 16 is made from malted barley that is dried over a peat fire, giving it its signature smoky flavor. The whisky is aged for 16 years in oak casks, allowing it to develop a complex and layered profile that is revered by whisky connoisseurs."],
+                            ["Lagavulin 16 is one of the most iconic Islay single malts, known for its intense smokiness and depth of flavor. It is a favorite among fans of peated whiskies and is often regarded as the benchmark for the Islay style."]
+                        ]
+                    },
+                    {
+                        "name": ["Johnnie Walker Black Label", "(Blended Scotch)"],
+                        "photo": "./images/whiskey_johnnie_walker_black.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Scotland"],
+                            ["Johnnie Walker Black Label has a rich amber color, showcasing its maturity and depth."],
+                            ["The aroma is complex and inviting, with notes of rich vanilla, dried fruit, and a hint of smoke, combined with subtle layers of spices and dark chocolate."],
+                            ["On the palate, Johnnie Walker Black Label offers a smooth and balanced experience, featuring flavors of sweet vanilla, rich malt, and creamy toffee, underpinned by a gentle smokiness and hints of dried fruit."],
+                            ["The finish is long and smoky, with a lingering sweetness and a touch of spice, leaving a refined and satisfying aftertaste."],
+                            ["Johnnie Walker Black Label pairs well with grilled meats, dark chocolate desserts, and aged cheeses. It also works well in classic whisky cocktails such as the Old Fashioned or Manhattan."],
+                            ["Johnnie Walker Black Label is a blend of over 30 single malt and grain whiskies, each aged for a minimum of 12 years. This blend is carefully crafted to achieve a balance of rich flavors and a signature smoky character, making it one of the most recognized and celebrated Scotch whiskies in the world."],
+                            ["Johnnie Walker Black Label is a timeless and versatile whisky, known for its smoothness and balanced complexity. It is a popular choice among whisky enthusiasts and is often enjoyed both neat and in cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["Johnnie Walker Blue Label", "(Blended Scotch)"],
+                        "photo": "./images/whiskey_johnnie_walker_blue.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Scotland"],
+                            ["Johnnie Walker Blue Label is characterized by its deep, golden amber color, reflecting its age and complexity."],
+                            ["The aroma is rich and nuanced, offering notes of honey, dried fruits, dark chocolate, and a hint of smoke. Subtle layers of vanilla, spices, and oak add depth to the bouquet."],
+                            ["On the palate, Johnnie Walker Blue Label is exceptionally smooth and refined, with flavors of rich honey, dark chocolate, and dried fruits. The whisky has a complex profile with hints of smoke, oak, and a touch of spice, creating a luxurious and balanced taste experience."],
+                            ["The finish is long and elegant, with lingering notes of honey, chocolate, and a gentle smokiness, leaving a sophisticated and memorable aftertaste."],
+                            ["Johnnie Walker Blue Label pairs well with fine chocolates, rich desserts, and aged cheeses. It is also excellent enjoyed neat or on the rocks, allowing its complex flavors to be fully appreciated."],
+                            ["Johnnie Walker Blue Label is crafted from some of the rarest and oldest single malt and grain whiskies, blended to perfection. Each whisky in the blend is aged for a minimum of 20 years, and the final product is known for its exceptional smoothness and depth."],
+                            ["Johnnie Walker Blue Label is a prestigious and sought-after whisky, renowned for its unparalleled quality and complexity. It is a favorite among connoisseurs and is often enjoyed on special occasions or as a luxurious treat."]
+                        ]
                     }
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
                                            
                 ]
             }
@@ -531,8 +701,23 @@
                             ["St. George Botanivore Gin is crafted using a blend of 19 different botanicals, each chosen for their unique flavor profiles. The botanicals are distilled in small batches to ensure quality and consistency, resulting in a gin that is both complex and approachable."],
                             ["Overall, St. George Botanivore Gin is a versatile and well-balanced spirit that offers a rich and diverse botanical experience. Its carefully crafted flavor profile and exceptional quality make it a standout choice for gin enthusiasts and cocktail lovers alike."]
                         ]
+                    },
+                    {
+                        "name": ["Hendrick's"],
+                        "photo": "./images/gin_hendricks.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["44% ABV (88 proof)"],
+                            ["Girvan, Scotland"],
+                            ["Hendrick's Gin is crystal clear with a bright, reflective appearance."],
+                            ["The aroma of Hendrick's Gin is distinctive and fresh, featuring notes of cucumber and rose petals, balanced with traditional juniper and hints of citrus."],
+                            ["On the palate, Hendrick's Gin is smooth and complex, with flavors of juniper, cucumber, and rose petals, complemented by subtle notes of coriander, citrus peel, and a hint of spice."],
+                            ["The finish is long and clean, with lingering notes of floral and citrus, leaving a refreshing aftertaste."],
+                            ["Hendrick's Gin pairs well with tonic water, cucumber slices, and a splash of lime. It also complements cocktails like the Gin & Tonic, Martini, and Negroni, where its unique botanical profile can shine."],
+                            ["Hendrick's Gin is crafted in small batches using a unique blend of botanicals, including juniper, coriander, and angelica root, along with cucumber and Bulgarian rose. It is distilled using both a pot still and a Carter-Head still, which imparts a delicate balance of flavors."],
+                            ["Hendrick's Gin is known for its distinctive floral and cucumber notes, making it a refreshing and versatile choice for gin enthusiasts. Its unique production process and botanical blend set it apart from other gins, making it a favorite for both sipping and mixing."]
+                        ]
                     }
-                    
                     
                     
                 ]
@@ -831,7 +1016,24 @@
                             ["Hardy XO Rare is crafted from a blend of eaux-de-vie sourced from the top Cognac regions, including Grande Champagne and Petite Champagne. The eaux-de-vie are aged for a minimum of 20 years in French oak barrels, allowing the flavors to develop and mature, resulting in a cognac of exceptional quality and depth."],
                             ["Overall, Hardy XO Rare is a premium cognac known for its rich and sophisticated flavor profile. Its depth, complexity, and smooth finish make it a favorite among cognac connoisseurs and a perfect choice for special occasions."]
                         ]
+                    },
+                    {
+                        "name": ["Aqua Perfecta", "(Basil Brandy)"],
+                        "photo": "./images/brandy_aqua_perfecta_basil.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["California, USA"],
+                            ["Aqua Perfecta Basil Brandy has a clear, light golden appearance, reflecting its purity and craft distillation process."],
+                            ["The aroma is fresh and herbaceous, with dominant notes of basil intertwined with hints of citrus and floral undertones, complemented by the warmth of brandy."],
+                            ["On the palate, this brandy offers a smooth and vibrant taste, with the sweet and peppery essence of basil leading, followed by subtle flavors of fruit and spice that round out the experience."],
+                            ["The finish is crisp and refreshing, with lingering herbal notes of basil and a touch of warmth from the brandy, leaving a clean and aromatic aftertaste."],
+                            ["Aqua Perfecta Basil Brandy pairs wonderfully with Mediterranean dishes, especially those featuring tomatoes, mozzarella, and fresh herbs. It also works well in cocktails, adding a unique twist to classics like the Basil Brandy Smash or a Basil-infused Sidecar."],
+                            ["This brandy is made by infusing high-quality California brandy with fresh basil. The process involves distilling the brandy with the basil to extract the herb's full flavor profile, creating a balanced and aromatic spirit."],
+                            ["Aqua Perfecta Basil Brandy is a distinctive and innovative spirit that combines the rich tradition of brandy with the fresh, vibrant flavors of basil. Its unique botanical infusion makes it a versatile choice for both sipping and mixing in creative cocktails."]
+                        ]
                     }
+                    
                     
                 ]
             }
