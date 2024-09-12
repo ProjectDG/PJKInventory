@@ -583,6 +583,150 @@
                             ["Johnnie Walker Blue Label is crafted from some of the rarest and oldest single malt and grain whiskies, blended to perfection. Each whisky in the blend is aged for a minimum of 20 years, and the final product is known for its exceptional smoothness and depth."],
                             ["Johnnie Walker Blue Label is a prestigious and sought-after whisky, renowned for its unparalleled quality and complexity. It is a favorite among connoisseurs and is often enjoyed on special occasions or as a luxurious treat."]
                         ]
+                    },
+                    {
+                        "name": ["Seagram's V.O.", "(Canadian Whisky)"],
+                        "photo": "./images/whiskey_seagrams_vo.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Canada"],
+                            ["Seagram's V.O. Canadian Whisky has a light amber-golden hue."],
+                            ["The aroma is smooth and slightly sweet, with hints of toasted grains, vanilla, caramel, and light oak spice."],
+                            ["On the palate, it offers a balanced flavor profile of mild spice, toffee, vanilla, and subtle fruit notes. It has a light to medium body, making it easy to sip."],
+                            ["The finish is clean and slightly dry, with lingering notes of caramel, oak, and a hint of spice."],
+                            ["Seagram's V.O. pairs well with mild cheeses, grilled chicken, and light appetizers. It is also ideal for classic cocktails like a Whisky Sour, Manhattan, or served simply with soda or ginger ale."],
+                            ["Seagram's V.O. is made from a blend of whiskies, aged in oak barrels for at least six years. The whisky follows Canadian tradition, emphasizing smoothness and balance in every bottle."],
+                            ["Seagram's V.O. is known for its smooth and accessible character, making it a popular choice for both whisky enthusiasts and casual drinkers. Its versatility in cocktails and approachable flavor profile have made it a staple in Canadian whisky offerings."]
+                        ]
+                    },
+                    {
+                        "name": ["Bulleit Bourbon", "(Bourbon)"],
+                        "photo": "./images/whiskey_bourbon_bulleit.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["45% ABV (90 proof)"],
+                            ["Kentucky, USA"],
+                            ["Bulleit Bourbon has a deep amber color with a slight orange hue."],
+                            ["The aroma opens with notes of rich oak, vanilla, and caramel, complemented by hints of dried fruit and a touch of spice."],
+                            ["On the palate, Bulleit offers a bold and spicy profile, with flavors of oak, vanilla, and dried apricot, followed by a distinct spiciness from its high rye content."],
+                            ["The finish is long, smooth, and slightly spicy, with lingering notes of oak and a hint of sweetness."],
+                            ["Bulleit Bourbon pairs well with grilled meats, BBQ, and hearty stews. It's also excellent in cocktails such as an Old Fashioned, Manhattan, or simply on the rocks."],
+                            ["Bulleit Bourbon is made with a high rye content in its mash bill, which gives it a spicier flavor compared to other bourbons. It is aged in charred American oak barrels to enhance its flavor and complexity."],
+                            ["Bulleit Bourbon is known for its bold, spicy character and smooth finish. It is a versatile bourbon, enjoyed neat, on the rocks, or in classic whiskey cocktails. Its high rye content makes it unique among bourbons, offering a distinctive taste that stands out."]
+                        ]
+                    },
+                    {
+                        "name": ["Bulleit Rye", "(Rye)"],
+                        "photo": "./images/whiskey_rye_bulleit.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["45% ABV (90 proof)"],
+                            ["Kentucky, USA"],
+                            ["Bulleit Rye has a deep golden amber hue."],
+                            ["The aroma features rich oak, spices, and hints of dried fruit, with notes of vanilla and a touch of fresh herbs."],
+                            ["On the palate, it’s smooth yet bold with flavors of dried fruits, spice, and caramel, alongside subtle undertones of vanilla and pepper."],
+                            ["The finish is crisp, clean, and lingering with a pleasant spiciness and hints of oak."],
+                            ["Pairs well with charcuterie, strong cheeses, smoked meats, and makes a perfect base for classic rye whiskey cocktails like the Manhattan or Sazerac."],
+                            ["Bulleit Rye is crafted from a mash bill that includes 95% rye and 5% malted barley, making it one of the highest-rye content whiskeys available. Aged in new charred oak barrels to enhance its robust character."],
+                            ["Bulleit Rye is celebrated for its high rye content, delivering a spicy, bold profile that appeals to rye whiskey enthusiasts. It’s versatile, whether sipped neat, on the rocks, or in classic cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["Angel's Envy Bourbon", "(Bourbon)"],
+                        "photo": "./images/whiskey_bourbon_angels_envy.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["43.3% ABV (86.6 proof)"],
+                            ["Louisville, Kentucky, USA"],
+                            ["Angel's Envy Bourbon has a warm amber hue with a rich, inviting glow."],
+                            ["The aroma offers rich vanilla, ripe fruit, maple syrup, and subtle toasted oak with hints of chocolate and spice."],
+                            ["The palate is smooth and silky with flavors of vanilla, ripe fruit, maple, and subtle toast. It also presents a balanced spiciness and oak influence, thanks to the port wine barrel finishing."],
+                            ["The finish is long, sweet, and slightly dry with lingering notes of caramel and port wine, leaving a lasting impression of warmth."],
+                            ["Pairs well with grilled meats, smoked cheeses, dark chocolate, or as a component in bourbon-based cocktails like the Old Fashioned or Boulevardier."],
+                            ["Angel's Envy Bourbon is crafted from carefully selected barrels of Kentucky straight bourbon, finished in port wine casks for 3 to 6 months to impart extra depth and sweetness to the final product."],
+                            ["Angel's Envy Bourbon is renowned for its unique finishing process in port wine barrels, giving it a sophisticated balance of sweet and spicy flavors. It's a top choice for bourbon lovers who appreciate a smooth, well-rounded profile with a touch of elegance."]
+                        ]
+                    },
+                    {
+                        "name": ["Angel's Envy Rye", "(Rye)"],
+                        "photo": "./images/whiskey_rye_angels_envy.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["50% ABV (100 proof)"],
+                            ["Louisville, Kentucky, USA"],
+                            ["Angel's Envy Rye has a deep amber color with golden hues."],
+                            ["The aroma is rich with notes of butterscotch, caramelized brown sugar, toasted oak, vanilla, and a hint of black pepper spice."],
+                            ["On the palate, this rye delivers an intense, full-bodied profile with flavors of vanilla, caramel, ripe fruit, and warm spice. It also offers distinct undertones of maple syrup, which come from the rum cask finish."],
+                            ["The finish is long and smooth, with lingering flavors of sweet maple, spice, and oak that gradually fade into a subtle dryness."],
+                            ["Pairs well with spiced desserts, barbecue, sharp cheeses, and classic rye whiskey cocktails like the Manhattan or Sazerac."],
+                            ["Angel's Envy Rye is finished in Caribbean rum casks for up to 18 months, which gives it a rich sweetness and complex depth not typically found in rye whiskey. The rum cask finishing adds layers of maple and tropical fruit flavors to the spicy rye base."],
+                            ["Angel's Envy Rye is a bold and flavorful spirit, offering a unique blend of sweetness and spice. Its innovative rum cask finishing sets it apart from other rye whiskeys, making it a favorite among whiskey enthusiasts looking for something with extra depth and complexity."]
+                        ]
+                    },
+                    {
+                        "name": ["Maker's Mark", "(Bourbon)"],
+                        "photo": "./images/whiskey_bourbon_makers_mark.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["45% ABV (90 proof)"],
+                            ["Loretto, Kentucky, USA"],
+                            ["Maker's Mark has a rich amber color with deep golden highlights."],
+                            ["The aroma is soft and sweet, with hints of vanilla, caramel, oak, and wheat, along with subtle notes of dried fruit and spice."],
+                            ["On the palate, this bourbon offers a smooth, full-bodied experience with flavors of rich vanilla, caramel, and toffee, supported by gentle oak and a hint of fruity sweetness. Its wheat-heavy mashbill gives it a softer, more approachable flavor profile."],
+                            ["The finish is medium in length, with lingering notes of oak, vanilla, and a touch of spice that gradually fade away."],
+                            ["Maker's Mark pairs well with roasted meats, barbecue, dark chocolate, and desserts like pecan pie or crème brûlée. It also works well in classic bourbon cocktails like the Old Fashioned or Manhattan."],
+                            ["Maker's Mark is crafted with a distinctive wheated mashbill, which replaces the traditional rye with red winter wheat, resulting in a smoother, sweeter flavor. It is aged to taste, rather than a specific number of years, ensuring consistency in quality."],
+                            ["Maker's Mark is a smooth and approachable bourbon, known for its rich, sweet flavors and its iconic red wax seal. Its use of wheat in the mashbill sets it apart from other bourbons, making it a popular choice for both sipping and mixing in cocktails."]
+                        ]
+                    },
+                    {
+                        "name": ["Basil Hayden", "(Bourbon)"],
+                        "photo": "./images/whiskey_bourbon_basil_hayden.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Clermont, Kentucky, USA"],
+                            ["Basil Hayden bourbon has a light amber color, with golden hues that reflect its lighter body."],
+                            ["The aroma offers a delicate balance of spice and sweetness, featuring notes of pepper, citrus, and light caramel with hints of vanilla and soft oak."],
+                            ["On the palate, it delivers a smooth and approachable taste with flavors of sweet corn, light toffee, and baking spices, followed by hints of peppermint and dried fruit."],
+                            ["The finish is clean and crisp, with lingering notes of mild spice and light oak, leaving a gentle warmth on the palate."],
+                            ["Basil Hayden pairs well with grilled meats, smoked salmon, sharp cheeses, and dark chocolate. It also works beautifully in lighter whiskey cocktails like a Whiskey Sour or Mint Julep."],
+                            ["Basil Hayden is crafted with a high-rye mashbill, giving it more spice compared to other bourbons. Its relatively lower proof and light-bodied nature make it an easy sipper, appealing to both bourbon enthusiasts and newcomers alike."],
+                            ["Basil Hayden stands out for its smooth, light character, offering a refined and approachable bourbon experience. With its high-rye content, it provides a subtle spice that's perfect for those looking for a less intense, yet flavorful bourbon."]
+                        ]
+                    },
+                    {
+                        "name": ["WhistlePig 10 Year", "(10 Year Small Batch Rye Whiskey)"],
+                        "photo": "./images/whiskey_rye_whistlepig_10_year.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["50% ABV (100 proof)"],
+                            ["Shoreham, Vermont, USA"],
+                            ["WhistlePig 10 Year Rye has a rich golden amber color with deep copper highlights."],
+                            ["The nose is powerful and complex, offering bold aromas of fresh mint, citrus peel, clove, and caramel, with hints of vanilla, oak, and dark spices."],
+                            ["On the palate, it is bold and full-bodied, delivering strong rye spice balanced with flavors of toffee, caramel, orange zest, and a touch of dark chocolate. Notes of pepper, cinnamon, and charred oak round out the experience."],
+                            ["The finish is long, warm, and spicy, with lingering flavors of rye, citrus, and subtle oak, leaving a dry and slightly tannic aftertaste."],
+                            ["WhistlePig 10 Year pairs well with robust dishes such as smoked brisket, grilled lamb chops, or sharp cheeses. It is also excellent when enjoyed neat or in classic rye-based cocktails like an Old Fashioned or Manhattan."],
+                            ["This whiskey is made from 100% rye, aged for 10 years in new American oak barrels, which gives it a distinct spiciness and complexity. The long aging process contributes to the deep flavor profile, while the higher proof intensifies the overall experience."],
+                            ["WhistlePig 10 Year Small Batch Rye is a highly acclaimed rye whiskey, known for its bold flavors, complexity, and versatility. It offers a classic rye experience that appeals to whiskey enthusiasts looking for a well-balanced, mature spirit."]
+                        ]
+                    },
+                    {
+                        "name": ["WhistlePig 12 Year", "(12 Year Old World Rye)"],
+                        "photo": "./images/whiskey_rye_whistlepig_12_year.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["43% ABV (86 proof)"],
+                            ["Shoreham, Vermont, USA"],
+                            ["The WhistlePig 12 Year Old World Rye has a deep golden amber color with a slight copper hue."],
+                            ["The nose reveals a complex mix of dried fruits, floral notes, caramel, and honey, with undertones of vanilla, oak, and spices such as cinnamon and nutmeg."],
+                            ["On the palate, this whiskey offers a rich and silky texture, with flavors of dark fruits like fig and dates, combined with toffee, vanilla, and hints of rye spice. It is well-balanced with elements of oak, honey, and baking spices."],
+                            ["The finish is long and elegant, with lingering sweetness from the fruit and caramel, balanced by subtle spice and oak tannins."],
+                            ["WhistlePig 12 Year Old World Rye pairs beautifully with dishes like roasted pork, grilled duck, or even dark chocolate desserts. It is also excellent for sipping neat or in high-end whiskey cocktails like a Vieux Carré."],
+                            ["This whiskey is crafted from 100% rye and aged for 12 years in a combination of French Sauternes, Madeira, and Port casks, which gives it a unique depth and complexity with a sweet and fruity profile. The innovative aging process is inspired by Old World techniques, blending the best of rye with wine barrel aging traditions."],
+                            ["WhistlePig 12 Year Old World Rye is a sophisticated and nuanced rye whiskey, known for its innovative barrel-aging process and luxurious flavor profile. It's an excellent choice for those who appreciate a well-aged, complex spirit with a balance of sweetness and spice."]
+                        ]
                     }
                     
                     
@@ -593,8 +737,6 @@
                     
                     
                     
-                    
-                                           
                 ]
             }
         ]
@@ -896,7 +1038,24 @@
                             ["Casamigos Blanco Tequila is crafted from 100% Blue Weber agaves, which are harvested by hand in the rich clay soil of the Highlands of Jalisco, Mexico. The agaves are slow-cooked in traditional brick ovens for 72 hours and then fermented for 80 hours. The tequila is distilled twice and filtered for purity, resulting in a high-quality and smooth spirit."],
                             ["Overall, Casamigos Blanco Tequila is a premium tequila known for its exceptional smoothness and rich agave flavor. Its crisp and clean character, along with its versatility in cocktails, makes it a favorite choice for tequila enthusiasts and a standout in any collection."]
                         ]
-                    }                    
+                    },
+                    {
+                        "name": ["Corazón"],
+                        "photo": "./images/tequila_blanco_corazon.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
+                            ["Corazón Blanco Tequila is crystal clear, showcasing its pure and unaged character."],
+                            ["The aroma is fresh and vibrant, with notes of citrus, sweet agave, and a hint of pepper, complemented by subtle floral undertones."],
+                            ["On the palate, Corazón Blanco is clean and crisp, featuring flavors of bright citrus, cooked agave, and a touch of white pepper, with a slight earthiness."],
+                            ["The finish is smooth and refreshing, with lingering hints of citrus and agave, leaving a clean, invigorating aftertaste."],
+                            ["Corazón Blanco is versatile and pairs well with a variety of dishes, including ceviche, grilled shrimp, and fresh salads. It also shines in classic tequila cocktails like Margaritas and Palomas."],
+                            ["Corazón Blanco is crafted from 100% Blue Weber agave, grown in the highlands of Jalisco. The agave is slow-cooked in traditional stone ovens and distilled in small batches, resulting in a tequila that captures the true essence of the agave plant."],
+                            ["Corazón Blanco is a pure and authentic expression of tequila, perfect for those who appreciate the unadulterated flavors of high-quality agave. Its crisp, clean profile makes it an excellent choice for both sipping and mixing."]
+                        ]
+                    }
+                                 
                     
                 ]
             },
@@ -934,7 +1093,24 @@
                             ["Casamigos Reposado Tequila is crafted from 100% Blue Weber agaves, which are harvested by hand in the rich clay soil of the Highlands of Jalisco, Mexico. The agaves are slow-cooked in traditional brick ovens for 72 hours and then fermented for 80 hours. The tequila is aged for seven months in American white oak barrels, which imparts its distinctive flavor and character."],
                             ["Overall, Casamigos Reposado Tequila is a premium tequila known for its rich and complex flavor profile. Its smooth and well-rounded character, combined with its versatility in cocktails and food pairings, makes it a favorite choice for tequila enthusiasts."]
                         ]
+                    },
+                    {
+                        "name": ["Código"],
+                        "photo": "./images/tequila_reposado_codigo.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
+                            ["Código Reposado Tequila has a soft, golden hue, indicative of its time spent aging in oak barrels."],
+                            ["The aroma is rich and inviting, featuring notes of toasted caramel, vanilla, and butterscotch, along with hints of oak and a touch of citrus."],
+                            ["On the palate, Código Reposado is smooth and well-rounded, with flavors of cooked agave, caramel, and vanilla, complemented by undertones of toasted oak, honey, and a subtle spice."],
+                            ["The finish is warm and lingering, with a balance of sweet and spicy notes, leaving a pleasant aftertaste of vanilla and oak."],
+                            ["Código Reposado pairs well with grilled seafood, roasted chicken, or light desserts like flan or vanilla bean ice cream. It can also be enjoyed neat or in a refined cocktail."],
+                            ["Código Reposado is made from 100% Blue Weber agave, which is harvested after seven years of growth. The tequila is aged for six months in French white oak Napa Valley Cabernet barrels, which imparts a unique character and complexity."],
+                            ["Código Reposado is a premium tequila that represents a blend of tradition and innovation. Its smooth, rich flavors and elegant finish make it a standout choice for those who appreciate high-quality tequila."]
+                        ]
                     }
+                    
                                     
                 ]
             },
@@ -972,7 +1148,40 @@
                             ["Casamigos Añejo Tequila is crafted from 100% Blue Weber agaves, which are harvested by hand in the rich clay soil of the Highlands of Jalisco, Mexico. The agaves are slow-cooked in traditional brick ovens for 72 hours and then fermented for 80 hours. The tequila is aged for 14 months in American white oak barrels, which imparts its distinctive flavor and character."],
                             ["Overall, Casamigos Añejo Tequila is a premium tequila known for its rich and complex flavor profile. Its smooth and luxurious character, combined with its versatility in cocktails and food pairings, makes it a favorite choice for tequila enthusiasts."]
                         ]
-                    }                    
+                    },
+                    {
+                        "name": ["Don Julio 1942"],
+                        "photo": "./images/tequila_anejo_don_julio_1942.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
+                            ["Don Julio 1942 Tequila has a rich, amber-gold color, indicating its extended aging process."],
+                            ["The aroma is complex and inviting, with notes of caramel, toffee, vanilla, and oak, complemented by hints of tropical fruit and warm spices."],
+                            ["On the palate, Don Julio 1942 is smooth and silky, featuring flavors of roasted agave, vanilla, and oak. Subtle undertones of chocolate, cinnamon, and a touch of fruitiness add to its complexity, creating a luxurious and refined taste."],
+                            ["The finish is long and elegant, with lingering notes of sweet agave, caramel, and oak, leaving a warm and satisfying aftertaste."],
+                            ["Don Julio 1942 pairs excellently with rich desserts like chocolate, crème brûlée, and flan. It can also be enjoyed neat or in a premium cocktail, allowing its full range of flavors to shine."],
+                            ["Don Julio 1942 is produced using hand-selected blue agave plants, which are slow-roasted and distilled in small batches. The tequila is then aged for a minimum of two and a half years in American white oak barrels, giving it its signature smoothness and depth."],
+                            ["Don Julio 1942 is a premium tequila that embodies the craftsmanship and tradition of one of Mexico's most esteemed tequila producers. Its smooth, complex flavors and elegant presentation make it a favorite among tequila connoisseurs and a popular choice for special occasions."]
+                        ]
+                    },
+                    {
+                        "name": ["Grand Mayan", "(Extra Aged Añejo Tequila)"],
+                        "photo": "./images/tequila_anejo_grand_mayan.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
+                            ["Grand Mayan Extra Aged Añejo has a rich, deep amber color with golden highlights, showcasing its extended aging."],
+                            ["The aroma is complex and inviting, with notes of sweet caramel, vanilla, roasted agave, toasted oak, and subtle hints of dried fruits and spices."],
+                            ["On the palate, this tequila is full-bodied and smooth, offering flavors of rich toffee, dark chocolate, caramelized agave, and a hint of cinnamon. These are balanced with oak and vanilla notes, showcasing its time spent in barrels."],
+                            ["The finish is long and luxurious, with lingering sweetness from caramel and vanilla, balanced by oak and light spice notes."],
+                            ["This tequila pairs well with dark chocolate, caramel desserts, grilled meats, and aged cheeses. It's also ideal for sipping neat or enjoying in premium tequila-based cocktails."],
+                            ["Grand Mayan Extra Aged Añejo is crafted from 100% Blue Weber agave and aged in American and French oak barrels for at least three years, resulting in its smooth, rich, and complex character."],
+                            ["Grand Mayan Extra Aged Añejo is a luxurious and well-aged tequila, known for its smoothness and depth of flavor. It's a perfect choice for those who enjoy a premium sipping tequila with a rich, complex profile."]
+                        ]
+                    }
+                    
                     
                 ]
             }
