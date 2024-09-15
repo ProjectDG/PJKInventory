@@ -1180,6 +1180,58 @@
                             ["Grand Mayan Extra Aged Añejo is crafted from 100% Blue Weber agave and aged in American and French oak barrels for at least three years, resulting in its smooth, rich, and complex character."],
                             ["Grand Mayan Extra Aged Añejo is a luxurious and well-aged tequila, known for its smoothness and depth of flavor. It's a perfect choice for those who enjoy a premium sipping tequila with a rich, complex profile."]
                         ]
+                    },{
+                        "name": ["Milagro"],
+                        "photo": "./images/tequila_anejo_milagro.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 proof)"],
+                            ["Jalisco, Mexico"],
+                            ["Milagro Añejo displays a golden amber hue, indicative of its aging process in oak barrels."],
+                            ["The aroma is rich and complex, with notes of caramel, vanilla, and toasted oak, layered with hints of dried fruit, agave, and subtle spice."],
+                            ["On the palate, this tequila offers a smooth and full-bodied experience, with flavors of rich caramel, butterscotch, toasted oak, agave sweetness, and a hint of dark chocolate. The balance between the oak aging and agave gives it depth."],
+                            ["The finish is long and smooth, with lingering notes of sweet agave, caramel, and a touch of oak, leaving a lasting impression."],
+                            ["Milagro Añejo pairs beautifully with grilled meats, spicy Mexican dishes, rich desserts like flan, or even dark chocolate. It's also ideal for sipping neat or enjoying in premium tequila cocktails."],
+                            ["Milagro Añejo is made from 100% Blue Weber agave, harvested by hand, and aged in American oak barrels for 18 months, giving it a distinctive and well-rounded flavor profile."],
+                            ["Milagro Añejo is a smooth, well-aged tequila that balances rich oak influences with the natural sweetness of agave. Its complexity makes it a popular choice for sipping or mixing in sophisticated cocktails."]
+                        ]
+                    }
+                ]
+            },
+            {
+                "category" : "Mezcal",
+                "brands" : [
+                    {
+                        "name": ["Del Maguey Vida"],
+                        "photo": "./images/mezcal_del_maguey_vida.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["42% ABV (84 Proof)"],
+                            ["Oaxaca, Mexico"],
+                            ["Vida Mezcal has a crystal clear, slightly oily appearance with viscous legs that slowly coat the glass."],
+                            ["The aroma is bright and fruity, with notes of tropical fruit, such as pineapple, along with a hint of honey, roasted agave, and a subtle smokiness."],
+                            ["On the palate, Del Maguey Vida delivers flavors of roasted agave, tropical fruits, banana, and a distinct smokiness. These are accompanied by notes of vanilla and earthy minerals."],
+                            ["The finish is long and rich, with lingering smoky flavors and a touch of sweetness that balances out the mezcal's natural earthiness."],
+                            ["This mezcal pairs well with grilled meats, spicy dishes, seafood, or even used in classic cocktails like Margaritas or Mezcal Negronis for a smoky twist."],
+                            ["Del Maguey Vida is made from 100% organic agave Espadín, traditionally roasted in earthen pits, fermented with natural yeast, and distilled in small copper stills by local Zapotec mezcaleros."],
+                            ["Del Maguey Vida is a high-quality, approachable mezcal with a balance of fruit and smoke. It has become a popular choice for cocktails due to its versatility, yet it remains distinct enough to be enjoyed on its own."]
+                        ]
+                    },
+                    {
+                        "name": ["Ilegal Joven"],
+                        "photo": "./images/mezcal_ilegal_joven.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["40% ABV (80 Proof)"],
+                            ["Oaxaca, Mexico"],
+                            ["Ilegal Joven Mezcal is crystal clear in appearance, typical of an unaged mezcal."],
+                            ["The nose offers an inviting blend of green agave, citrus, and subtle earthy notes, complemented by hints of smoke and sweet, herbal undertones."],
+                            ["On the palate, Ilegal Joven is smooth and balanced, featuring bright flavors of roasted agave, citrus, and fresh herbs, with a gentle smokiness that enhances the natural sweetness of the agave."],
+                            ["The finish is clean, with lingering notes of agave and a light, smoky essence that fades gradually."],
+                            ["Ilegal Joven pairs well with grilled meats, seafood, and traditional Mexican dishes such as tacos al pastor or ceviche. It is also excellent in mezcal cocktails like a Mezcal Margarita or Paloma."],
+                            ["Ilegal Joven is made from 100% Espadín agave, roasted in earthen pits and fermented naturally. It is distilled in small batches by skilled mezcaleros, preserving the artisanal character and quality of the mezcal."],
+                            ["Ilegal Joven is a smooth, approachable mezcal that balances the natural flavors of agave with a mild smokiness. It's a versatile mezcal, perfect for both sipping neat and mixing in cocktails."]
+                        ]
                     }
                     
                     
@@ -1256,7 +1308,7 @@
                 "category" : null,
                 "brands" : [
                     {
-                        "name": ["Cointreau"],
+                        "name": ["Cointreau", "(Orange liqueur)"],
                         "photo": "./images/cordials_cointreau.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
@@ -1304,7 +1356,7 @@
                         ]
                     },
                     {
-                        "name": ["St. George NOLA"],
+                        "name": ["St. George NOLA", "(Coffee Liqueur)"],
                         "photo": "./images/cordials_st_george_nola.png",
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
@@ -1318,7 +1370,108 @@
                             ["St. George NOLA Coffee Liqueur is crafted using Ethiopian Yirgacheffe coffee beans, roasted to perfection to bring out their full flavor. The coffee is cold-brewed and then blended with French chicory root, Madagascar vanilla, and organic cane sugar, resulting in a liqueur that captures the essence of New Orleans-style coffee."],
                             ["Overall, St. George NOLA Coffee Liqueur is a premium liqueur known for its rich and authentic coffee flavor. Its smooth and balanced profile, combined with its versatility in cocktails and desserts, makes it a favorite choice for coffee lovers and spirits enthusiasts alike."]
                         ]
+                    },
+                    {
+                        "name": ["Kahlúa", "(Coffee Liqueur)"],
+                        "photo": "./images/cordials_kahlua.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["20% ABV (40 Proof)"],
+                            ["Veracruz, Mexico"],
+                            ["Kahlúa has a rich, dark brown appearance, resembling freshly brewed coffee with a thick, syrupy consistency."],
+                            ["The aroma is filled with strong notes of coffee and roasted espresso beans, along with hints of caramel, vanilla, and dark chocolate."],
+                            ["On the palate, Kahlúa delivers a smooth, sweet flavor with a strong coffee profile complemented by subtle undertones of vanilla, caramel, and dark chocolate. Its sweetness is balanced by a light bitterness from the coffee."],
+                            ["The finish is smooth and sweet, with lingering coffee flavors and a mild warmth from the alcohol."],
+                            ["Kahlúa pairs well with desserts like tiramisu, chocolate cake, or ice cream. It is also commonly used in cocktails like White Russians, Espresso Martinis, or mixed with milk or coffee."],
+                            ["Kahlúa is made from 100% Arabica coffee beans and sugarcane, with a process that includes roasting the beans, infusing them into the liqueur, and aging the mixture for several months to develop its flavors."],
+                            ["Kahlúa is one of the world's most popular coffee liqueurs, known for its rich coffee flavor and versatility in cocktails and desserts."]
+                        ]
+                    },
+                    {
+                        "name": ["Frangelico", "(Hazelnut Liqueur)"],
+                        "photo": "./images/cordials_frangelico.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["20% ABV (40 Proof)"],
+                            ["Canale d'Agordo, Italy"],
+                            ["Frangelico has a rich amber color, reminiscent of warm caramel and hazelnuts."],
+                            ["The aroma is intense with pronounced notes of toasted hazelnuts, vanilla, and a hint of cocoa. There are also subtle undertones of herbs and spices."],
+                            ["On the palate, Frangelico is smooth and creamy, featuring a sweet and nutty flavor profile with prominent hazelnut notes, complemented by hints of vanilla, cocoa, and a touch of spice."],
+                            ["The finish is long and warm, with lingering nutty and vanilla flavors that provide a satisfying end to the tasting experience."],
+                            ["Frangelico pairs excellently with desserts such as chocolate cake, pastries, or ice cream. It is also a great addition to cocktails like the Hazelnut Espresso Martini or in coffee drinks to add a nutty sweetness."],
+                            ["Frangelico is crafted from toasted hazelnuts, which are blended with other natural flavors and aged in oak barrels to develop its complex flavor profile."],
+                            ["Frangelico is a well-known hazelnut liqueur with a distinctive nutty flavor and versatile use in both cocktails and culinary applications. Its rich and smooth character makes it a favorite among liqueur enthusiasts."]
+                        ]
+                    },
+                    {
+                        "name": ["Domaine de Canton", "(Ginger Liqueur)"],
+                        "photo": "./images/cordials_domaine_de_canton.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["28% ABV (56 Proof)"],
+                            ["France"],
+                            ["Domaine de Canton has a golden hue with a slight amber tint, reflecting its rich ginger base."],
+                            ["The aroma is a vibrant mix of fresh ginger, honey, and a touch of vanilla, along with subtle hints of spices and citrus."],
+                            ["The palate is complex yet smooth, featuring the warmth of fresh ginger, balanced by sweet notes of honey, vanilla, and a touch of orange zest. There are also underlying hints of spice, which give it a rich, luxurious texture."],
+                            ["The finish is long and slightly spicy, with the warmth of ginger lingering on the palate, balanced by a subtle sweetness that leaves a refreshing aftertaste."],
+                            ["Domaine de Canton pairs beautifully with a variety of cocktails, including whiskey, bourbon, and vodka-based drinks. It also works well in Champagne cocktails or can be enjoyed simply over ice."],
+                            ["Domaine de Canton is crafted from handpicked Vietnamese baby ginger, macerated with honey, vanilla, and herbs, then blended with eau de vie and Cognac. The liqueur is aged in small batches, ensuring a balance of flavor and quality."],
+                            ["Domaine de Canton is a premium ginger liqueur with a distinctive blend of fresh ginger, honey, and exotic spices. Its versatility makes it a staple for mixologists and home bartenders alike, adding depth and warmth to any cocktail."]
+                        ]
+                    },
+                    {
+                        "name": ["Giffard Banane Du Bresil", "(Banana Liqueur)"],
+                        "photo": "./images/cordials_giffard_banane_du_bresil.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["25% ABV (50 Proof)"],
+                            ["France"],
+                            ["Giffard Banane Du Bresil has a rich golden color, with a slight amber hue that reflects its fruit-forward nature."],
+                            ["The aroma bursts with ripe banana, complemented by subtle hints of vanilla, tropical fruit, and a touch of caramel."],
+                            ["On the palate, it delivers an intense banana flavor with a creamy texture, balanced by hints of toffee, vanilla, and a light citrus zest. The sweetness is well-rounded, offering depth without being overly sugary."],
+                            ["The finish is smooth and lingering, with the natural banana sweetness gradually fading, leaving a slightly tropical aftertaste with a hint of warmth."],
+                            ["This liqueur pairs well in tropical cocktails, tiki drinks, or classic banana daiquiris. It can also be enjoyed neat, in coffee, or drizzled over desserts like ice cream or pancakes."],
+                            ["Giffard Banane Du Bresil is made using slow maceration of bananas from Brazil, which are carefully selected for their flavor. The natural essence of the fruit is extracted and blended with a touch of Cognac, creating a premium liqueur with authentic banana taste."],
+                            ["Giffard Banane Du Bresil is a versatile and delicious banana liqueur with a natural, fruity flavor. Its balance of sweetness and complexity makes it an excellent ingredient for both cocktails and culinary creations."]
+                        ]
+                    },{
+                        "name": ["Campari", "(Bitter Liqueur)"],
+                        "photo": "./images/cordials_campari.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["24% ABV (48 Proof)"],
+                            ["Italy"],
+                            ["Campari has a vibrant, ruby-red color that is both striking and iconic."],
+                            ["The aroma is characterized by a blend of citrus fruits, herbs, and floral notes with a subtle hint of spice."],
+                            ["On the palate, Campari delivers a bold, bittersweet flavor, dominated by bitter orange peel and herbal complexities. There are also subtle hints of cherry, clove, and cinnamon, with a rich and complex bitterness."],
+                            ["The finish is long, with a strong bitterness that lingers, leaving a dry, slightly herbal aftertaste."],
+                            ["Campari is most commonly used in classic cocktails like the Negroni, Americano, and Boulevardier. It can also be enjoyed on the rocks or with soda water as an aperitif."],
+                            ["Campari is produced through the infusion of bitter herbs, aromatic plants, and fruit in alcohol and water. The exact recipe is a closely guarded secret, known only to a few people in the company, ensuring the distinct flavor remains consistent."],
+                            ["Campari is a quintessential bitter liqueur, known for its bold, complex flavor profile and versatility in cocktail culture. Its unique blend of bitterness and sweetness makes it a beloved choice for those who enjoy sophisticated aperitifs."]
+                        ]
+                    },
+                    {
+                        "name": ["Aperol", "(Bitter Aperitif)"],
+                        "photo": "./images/cordials_aperol.png",
+                        "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
+                        "sectionInfo": [
+                            ["11% ABV (22 Proof)"],
+                            ["Italy"],
+                            ["Aperol has a bright, orange-red hue, which gives it an inviting and vibrant appearance."],
+                            ["Aperol offers a fresh, citrus-forward aroma, with dominant notes of sweet orange, tangerine, and subtle hints of herbs and vanilla."],
+                            ["On the palate, Aperol is light and refreshing, with a balanced sweetness and a mild bitterness. The flavors include zesty orange, rhubarb, and a touch of herbal complexity."],
+                            ["The finish is smooth, slightly bitter, and refreshing, with a lingering note of sweet citrus."],
+                            ["Aperol is famously paired with Prosecco and soda in the classic Aperol Spritz, but it can also be enjoyed with tonic water, or in other cocktails like the Aperol Negroni."],
+                            ["Aperol is made by infusing a blend of herbs, roots, and orange peel in alcohol. Its low ABV and vibrant flavor make it an ideal aperitif, perfect for refreshing cocktails."],
+                            ["Aperol is a bright and lively aperitif, known for its approachable flavor profile and iconic use in spritz cocktails. Its perfect balance of sweetness and bitterness makes it a favorite for casual drinking, especially in summer settings."]
+                        ]
                     }
+                    
+                    
+                    
+                    
+                    
+                    
                     
                     
                     
@@ -1371,7 +1524,7 @@
                         "sectionNames": ["ABV", "Produced In", "Appearance", "Aroma", "Palate", "Finish", "Pairing", "Production", "Summary"],
                         "sectionInfo": [
                             ["4.5% ABV"],
-                            ["USA"],
+                            ["Orlando, FL - USA"],
                             ["Pale golden color with a slight haze."],
                             ["Aroma of citrus, floral notes, and light malt."],
                             ["Crisp and refreshing on the palate with a hint of orange and mild bitterness."],
